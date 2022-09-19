@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2340800
-https://amd03eng.akamaized.net/hls/live/2032281/fazenda14cam1/master.m3u8?hdnts=exp=1663115201~acl=/*~hmac=322c5a112a0070947c0c5eab90a6c74db29acbc78f2a6fc004f239d699123759
