@@ -572,59 +572,7 @@ http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
 https://v2.siar.us/dutatv/live/playlist.m3u8
 
 
-#EXTM3U url-tvg="http://m3u4u.com/epg/p192y791p3s3d1v8ymeg"
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BTV+4K" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="BTV",BTV+4K
-https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/eb23b6661b4b9b51df70e2df164f9e3a.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BTV+1080_highbw" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="BTV",BTV+1080_highbw
-https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/4c5aa2b0d285b7160171fb9212a19982.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BTV+1080_lowbw" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="BTV",BTV+1080_lowbw
-https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/c701403ee3ecfb39a68ceffbf19b682f.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BTV+720" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="BTV",BTV+720
-https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/50d95d6ee4f164251a305e0e2cd5ff68.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BTV+_Bsource_272" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="BTV",BTV+_Bsource_272
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-07-4Qr5sEpfNFG_live.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BTV_Bsource_1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="BTV",BTV_Bsource_1080
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BTV_rksource_1080_highbd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="BTV",BTV_rksource_1080_highbd
-https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8/16a17ce2b88eec8c50584c7694fff42a.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BTV_rksource_1080_lowbd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="BTV",BTV_rksource_1080_lowbd
-https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8/d606fbaf111861e2a45ac59dbaf4ba62.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BTV_Bsource_720_highbd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="BTV",BTV_Bsource_720_highbd
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BTV_Bsource_720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="BTV",BTV_Bsource_720
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-2/Source-USTV-10000-1-slxdlg-BP-HD-4-86X4McEAF4SL_live.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BTV_Bsource_720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="BTV",BTV_Bsource_720
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-04-jZwxsD5tnuA_live.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BTV_rksource_540" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="BTV",BTV_rksource_540
-https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8/60c87d0baf322e6c8282d3cfad74c681.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BTV_Bsource_540" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="BTV",BTV_Bsource_540
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-2/Source-USTV-10000-1-slxdlg-BP-HD-5-gL7znhDRHxT3_live.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BTV_Bsource_360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="BTV",BTV_Bsource_360
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-2/Source-USTV-10000-1-slxdlg-BP-HD-6-l58G2tjrUlU7_live.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BTV_Bsource_360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="BTV",BTV_Bsource_360
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-06-mOzAf8ZuNC8_live.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BTV_rksource_360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="BTV",BTV_rksource_360
-https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8/de399241bc1866a37a42139c793bed73.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BTV_Bsource_272" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="BTV",BTV_Bsource_272
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-2/Source-USTV-10000-1-slxdlg-BP-HD-7-oQALjcQ9CJcP_live.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BTV_rksource_216" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="BTV",BTV_rksource_216
-https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8/243937091ff34f7a6e5bf2cb2d43a544.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rnow_1080" tvg-logo="https://i.imgur.com/VUlZlJe.jpeg" group-title="Rnow",Rnow_1080
-https://reuters-reutersnow-1.plex.wurl.com/manifest/c0c0829237382f291cc46a0368586aa7.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rnow_720" tvg-logo="https://i.imgur.com/VUlZlJe.jpeg" group-title="Rnow",Rnow_720
-https://reuters-reutersnow-1.plex.wurl.com/manifest/beb82be259b22da46051545f5ab288e7.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rnow_576" tvg-logo="https://i.imgur.com/VUlZlJe.jpeg" group-title="Rnow",Rnow_576
-https://reuters-reutersnow-1.plex.wurl.com/manifest/4029345ffa3d18c4902ead1ad2c21f92.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rnow_540" tvg-logo="https://i.imgur.com/VUlZlJe.jpeg" group-title="Rnow",Rnow_540
-https://reuters-reutersnow-1.plex.wurl.com/manifest/183ed11c2584b218aa5488a124fcc0ee.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rnow_480" tvg-logo="https://i.imgur.com/VUlZlJe.jpeg" group-title="Rnow",Rnow_480
-https://reuters-reutersnow-1.plex.wurl.com/manifest/43602ba063133be13daf972e7f5f6803.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rnow_360" tvg-logo="https://i.imgur.com/VUlZlJe.jpeg" group-title="Rnow",Rnow_360
-https://reuters-reutersnow-1.plex.wurl.com/manifest/472f7d457fc5056605e97e54395b3789.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rnow_288" tvg-logo="https://i.imgur.com/VUlZlJe.jpeg" group-title="Rnow",Rnow_288
-https://reuters-reutersnow-1.plex.wurl.com/manifest/5117d16a1020939cecfd51d959032d46.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rnow_180" tvg-logo="https://i.imgur.com/VUlZlJe.jpeg" group-title="Rnow",Rnow_180
-https://reuters-reutersnow-1.plex.wurl.com/manifest/f9345e312da66da14f06b0d122c8023e.m3u8
+
 
 
 #EXTM3U
