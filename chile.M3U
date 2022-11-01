@@ -1,4 +1,4 @@
-#EXTM3U TDTChannels 31/10/2022 23:46 https://t.me/EPG_dobleM
+#EXTM3U TDTChannels 01/11/2022 23:46 https://t.me/EPG_dobleM
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="",Generalistas: La 1
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://ztnr.rtve.es/ztnr/1688877.m3u8
@@ -22,6 +22,8 @@ pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://mdsl
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/03.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="",Informativos: Euronews
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="",Informativos: El País
+pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="",Informativos: Negocios TV
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg" group-title="",Informativos: 7NN Noticias
@@ -92,6 +94,8 @@ pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://hlsl
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@143656/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="",Eventuales: +tdp
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125703/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/revistahola/picture?width=200&height=200" group-title="",Eventuales: ¡HOLA! Play
+pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="",Eventuales: Canal Parlamento
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="",Eventuales: Congreso de los Diputados
@@ -126,8 +130,6 @@ pipe:///usr/bin/env streamlink --stdout --default-stream best --url http://eg128
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="101Malaga.TV" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="",Andalucía: 101TV Málaga
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-#EXTINF:-1 tvg-id="Mijas340TV.TV" tvg-logo="https://graph.facebook.com/MijasComunicacion/picture?width=200&height=200" group-title="",Andalucía: Mijas 3.40 TV
-pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 #EXTINF:-1 tvg-id="OndaCadiz.TV" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="",Andalucía: Onda Cádiz
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://adc-hls.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200" group-title="",Andalucía: M95 Marbella
@@ -189,9 +191,9 @@ pipe:///usr/bin/env streamlink --stdout --default-stream best --url http://cpd.b
 #EXTINF:-1 tvg-id="101Antequera.TV" tvg-logo="https://graph.facebook.com/101tvAntequera/picture?width=200&height=200" group-title="",Andalucía: 101 TV Antequera
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/8TvJerez/picture?width=200&height=200" group-title="",Andalucía: 8TV Jerez
-pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://cloudvideo.servers10.com:8081/8164/index.m3u8
+pipe:///usr/bin/env streamlink --stdout --default-stream best --url http://srv.panelcast.net/8tvjerez/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/SalTelevision/picture?width=200&height=200" group-title="",Andalucía: Sal TV
-pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://cloudvideo.servers10.com:8081/8182/index.m3u8
+pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://cloudvideo.servers10.com:8081/8254/index.m3u8
 #EXTINF:-1 tvg-id="9LaLoma.TV" tvg-logo="https://graph.facebook.com/9laloma/picture?width=200&height=200" group-title="",Andalucía: 9 la Loma TV
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://9laloma.tv/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/VivamovilTV/picture?width=200&height=200" group-title="",Andalucía: Vivamóvil TV
@@ -200,6 +202,8 @@ pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://5d8d
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="101Axarquía.TV" tvg-logo="https://graph.facebook.com/101tvaxarquia/picture?width=200&height=200" group-title="",Andalucía: 101 TV Axarquía
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://limited38.todostreaming.es/live/101tv-webAxarquia.m3u8
+#EXTINF:-1 tvg-id="Mijas340TV.TV" tvg-logo="https://graph.facebook.com/Mijas340TV/picture?width=200&height=200" group-title="",Andalucía: Mijas 3.40 TV
+pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVGranada/picture?width=200&height=200" group-title="",Andalucía: PTV Granada
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://streamer.zapitv.com/PTV-granada/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tele.gilena/picture?width=200&height=200" group-title="",Andalucía: TeleGilena
@@ -246,7 +250,7 @@ pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://ztnr
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://ztnr.rtve.es/ztnr/5468585.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="",Canarias: 24h Canarias
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://ztnr.rtve.es/ztnr/5473142.m3u8
-#EXTINF:-1 tvg-id="MirameTV.TV" tvg-logo="https://graph.facebook.com/MirameTVCanarias/picture?width=200&height=200" group-title="",Canarias: Mírame TV
+#EXTINF:-1 tvg-id="MirameTV.TV" tvg-logo="https://graph.facebook.com/mirametvcom/picture?width=200&height=200" group-title="",Canarias: Mírame TV
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200" group-title="",Canarias: Canal 4 Tenerife
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://5940924978228.streamlock.net/Directo4/Directo4/playlist.m3u8
@@ -326,9 +330,9 @@ pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://dire
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="C33.TV" tvg-logo="https://graph.facebook.com/Canal33/picture?width=200&height=200" group-title="",Cataluña: 33 GEO
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://directes-tv-es.ccma.cat/live-origin/c33-super3-hls/master.m3u8
-#EXTINF:-1 tvg-id="C33.TV" tvg-logo="https://graph.facebook.com/clubsuper3/picture?width=200&height=200" group-title="",Cataluña: Super3 GEO CAT
+#EXTINF:-1 tvg-id="C33.TV" tvg-logo="https://graph.facebook.com/SomSX3/picture?width=200&height=200" group-title="",Cataluña: Super3 GEO CAT
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://directes-tv-cat.ccma.cat/live-origin/super3-hls/master.m3u8
-#EXTINF:-1 tvg-id="C33.TV" tvg-logo="https://graph.facebook.com/clubsuper3/picture?width=200&height=200" group-title="",Cataluña: Super3 GEO
+#EXTINF:-1 tvg-id="C33.TV" tvg-logo="https://graph.facebook.com/SomSX3/picture?width=200&height=200" group-title="",Cataluña: Super3 GEO
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://directes-tv-es.ccma.cat/live-origin/super3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg" group-title="",Cataluña: CCMA Exclusiu 1 GEO CAT
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://directes-tv-cat.ccma.cat/live-origin/oca1-hls/master.m3u8
@@ -358,7 +362,7 @@ pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://dire
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/fibracat/picture?width=200&height=200" group-title="",Cataluña: Fibracat TV
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://cdn02.fibracat.cat/fibracattv/index.m3u8
-#EXTINF:-1 tvg-logo="http://grup4.com/wp-content/uploads/2016/07/2-300x300.png" group-title="",Cataluña: Canal 4 Televisió
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/GRUP4COM/picture?width=200&height=200" group-title="",Cataluña: Canal 4 Televisió
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 #EXTINF:-1 tvg-id="8tvcat.TV" tvg-logo="https://graph.facebook.com/8tvcat/picture?width=200&height=200" group-title="",Cataluña: 8 TV
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/manifest.m3u8
@@ -582,13 +586,14 @@ pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://stre
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://streamingtvi.gestec-video.com/hls/tvixa1.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="",C. Valenciana: Intercomarcal TV
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://streamingtvi.gestec-video.com/hls/tvixa3.m3u8
+#EXTINF:-1 tvg-id="TeleElx.TV" tvg-logo="https://graph.facebook.com/teleelx/picture?width=200&height=200" group-title="",C. Valenciana: TeleElx
+pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://tvdirecto.teleelx.es/stream/teleelx.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/grup.televisio/picture?width=200&height=200" group-title="",C. Valenciana: Ribera TV
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://common01.todostreaming.es/live/ribera-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/8lamarinatelevision/picture?width=200&height=200" group-title="",C. Valenciana: 8 La Marina TV
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 tvg-id="8M.TV" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="",C. Valenciana: La 8 Mediterráneo
-#EXTVLCOPT:http-referrer=https://shares.enetres.net/live.php
-pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8
+pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://streaming004.gestec-video.com/hls/8TV.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/alacantitv/picture?width=200&height=200" group-title="",C. Valenciana: Alacantí TV
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvArtequatre/picture?width=200&height=200" group-title="",C. Valenciana: TV Artequatre
@@ -671,6 +676,8 @@ pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://dire
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://cloud.streamingconnect.tv/hls/televigo/televigo.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TEFTV/picture?width=200&height=200" group-title="",Illes Balears: TEF
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://5940924978228.streamlock.net/EIVISSA_1/EIVISSA_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/GRUP4COM/picture?width=200&height=200" group-title="",Illes Balears: Canal 4 Televisió
+pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 #EXTINF:-1 tvg-id="TVR.TV" tvg-logo="https://graph.facebook.com/tvrtelevision/picture?width=200&height=200" group-title="",La Rioja: TV Rioja
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ParlamentodeLaRioja/picture?width=200&height=200" group-title="",La Rioja: Parlamento de La Rioja
@@ -708,9 +715,11 @@ pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://5940
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://5940924978228.streamlock.net/8161/8161/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/urolatelebista/picture?width=200&height=200" group-title="",País Vasco: Urola TV
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
+#EXTINF:-1 tvg-id="TPA.TV" tvg-logo="https://graph.facebook.com/RTPAoficial/picture?width=200&height=200" group-title="",P. de Asturias: TPA7
+pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://cdnlive.shooowit.net/rtpalive/directo.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="7RM.TV" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title="",R. de Murcia: 7 R. de Murcia
-pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://obelix.nopiensomas.com/stream/abr/first.m3u8
-#EXTINF:-1 tvg-id="PopularMU.TV" tvg-logo="https://pbs.twimg.com/profile_images/1442865104614158343/5MprEWSZ_200x200.jpg" group-title="",R. de Murcia: Popular TV Murcia
+pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://rtv-murcia-live.globalmest.com/stream/abr/first.m3u8
+#EXTINF:-1 tvg-id="PopularMU.TV" tvg-logo="https://pbs.twimg.com/profile_images/1582861401126838272/zErBKiA9_200x200.jpg" group-title="",R. de Murcia: Popular TV Murcia
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://cloud.streamingconnect.tv/hls/populartvrm/populartvrm.m3u8
 #EXTINF:-1 tvg-logo="https://miguel.tuwebtv.es/images/canal_1.png" group-title="",R. de Murcia: Canal 1 Mar Menor Torre Pacheco
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://directo.tuwebtv.es/canal1.m3u8
@@ -763,7 +772,7 @@ pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://ndri
 #EXTINF:-1 tvg-id="SkyN.TV" tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200" group-title="",Int. Europa: Sky News UK EN
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200" group-title="",Int. Europa: GB News UK EN
-pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://live-gbnews-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live/live.m3u8
 #EXTINF:-1 tvg-id="RTP1.TV" tvg-logo="https://graph.facebook.com/rtp1.pt/picture?width=200&height=200" group-title="",Int. Europa: RTP 1 Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
@@ -827,12 +836,8 @@ pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://cont
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" group-title="",Int. América: NASA TV Media
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TheWeatherChannel/picture?width=200&height=200" group-title="",Int. América: The Weather Channel USA
-pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/WeatherNation/picture?width=200&height=200" group-title="",Int. América: WeatherNation USA
-pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://siloh.pluto.tv/lilo/production/WeatherNation/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/EntertainmentTonight/picture?width=200&height=200" group-title="",Int. América: Entertainment Tonight USA EN
-pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RealAmericasVoice/picture?width=200&height=200" group-title="",Int. América: America's Voice USA EN
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/BUZZRtv/picture?width=200&height=200" group-title="",Int. América: BUZZR TV USA EN
@@ -854,7 +859,7 @@ pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://vivo
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/turistikmedia/picture?width=200&height=200" group-title="",Int. América: Turistik TV Mexico
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" group-title="",Int. América: Noticias Caracol Colombia
-pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalCapitalOficial/picture?width=200&height=200" group-title="",Int. América: Canal Capital Colombia
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200" group-title="",Int. América: Teleantioquia Colombia
@@ -885,7 +890,7 @@ pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://cdne
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TelevenTV/picture?width=200&height=200" group-title="",Int. América: Televen TV Venezuela
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/LaTeleTuya/picture?width=200&height=200" group-title="",Int. América: La Tele Tuya Venezuela
-pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://vcp4.myplaytv.com/tlt-2/tlt-28052022/playlist.m3u8
+pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://vcp4.myplaytv.com//tlt-oct22/xtream.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalantigua/picture?width=200&height=200" group-title="",Int. América: Canal Antigua Guatemala
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://streannlivefeedlatino.cachefly.net/feedlatino1/feedlatino1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TeleamazonasEcuador/picture?width=200&height=200" group-title="",Int. América: TeleAmazonas Ecuador
@@ -1171,7 +1176,9 @@ pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://1601
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/redevida/picture?width=200&height=200" group-title="",Religiosos: Redevida Brasil PT
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/3abn.org/picture?width=200&height=200" group-title="",Religiosos: 3ABN USA
+pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/3abn.org/picture?width=200&height=200" group-title="",Religiosos: 3ABN USA EN
-pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/3abn.org/picture?width=200&height=200" group-title="",Religiosos: 3ABN USA EN
-pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/jewishlifetv/picture?width=200&height=200" group-title="",Religiosos: JLTV USA EN
+pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://jlt2104.cdn.nextologies.com/ebaed9568f2b8e61/ffaaf4b7e1d0e7a8/playlist.m3u8
