@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1041-333222171111.png?q=10&v=3&w=275",CATAR 2022 - Resumo Instantâneo 1 - NOAR
+https://streaming-live.rtp.pt/liverepeater/smil:especiaiscam2HD.smil/playlist.m3u8
+#https://streaming-live.rtp.pt/liverepeater/smil:especiaiscam2HD.smil/chunklist_b2596000_slpor.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1042-303122171111.png?q=10&v=3&w=275",CATAR 2022 - VISÃO TÁTICA 1 - NOAR
+https://streaming-live.rtp.pt/liverepeater/smil:especiaiscam3HD.smil/playlist.m3u8
+#https://streaming-live.rtp.pt/liverepeater/smil:especiaiscam3HD.smil/chunklist_b2596000_slpor.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1047-503122171111.png?q=10&v=3&w=275",TREINADOR A
+https://streaming-live.rtp.pt/liverepeater/smil:especiaiscam4HD.smil/playlist.m3u8
+#https://streaming-live.rtp.pt/liverepeater/smil:especiaiscam4HD.smil/chunklist_b1346000_slpor.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1048-153222171111.png?q=10&v=3&w=275",TREINADOR B
+https://streaming-live.rtp.pt/liverepeater/smil:especiaiscam5HD.smil/playlist.m3u8
+#https://streaming-live.rtp.pt/liverepeater/smil:especiaiscam5HD.smil/chunklist_b1346000_slpor.m3u8
