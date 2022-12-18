@@ -21,8 +21,6 @@ jobs:
     - name: Baixando Listas Agrupadas
       run: |         
        wget -r https://raw.githubusercontent.com/guiworldtv/STR-YT/main/LISTASAGRUPADAS.m3u8 -O lista1.M3U
-       wget -r https://raw.githubusercontent.com/davidmuma/log_dobleM/master/TDTChannels.m3u -O argentina.M3U
-       wget -r https://raw.githubusercontent.com/davidmuma/log_dobleM/master/TDTChannels.m3u -O chile.M3U
        
     - name: git add
       run: |
