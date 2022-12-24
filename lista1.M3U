@@ -120,3 +120,33 @@ https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_fre=96000-video=2600000
 https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_por=96000-video=2600000.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://audiovisual.ec.europa.eu/images/livepanel_ebsplus.jpg",EBS+ - European Union's TV information service - ESPANHOL
 https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_spa=96000-video=2600000.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="TV",Eventuales: +24
+https://rtvehlslivestream.akamaized.net/hls/live/2041583/IRTVE01_AKA_HLS_GL0/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="TV",Eventuales: +24
+https://rtvehlslivestream.akamaized.net/hls/live/2041585/IRTVE02_AKA_HLS_GL0/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="TV",Eventuales: +24
+https://rtvehlslivestream.akamaized.net/hls/live/2041586/IRTVE03_AKA_HLS_GL0/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="TV",Eventuales: +24
+https://rtvehlslivestream.akamaized.net/hls/live/2041587/IRTVE04_AKA_HLS_GL0/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="TV",Eventuales: +24
+https://rtvelivestream.akamaized.net/segments/oca/irtve20_main.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="TV",Eventuales: +24
+https://rtvelivestream.akamaized.net/hls/nxrtgolumi/mastdp/stream2.m3u8
+
+#EXTINF:-1 group-title="TV",Eventuales:RTVE
+https://rtvehlslivestream.akamaized.net/hls/live/2041627/IRTVE23_AKA_HLS_GL1/master.m3u8
+#EXTINF:-1 group-title="TV",Eventuales:RTVE
+https://rtvehlslivestream.akamaized.net/hls/live/2041619/IRTVE19_AKA_HLS_GL1/master.m3u8
+#EXTINF:-1 group-title="TV",Eventuales:RTVE
+https://rtvelivestream.akamaized.net/segments/oca/ocasional04_main.m3u8
+#EXTINF:-1 group-title="TV",Eventuales:RTVE
+https://rtvelivestream.akamaized.net/segments/oca/ocasional05_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="TV",Eventuales: Radio 3
+https://ztnr.rtve.es/ztnr/2795617.m3u8
