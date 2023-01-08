@@ -402,49 +402,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
-#EXTINF:0 tvg-id="INews.id" tvg-logo="https://i.imgur.com/sojdCIg.png" group-title="NATIONAL NEWS",iNews
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:0 tvg-id="MNCNews.id" tvg-logo="https://i.imgur.com/gtiuZEf.png" group-title="NATIONAL NEWS",MNC News
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-
-#EXTINF:0 tvg-id="IDXChannel.id" tvg-logo="https://i.imgur.com/TDXhTzO.png" group-title="NATIONAL NEWS",IDX Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
-
-#EXTINF:0 tvg-id="SEAToday.id" tvg-logo="https://i.imgur.com/F5tQVjS.png" group-title="NATIONAL NEWS",SEA Today
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
-
-#EXTINF:0 tvg-id="MetroTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/1280px-LogoMetroTVsince2010.svg.png" group-title="NATIONAL NEWS",Metro TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/axZl9jp.png" group-title="NATIONAL NEWS",BN Channel
-https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8dkqve?f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Metro_Globe_Network.png" group-title="NATIONAL NEWS",Metro Globe Network
-https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zxe2RT2.png" group-title="NATIONAL NEWS",TVRI World
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/aBk06sY.png" group-title="NATIONAL NEWS",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b384000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qdJUDL8.png" group-title="NATIONAL NEWS",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b384000_sleng.m3u8
-
-#EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1197px-KOMPAS_TV_%282017%29.png" group-title="NATIONAL NEWS",Kompas TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://live-kg.jixie.media/live/kompastv_lhd.m3u8
-
-#EXTINF:0 tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/08XEDhX.png" group-title="NATIONAL NEWS",BTV
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 
 
@@ -892,43 +850,25 @@ http://171.110.62.170:8181/tsfile/live/1004_1.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
-#EXTINF:-1 tvg-id="TVEInternacional.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1024px-Logo_TVE-Internacional.svg.png" group-title="SPANISH ENTERTAINMENT",TVE Internacional
-http://rr.dens.tv/h/h158/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/800px-Antena_3_Internacional_logo_2017.svg.png" group-title="SPANISH ENTERTAINMENT",Antena 3 Internacional
-https://mdstrm.com/live-stream-playlist/5cae574f875a4e1adebe5c39.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TQwXlDO.png" group-title="TURKISH ENTERTAINMENT",Euro D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KV1a3Dp.png" group-title="TURKISH ENTERTAINMENT",Euro Star
 http://iptvmasterlink.dyndns.org:8080/EuroStar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OSEdWCp.png" group-title="TURKISH ENTERTAINMENT",Kanal 7 Avrupa
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TZUqAbI.png" group-title="TURKISH ENTERTAINMENT",TGRT EU
-https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nh6c3KS.png" group-title="TURKISH ENTERTAINMENT",TRT Türk
 https://tv-trtturk.live.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RdIJVDs.png" group-title="ARABIC ENTERTAINMENT",Abu Dhabi TV
-https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gkv1Wpj.png" group-title="ARABIC ENTERTAINMENT",Al Emarat
-https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iSI4kky.png" group-title="ARABIC ENTERTAINMENT",Dubai One
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BWVqlXp.png" group-title="ARABIC ENTERTAINMENT",Dubai TV
-https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="ARABIC ENTERTAINMENT",MBC
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xMVcCdM.png" group-title="ARABIC ENTERTAINMENT",MBC 4 
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
@@ -936,14 +876,12 @@ https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fa0e2NH.png" group-title="RUSSIAN ENTERTAINMENT",Пятница! International
 https://sc.id-tv.kz:443/friday_34_35.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/800px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png" group-title="RUSSIAN ENTERTAINMENT",Первый канал Евразия
-http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pnxfmaH.png" group-title="RUSSIAN ENTERTAINMENT",РТР-Планета
 https://radio-live-mg.rtr-vesti.ru/hls/planeta_rtr_asia/playlist_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/800px-REN_TV_logo_2017.svg.png" group-title="RUSSIAN ENTERTAINMENT",Рен ТВ International
-https://sc.id-tv.kz/RenTV_34_35.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E4l3jm1.png" group-title="EUROPEAN ENTERTAINMENT",ERT World
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
