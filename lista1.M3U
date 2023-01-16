@@ -5,6 +5,192 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bi/startimestv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml.gz,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml.gz,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml.gz,https://iptv-org.github.io/epg/guides/ga/startimestv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/lt/cgates.lt.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml.gz"
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PEP2agz.png" group-title="USA",Univisión Este
+https://v-ny.mybtv.net/live/643/1280x720.m3u8
+
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN1 SEM ÁUDIO
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b6)/stream03/streamPlaylist.m3u8|user-agent=Opera
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN2 SEM ÁUDIO
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b7)/stream03/streamPlaylist.m3u8|user-agent=Opera
+
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN3 SEM ÁUDIO
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b8)/stream04/streamPlaylist.m3u8|user-agent=Opera
+
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN4 SEM ÁUDIO
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b9)/stream04/streamPlaylist.m3u8|user-agent=Opera
+
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN1
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/manifest.mpd
+
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN2
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b8)/manifest.mpd
+
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png6",GRANDE FRATELLO COM VPN3
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b9)/manifest.mpd
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO CONFERENCIA 2017
+https://vod05.msf.cdn.mediaset.net/farmunica/2017/09/92507_15e61662ce67d2/dashrcclean/sd_no_mpl.mpd
+
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP1
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/526994_16f87bec868965/dashrcclean/hd_no_mpl.mpd
+
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP2
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/528559_16f9205263389c/dashrcclean/hd_no_mpl.mpd
+
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP3
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/532343_16fabc1781a7d2/dashrcclean/hd_no_mpl.mpd
+
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP4
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/532847_16fb617db05a2f/dashrcclean/hd_no_mpl.mpd
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP5
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/535557_16fc58748897d2/dashrcclean/hd_no_mpl.mpd
+
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP6
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/538893_16fda19c71c89c/dashrcclean/hd_no_mpl.mpd
+
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP7
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/541787_16feadf2ea089c/dashrcclean/hd_no_mpl.mpd
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP8
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/543651_16ffe327b19965/dashrcclean/hd_no_mpl.mpd
+
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP9
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/544162_1700d9b131c7d2/dashrcclean/hd_no_mpl.mpd
+
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP10
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/548042_17031af80a57d2/dashrcclean/hd_no_mpl.mpd
+
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP11
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/550842_170464ae9d77d2/dashrcclean/hd_no_mpl.mpd
+
+
+
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/552643_17055be3b957d2/dashrcclean/hd_no_mpl.mpd
+
+
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/552643_17055be3b957d2/dashrcclean/hd_no_mpl.mpd
+
+
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/552643_17055be3b957d2/dashrcclean/hd_no_mpl.mpd
+
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/556084_1706a5704b289c/dashrcclean/hd_no_mpl.mpd
+
+
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/557323_17079b72ce789c/dashrcclean/hd_no_mpl.mpd
+
+
+
+10 feb 2020 | Canale 5 Decima puntata
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/548042_17031af80a57d2/dashrcclean/hd_no_mpl.mpd
+
+
+Quattordicesima puntata
+24 feb 2020 | Canale 5
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/557323_17079b72ce789c/dashrcclean/hd_no_mpl.mpd
+
+
+Sedicesima puntata
+11 mar 2020 | Canale 5
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/03/567703_170cc2dd2e989c/dashrcclean/hd_no_mpl.mpd
+
+
+Diciassettesima puntata
+18 mar 2020 | Canale 5
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/03/571604_170f02fcc20965/dashrcclean/hd_no_mpl.mpd
+
+
+Diciannovesima puntata
+1 apr 2020 | Canale 5
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/04/579412_1713812c73b7d2/dashrcclean/hd_no_mpl.mpd
+
+
+
+La Finale 8 apr 2020 | Canale 5
+https://vod05.msf.cdn.mediaset.net/farmunica/2020/04/584486_1715f06b3bea2f/dashrcclean/hd_no_mpl.mpd
+
+
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/24/Amazon_sat_logo_2022.svg/200px-Amazon_sat_logo_2022.svg.png",AMAZON SAT
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+
+
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://files.cercomp.ufg.br/weby/up/120/m/ASSINATURA_RADIO_UFG_BRANCA.png",Rádio Universitária UFG
+http://200.137.217.155:8010/radiouniversitaria
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://www.cbngoiania.com.br/img/cbngoiania/logo_cbn_rodape.png",CBN GOIANIA
+http://live.ojc.com.br:8000/e9cd_3/myStream/playlist
+
+
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
+https://rtvehlslivestream.akamaized.net/hls/live/2041583/IRTVE01_AKA_HLS_GL0/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
+https://rtvehlslivestream.akamaized.net/hls/live/2041585/IRTVE02_AKA_HLS_GL0/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
+https://rtvehlslivestream.akamaized.net/hls/live/2041586/IRTVE03_AKA_HLS_GL0/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
+https://rtvehlslivestream.akamaized.net/hls/live/2041587/IRTVE04_AKA_HLS_GL0/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
+https://rtvehlslivestream.akamaized.net/hls/live/2041611/IRTVE16_AKA_HLS_GL0/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
+https://ztnr.rtve.es/ztnr/6108696.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
+https://ztnr.rtve.es/ztnr/6108703.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
+https://ztnr.rtve.es/ztnr/6108704.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
+https://ztnr.rtve.es/ztnr/6108706.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
+https://ztnr.rtve.es/ztnr/6108720.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
+https://ztnr.rtve.es/ztnr/6108721.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="",Eventuales: +tdp
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125699/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="",Eventuales: +tdp
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125702/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="",Eventuales: +tdp
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125698/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="",Eventuales: +tdp
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@143656/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="",Eventuales: +tdp
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125703/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="",Eventuales: Canal Parlamento
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="",Eventuales: Congreso de los Diputados
+https://congresodirecto-f.akamaihd.net/i/congreso1_1@71529/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="",Eventuales: Congreso de los Diputados
+https://congresodirecto-f.akamaihd.net/i/congreso2_1@72033/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="",Eventuales: Congreso de los Diputados
+https://congresodirecto-f.akamaihd.net/i/congreso3_1@72034/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="",Eventuales: Congreso de los Diputados
+https://congresodirecto-f.akamaihd.net/i/congreso4_1@53937/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="",Eventuales: Congreso de los Diputados
+https://congresodirecto-f.akamaihd.net/i/congreso5_1@51923/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/PalaciodelaMoncloa/picture?width=200&height=200" group-title="",Eventuales: La Moncloa (Presidente)
+https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=y3-IxQxNk4XjlfJDtBjIh7tfO628d9gbkd010uKioms&output=ginkIjHWeyffMLRZNMVovht3RnH_feedjshkMm7sr14&channel=D1tXjvcs_5NeEEMxP6mrmSggh3Uyu3kE5jyqGlgCZ4A&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/PalaciodelaMoncloa/picture?width=200&height=200" group-title="",Eventuales: La Moncloa (Ministros)
+https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=o0RCNMRf-BPdBiuDSId7vbxANj4YFVpbXkxNkFKm35s&output=z3mwepuDBMOnja63VsgAcCGwmmOPD-I5yFYOiyCvBcc&channel=FBDoImE2NP77XpNbdycjnwCkI0YjxLeqTKr8QGV9bAI&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="",Eventuales: Radio Nacional
+https://ztnr.rtve.es/ztnr/1938076.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Metro_Globe_Network.png" group-title="NATIONAL NEWS",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
 
@@ -5153,56 +5339,7 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="",Infantiles: Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
-https://rtvehlslivestream.akamaized.net/hls/live/2041583/IRTVE01_AKA_HLS_GL0/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
-https://rtvehlslivestream.akamaized.net/hls/live/2041585/IRTVE02_AKA_HLS_GL0/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
-https://rtvehlslivestream.akamaized.net/hls/live/2041586/IRTVE03_AKA_HLS_GL0/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
-https://rtvehlslivestream.akamaized.net/hls/live/2041587/IRTVE04_AKA_HLS_GL0/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
-https://rtvehlslivestream.akamaized.net/hls/live/2041611/IRTVE16_AKA_HLS_GL0/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
-https://ztnr.rtve.es/ztnr/6108696.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
-https://ztnr.rtve.es/ztnr/6108703.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
-https://ztnr.rtve.es/ztnr/6108704.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
-https://ztnr.rtve.es/ztnr/6108706.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
-https://ztnr.rtve.es/ztnr/6108720.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
-https://ztnr.rtve.es/ztnr/6108721.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="",Eventuales: +tdp
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125699/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="",Eventuales: +tdp
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125702/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="",Eventuales: +tdp
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125698/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="",Eventuales: +tdp
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@143656/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="",Eventuales: +tdp
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125703/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="",Eventuales: Canal Parlamento
-https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="",Eventuales: Congreso de los Diputados
-https://congresodirecto-f.akamaihd.net/i/congreso1_1@71529/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="",Eventuales: Congreso de los Diputados
-https://congresodirecto-f.akamaihd.net/i/congreso2_1@72033/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="",Eventuales: Congreso de los Diputados
-https://congresodirecto-f.akamaihd.net/i/congreso3_1@72034/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="",Eventuales: Congreso de los Diputados
-https://congresodirecto-f.akamaihd.net/i/congreso4_1@53937/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="",Eventuales: Congreso de los Diputados
-https://congresodirecto-f.akamaihd.net/i/congreso5_1@51923/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/PalaciodelaMoncloa/picture?width=200&height=200" group-title="",Eventuales: La Moncloa (Presidente)
-https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=y3-IxQxNk4XjlfJDtBjIh7tfO628d9gbkd010uKioms&output=ginkIjHWeyffMLRZNMVovht3RnH_feedjshkMm7sr14&channel=D1tXjvcs_5NeEEMxP6mrmSggh3Uyu3kE5jyqGlgCZ4A&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/PalaciodelaMoncloa/picture?width=200&height=200" group-title="",Eventuales: La Moncloa (Ministros)
-https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=o0RCNMRf-BPdBiuDSId7vbxANj4YFVpbXkxNkFKm35s&output=z3mwepuDBMOnja63VsgAcCGwmmOPD-I5yFYOiyCvBcc&channel=FBDoImE2NP77XpNbdycjnwCkI0YjxLeqTKr8QGV9bAI&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="",Eventuales: Radio Nacional
-https://ztnr.rtve.es/ztnr/1938076.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="",Eventuales: Radio 3
 https://ztnr.rtve.es/ztnr/2795617.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/del40al1/picture?width=200&height=200" group-title="",Eventuales: Del 40 al 1
@@ -6845,139 +6982,7 @@ https://v-ny.mybtv.net/live/659/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1920px-The_CW.svg.png" group-title="USA",The CW East
 https://v-ny.mybtv.net/live/562/1280x720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PEP2agz.png" group-title="USA",Univisión Este
-https://v-ny.mybtv.net/live/643/1280x720.m3u8
 
-
-#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN1 SEM ÁUDIO
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b6)/stream03/streamPlaylist.m3u8|user-agent=Opera
-
-#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN2 SEM ÁUDIO
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b7)/stream03/streamPlaylist.m3u8|user-agent=Opera
-
-
-#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN3 SEM ÁUDIO
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b8)/stream04/streamPlaylist.m3u8|user-agent=Opera
-
-
-#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN4 SEM ÁUDIO
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b9)/stream04/streamPlaylist.m3u8|user-agent=Opera
-
-
-#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN1
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/manifest.mpd
-
-
-#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN2
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b8)/manifest.mpd
-
-
-#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png6",GRANDE FRATELLO COM VPN3
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b9)/manifest.mpd
-
-
-
-
-
-
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO CONFERENCIA 2017
-https://vod05.msf.cdn.mediaset.net/farmunica/2017/09/92507_15e61662ce67d2/dashrcclean/sd_no_mpl.mpd
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP1
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/526994_16f87bec868965/dashrcclean/hd_no_mpl.mpd
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP2
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/528559_16f9205263389c/dashrcclean/hd_no_mpl.mpd
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP3
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/532343_16fabc1781a7d2/dashrcclean/hd_no_mpl.mpd
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP4
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/532847_16fb617db05a2f/dashrcclean/hd_no_mpl.mpd
-
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP5
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/535557_16fc58748897d2/dashrcclean/hd_no_mpl.mpd
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP6
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/538893_16fda19c71c89c/dashrcclean/hd_no_mpl.mpd
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP7
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/541787_16feadf2ea089c/dashrcclean/hd_no_mpl.mpd
-
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP8
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/543651_16ffe327b19965/dashrcclean/hd_no_mpl.mpd
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP9
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/544162_1700d9b131c7d2/dashrcclean/hd_no_mpl.mpd
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP10
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/548042_17031af80a57d2/dashrcclean/hd_no_mpl.mpd
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP11
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/550842_170464ae9d77d2/dashrcclean/hd_no_mpl.mpd
-
-
-
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/552643_17055be3b957d2/dashrcclean/hd_no_mpl.mpd
-
-
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/552643_17055be3b957d2/dashrcclean/hd_no_mpl.mpd
-
-
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/552643_17055be3b957d2/dashrcclean/hd_no_mpl.mpd
-
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/556084_1706a5704b289c/dashrcclean/hd_no_mpl.mpd
-
-
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/557323_17079b72ce789c/dashrcclean/hd_no_mpl.mpd
-
-
-
-10 feb 2020 | Canale 5 Decima puntata
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/548042_17031af80a57d2/dashrcclean/hd_no_mpl.mpd
-
-
-Quattordicesima puntata
-24 feb 2020 | Canale 5
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/557323_17079b72ce789c/dashrcclean/hd_no_mpl.mpd
-
-
-Sedicesima puntata
-11 mar 2020 | Canale 5
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/03/567703_170cc2dd2e989c/dashrcclean/hd_no_mpl.mpd
-
-
-Diciassettesima puntata
-18 mar 2020 | Canale 5
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/03/571604_170f02fcc20965/dashrcclean/hd_no_mpl.mpd
-
-
-Diciannovesima puntata
-1 apr 2020 | Canale 5
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/04/579412_1713812c73b7d2/dashrcclean/hd_no_mpl.mpd
-
-
-
-La Finale 8 apr 2020 | Canale 5
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/04/584486_1715f06b3bea2f/dashrcclean/hd_no_mpl.mpd
-
-
-
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/24/Amazon_sat_logo_2022.svg/200px-Amazon_sat_logo_2022.svg.png",AMAZON SAT
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-
-
-
-
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://files.cercomp.ufg.br/weby/up/120/m/ASSINATURA_RADIO_UFG_BRANCA.png",Rádio Universitária UFG
-http://200.137.217.155:8010/radiouniversitaria
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://www.cbngoiania.com.br/img/cbngoiania/logo_cbn_rodape.png",CBN GOIANIA
-http://live.ojc.com.br:8000/e9cd_3/myStream/playlist
 
 
 
