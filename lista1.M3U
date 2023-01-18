@@ -1,14 +1,16 @@
-
-#EXTM3U x-tvg-url="https://github.com/guiworldtv/M3UPT/raw/main/epg/epg-vodafone.xml.gz"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-meo.xml"
-#EXTM3U url-tvg="http://m3u4u.com/epg/p192y791p3s3d1v8ymeg"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bi/startimestv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml.gz,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml.gz,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml.gz,https://iptv-org.github.io/epg/guides/ga/startimestv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/lt/cgates.lt.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml.gz"
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Metro_Globe_Network.png" group-title="NATIONAL NEWS",Metro Globe Network
-https://egcdn-live.video.globo.com/nu/f(bMin=2000,i=2)/bbb01/edge-cache-token=Expires=1674119962&KeyName=media-cdn-keyset-prod&Signature=Z7q2NySWfhdrW1Z4JrxcjRChYE3o5a6rghq58IHXolnHrfGfIBNdZjbaZNkEb9oB06WOBk5rLwgkHPrykGPLDA==/bbb01-audio_1=96000-video=313984.m3u8
-
-
-
-
-
+#EXTINF:0 type="stream" channelId="1444", Abc - Wabc
+https://v-ny.mybtv.net/live/554.m3u8
+#EXTINF:0 type="stream" channelId="3205", Cbs - Wcbs
+https://v-ny.mybtv.net/live/545.m3u8
+#EXTINF:0 type="stream" channelId="177", Fox - Wnyw
+https://v-ny.mybtv.net/live/550.m3u8
+#EXTINF:0 type="stream" channelId="1442", Nbc - Wnbc
+https://v-ny.mybtv.net/live/548.m3u8
+#EXTINF:0 type="stream" channelId="1390", PBS - Wnet
+https://v-ny.mybtv.net/live/567.m3u8
+#EXTINF:0 type="stream" channelId="1390", Pbs - Wliw
+https://v-ny.mybtv.net/live/575.m3u8
+#EXTINF:0 type="stream" channelId="3209", Univision - Wxtv-Dt
+https://v-ny.mybtv.net/live/643.m3u8
+#EXTINF:0 type="stream" channelId="1967", Telemundo - Wnju
+https://v-ny.mybtv.net/live/659.m3u8
