@@ -8,6 +8,50 @@
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/v1636660681/rockcms/2021-11/NNN-social-default-72d67e.jpg",NBC NEWS NOW
 https://nbcnews3.akamaized.net/hls/live/723429/NBCNewsNowa418c506/clear/hdntl=exp=1674347349~acl=%2f*~data=hdntl~hmac=ede3b851df34a955691a68985f4c61b19d5845d6c5ba4f59cd57338450ffba95/VIDEO_0_6596000.m3u8
 
+#EXTINF: 0 tvg-logo = "http imagem do canal" group-title = "17/02/2023", globo
+http://212.8.243.99:2095/live/dtv_783935/ON8TYfnq/44259.m3u8
+
+
+
+#EXTINF:-1,record vai 17/02/2023
+http://212.8.243.99:2095/live/dtv_783935/ON8TYfnq/14175.m3u8
+
+#EXTINF:-1,BBB vai 17/02/2023
+http://212.8.243.99:2095/live/dtv_783935/ON8TYfnq/44288.m3u8
+
+#EXTINF:-1,BBB vai 17/02/2023
+http://212.8.243.99:2095/live/dtv_783935/ON8TYfnq/44192.m3u8
+
+
+=========================================================================
+
+
+#EXTINF: 0 tvg-logo = "http imagem do canal" group-title = "22/03/2023 ",globo
+http://212.8.243.99:2095/live/dtv_490729/dGpN5z9N/44259.m3u8
+
+#EXTINF:-1,record vai 22/03/2023
+http://212.8.243.99:2095/live/dtv_490729/dGpN5z9N/14175.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1,BBB vai 22/03/2023
+http://212.8.243.99:2095/live/dtv_490729/dGpN5z9N/44192.m3u8
+
+
+
+#EXTINF:-1,BBB vai 22/03/2023
+http://212.8.243.99:2095/live/dtv_490729/dGpN5z9N/44288.m3u8
+
+================================================================
+
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name=" 3 " group-title="04/05/202 ",GLOBO
+http://212.8.243.99:2095/live/dtv_015735/vVbdwS3P/13910.m3u8
+
+#EXTINF:-2 tvg-id="Ae.br" tvg-name=" 3 " group-title="04/05/202 ",record
+http://212.8.243.99:2095/live/dtv_015735/vVbdwS3P/14175.m3u8
+
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
