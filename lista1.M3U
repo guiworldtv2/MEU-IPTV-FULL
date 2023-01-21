@@ -11,7 +11,8 @@ https://nbcnews3.akamaized.net/hls/live/723429/NBCNewsNowa418c506/clear/hdntl=ex
 #EXTINF: 0 tvg-logo = "http imagem do canal" group-title = "17/02/2023", globo
 http://212.8.243.99:2095/live/dtv_783935/ON8TYfnq/44259.m3u8
 
-
+https://egcdn-live.video.globo.com/nu/f(bMin=2000,i=2)/bbb01/edge-cache-token=Expires=1674360073&KeyName=media-cdn-keyset-prod&Signature=A3mEp4LlUKw_vI8egnsJ_DYrKigPP8aR2flr2RMvD-VHXZwGBnyDZgQx8wAPzXNR5BAi5h9oWk-wFsTGtdOxDQ==/bbb01-audio_1=96000-video=2262976.m3u8
+https://egcdn-live.video.globo.com/nu/f(bMin=2000,i=2)/bbb11/edge-cache-token=Expires=1674360135&KeyName=media-cdn-keyset-prod&Signature=ATOjRKPk9J9MtGBUEAaJlBaz6XBUGL3_PR7hsJIAXiI2-cHTzWXaedUgQ6RP1gI8ek02Rhy_4EdGgLAsGHoGDg==/playlist.m3u8
 
 #EXTINF:-1,record vai 17/02/2023
 http://212.8.243.99:2095/live/dtv_783935/ON8TYfnq/14175.m3u8
