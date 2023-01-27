@@ -20,3 +20,14 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 https://telemundolive.akamaized.net/hls/live/2093200/NEWS104/master_main104.m3u8|user-agent=Opera
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",NOTÍCIAS TELEMUNDO - SERVIÇO 2
 https://telemundolive.akamaized.net/hls/live/2093200/NEWS105/master_main105.m3u8|user-agent=Opera
+
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://audiovisual.ec.europa.eu/images/livepanel_ebs.jpg",EBS - European Union's TV information service MULTI
+https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://audiovisual.ec.europa.eu/images/livepanel_ebs.jpg",EBS - European Union's TV information service - INGLÊS
+https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://audiovisual.ec.europa.eu/images/livepanel_ebs.jpg",EBS - European Union's TV information service - FRANCÊS
+https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_fre=96000-video=1600000.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://audiovisual.ec.europa.eu/images/livepanel_ebs.jpg",EBS - European Union's TV information service - PORTUGUÊS
+https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_por=96000-video=1600000.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://audiovisual.ec.europa.eu/images/livepanel_ebs.jpg",EBS - European Union's TV information service - ESPANHOL
+https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_spa=96000-video=1600000.m3u8
