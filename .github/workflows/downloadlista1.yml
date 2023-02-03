@@ -1,11 +1,13 @@
 name: Baixando Lista
+# Controls when the action will run. 
 on:
   schedule:
     - cron: "*/20 * * * *"
-
-  pull_request:
+ 
+  push:
     branches:
-      - main
+    - master
+    - main
 
   workflow_dispatch:
 
