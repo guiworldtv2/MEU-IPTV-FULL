@@ -1,7 +1,7 @@
 name: Baixando Lista
 on:
   schedule:
-    - cron: "*/40 * * * *"
+    - cron: '*/40 * * * *'
 
   pull_request:
     branches:
