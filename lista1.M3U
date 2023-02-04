@@ -1,3 +1,5 @@
+#EXTM3U
+
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
 #EXTINF:-1 group-title="Reality Show'S Live"  tvg-logo="", SOLOS CAMERA1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
