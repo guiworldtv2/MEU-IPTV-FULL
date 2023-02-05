@@ -24,10 +24,7 @@ jobs:
     - name: execute py script 
       run: python agrupadordelistas.py   
       
-    - name: Baixando Listas Agrupadas
-      run: |         
-       wget -r https://raw.githubusercontent.com/guiworldtv/STR-YT/main/LISTASAGRUPADAS.m3u8 -O lista1.M3U
-       
+  
        
     
        
