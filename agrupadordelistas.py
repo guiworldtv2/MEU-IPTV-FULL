@@ -8,7 +8,7 @@ if response.status_code == 200:
     contents = response.json()
     m3u_files = [content for content in contents if content["name"].endswith(".m3u")]
 
-    with open("lista1.m3u", "w") as f:
+    with open("lista1.M3U", "w") as f:
         for m3u_file in m3u_files:
             m3u_url = m3u_file["download_url"]
             m3u_response = requests.get(m3u_url)
