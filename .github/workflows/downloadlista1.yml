@@ -19,13 +19,17 @@ jobs:
       run: |
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
+        
+        
+    - name: execute py script 
+      run: python agrupadordelistas.py   
+      
     - name: Baixando Listas Agrupadas
       run: |         
        wget -r https://raw.githubusercontent.com/guiworldtv/STR-YT/main/LISTASAGRUPADAS.m3u8 -O lista1.M3U
        
        
-    - name: execute py script 
-      run: python agrupadordelistas.py       
+    
        
     - name: git add
       run: |
