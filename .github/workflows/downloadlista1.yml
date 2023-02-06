@@ -30,13 +30,13 @@ jobs:
          
     - name: Instalando requests
       run: |
-         pip install youtube-dl 
-         pip install requests 
-         pip install beautifulsoup4 
-         pip install fastapi 
-         pip install uvicorn 
-         pip install schedule
-         pip install selenium
+        pip install youtube-dl 
+        pip install requests 
+        pip install beautifulsoup4 
+        pip install fastapi 
+        pip install uvicorn 
+        pip install schedule
+        pip install selenium
 
       
   
