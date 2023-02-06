@@ -23,6 +23,8 @@ jobs:
         
     - name: execute py script 
       run: python agrupadordelistas.py   
+           pip install beautifulsoup4
+
       
   
        
