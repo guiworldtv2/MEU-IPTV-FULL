@@ -1,6 +1,6 @@
 import requests
 
-repo_urls = [    "https://api.github.com/repos/guiworldtv/GERADOR-DE-MODULOS/contents",    "https://api.github.com/repos/LITUATUI/M3UPT/contents",    "https://api.github.com/repos/guiworldtv/GERADOR-DE-MODULOS/contents"]
+repo_urls = [    "https://api.github.com/repos/vijay6672/YT2M3U/contents",    "https://api.github.com/repos/LITUATUI/M3UPT/contents",    "https://api.github.com/repos/guiworldtv/GERADOR-DE-MODULOS/contents"]
 
 lists = []
 for url in repo_urls:
