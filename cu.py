@@ -1,5 +1,7 @@
 import streamlink
 import moviepy.editor as mp
+import subprocess
+import os
 import time
 
 # URL do stream
@@ -16,12 +18,19 @@ streams = streamlink.streams(url)
 stream = streams["best"]
 
 # Iniciar a captura de frames
-frames = []
 for i in range(num_frames):
-    frame = stream.get_frames()
-    frames.append(frame)
+    filename = "frame_{}.png".format(i)
+    subprocess.call(["ffmpeg", "-i", stream.url, "-vframes", "1", filename])
     time.sleep(capture_time)
 
 # Criar o vídeo a partir dos frames capturados
-clip = mp.ImageSequenceClip(frames, fps=1 / capture_time)
+filenames = ["frame_{}.png".format(i) for i in range(num_frames)]
+clip = mp.ImageSequenceClip(filenames, fps=1 / capture_time)
 clip.write_videofile("timelapse.mp4")
+
+# Limpar os arquivos de frame
+for filename in filenames:
+    os.remove(filename)
+
+    
+ 
