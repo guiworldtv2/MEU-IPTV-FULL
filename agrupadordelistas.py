@@ -1,26 +1,30 @@
-import requests
+import streamlink
+import moviepy.editor as mp
+import time
 
-repo_urls = [    "https://api.github.com/repos/vijay6672/YT2M3U/contents",    "https://api.github.com/repos/guiworldtv/YT2M3U/contents",    "https://api.github.com/repos/guiworldtv/MEU-IPTV-FULL/contents"]
+# URL do stream
+url = "https://hunq9fz8yk.zoeweb.tv/av85/av85.stream/chunklist_w123426081.m3u8"
 
-lists = []
-for url in repo_urls:
-    response = requests.get(url)
+# Tempo de captura de cada frame (em segundos)
+capture_time = 5
 
-    if response.status_code == 200:
-        contents = response.json()
-        m3u_files = [content for content in contents if content["name"].endswith(".m3u")]
+# Número de frames a serem capturados
+num_frames = 60
 
-        for m3u_file in m3u_files:
-            m3u_url = m3u_file["download_url"]
-            m3u_response = requests.get(m3u_url)
+# Iniciar o stream
+streams = streamlink.streams(url)
+stream = streams["best"]
 
-            if m3u_response.status_code == 200:
-                lists.append((m3u_file["name"], m3u_response.text))
-    else:
-        print(f"Error retrieving contents from {url}")
+# Iniciar a captura de frames
+frames = []
+for i in range(num_frames):
+    frame = stream.get_frames()
+    frames.append(frame)
+    time.sleep(capture_time)
 
-lists = sorted(lists, key=lambda x: x[0])
+# Criar o vídeo a partir dos frames capturados
+clip = mp.ImageSequenceClip(frames, fps=1 / capture_time)
+clip.write_videofile("timelapse.mp4")
 
-with open("lista1.M3U", "w") as f:
-    for l in lists:
-        f.write(l[1])
+
+
