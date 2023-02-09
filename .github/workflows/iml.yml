@@ -51,6 +51,7 @@ jobs:
          pip install uvicorn 
          pip install schedule
          pip install selenium
+         pip install moviepy
          
       - name: execute py script
         run: python cu.py        
