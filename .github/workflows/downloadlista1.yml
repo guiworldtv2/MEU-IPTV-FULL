@@ -33,7 +33,14 @@ jobs:
       run: |
         git add -A
         ls -la
+        
 
+    - name: Instalando streamlink
+      run: |
+         pip install --user --upgrade streamlink
+         
+         
+         
     - name: Commit & Push
       run: |
         git config --global user.email "action@github.com"
