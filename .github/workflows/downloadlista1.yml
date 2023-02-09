@@ -1,40 +1,42 @@
 name: Baixando Lista
+
+
+# Descrição: Este script automatiza o processo de atualização da lista baixada.
+# O script é disparado por meio de uma agendamento (cron) ou pela ação de pull request.
+
 on:
   schedule:
+    # Agendamento para executar a tarefa a cada 30 minutos
     - cron: '*/30 * * * *'
-
   pull_request:
     branches:
       - main
-
   workflow_dispatch:
-
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - name: config
-      run: |
-        git config --global user.email "action@github.com"
-        git config --global user.name "GitHub Action"
-        
-        
-    - name: execute py script 
-      run: python agrupadordelistas.py   
-      
 
-      
-  
-       
-    
-       
-    - name: git add
+    steps:
+    - name: Checkout Repositório
+      uses: actions/checkout@v2
+
+    - name: Executar script Python
+      run: |
+        python agrupadordelistas.py
+        if [ $? -ne 0 ]; then
+          echo "Erro na execução do script Python."
+          exit 1
+        fi
+
+    - name: Adicionar arquivos ao controle de versão
       run: |
         git add -A
         ls -la
-    - name: commit & push
-      run: |
-        git commit -m "links are updated"
-        git push
+
+    - name: Commit & Push
+      uses: ad-m/github-push-action@v0.5.1
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        commit_message: "Atualizar lista baixada"
+        branch: main
