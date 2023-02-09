@@ -37,7 +37,7 @@ jobs:
 
     - name: Instalando streamlink
       run: |
-         pip install --user --upgrade streamlink
+        pip install --user --upgrade streamlink
          
          
          
