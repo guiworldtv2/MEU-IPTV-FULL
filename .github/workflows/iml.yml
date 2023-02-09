@@ -53,11 +53,11 @@ jobs:
          pip install selenium
          pip install moviepy
          
-      - name: execute py script
-        run: python cu.py        
 
-      - name: Install system dependencies
-        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - name: Install ffmpeg
+        run: sudo apt-get install ffmpeg -y
+      - name: Run your Python script
+        run: python cu.py
               
               
       - name: git add
