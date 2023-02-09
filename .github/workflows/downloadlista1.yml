@@ -1,5 +1,5 @@
 name: Baixando Lista
-
+# Baixando Lista
 
 # Descrição: Este script automatiza o processo de atualização da lista baixada.
 # O script é disparado por meio de uma agendamento (cron) ou pela ação de pull request.
@@ -35,8 +35,9 @@ jobs:
         ls -la
 
     - name: Commit & Push
-      uses: ad-m/github-push-action@v0.5.1
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        commit_message: "Atualizar lista baixada"
-        branch: main
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        git commit -m "Atualizar lista baixada"
+        git push origin main
+
