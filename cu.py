@@ -8,10 +8,10 @@ import time
 url = "https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunklist_w182959856.m3u8"
 
 # Tempo de captura de cada frame (em segundos)
-capture_time = 2
+capture_time = 1/30
 
 # Número de frames a serem capturados
-num_frames = 240
+num_frames = 3600
 
 # FPS da timelapse
 fps = 30
