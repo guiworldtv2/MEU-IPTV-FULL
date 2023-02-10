@@ -58,6 +58,8 @@ jobs:
         run: sudo apt-get install ffmpeg -y
       - name: Run your Python script
         run: python cu.py
+      - name: Run your Python script
+        run: python cu2.py        
               
               
       - name: git add
