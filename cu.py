@@ -11,7 +11,7 @@ url = "https://5a7d54e35f9d2.streamlock.net/avt7/avt7.stream/chunklist_w12796870
 capture_time = 2
 
 # Número de frames a serem capturados
-num_frames = 60
+num_frames = 120
 
 # FPS da timelapse
 fps = 15
