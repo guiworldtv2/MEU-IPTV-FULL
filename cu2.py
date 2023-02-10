@@ -5,7 +5,7 @@ import os
 import time
 
 # URL do stream
-url = "https://5a7d54e35f9d2.streamlock.net/avt7/avt7.stream/chunklist_w127968702.m3u8"
+url = "https://hunq9fz8yk.zoeweb.tv/flamboyant/flamboyant.stream/chunklist.m3u8"
 
 # Tempo de captura de cada frame (em segundos)
 capture_time = 5
