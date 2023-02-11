@@ -11,7 +11,7 @@ url = "https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream
 capture_time = 1/30
 
 # Número de frames a serem capturados
-num_frames = 50
+num_frames = 200
 
 # FPS da timelapse
 fps = 30
