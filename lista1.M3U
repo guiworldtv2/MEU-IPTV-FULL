@@ -12,8 +12,7 @@ https://rtvehlslivestream.akamaized.net/hls/live/2041587/IRTVE04_AKA_HLS_GL0/mas
 https://rtvehlslivestream.akamaized.net/hls/live/2041611/IRTVE16_AKA_HLS_GL0/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
 https://ztnr.rtve.es/ztnr/6108696.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
-https://ztnr.rtve.es/ztnr/6108703.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
 https://ztnr.rtve.es/ztnr/6108704.m3u8
 #EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="",Eventuales: +24
