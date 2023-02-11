@@ -20,14 +20,17 @@ fps = 30
 streams = streamlink.streams(url)
 stream = streams["best"]
 
+# Variável para armazenar o path dos arquivos de frame
+filenames = []
+
 # Iniciar a captura de frames
 for i in range(num_frames):
     filename = "frame_{}.png".format(i)
-    subprocess.call(["ffmpeg", "-i", stream.url, "-vframes", "1", "-r", str(fps), filename])
+    filenames.append(filename)
+    subprocess.run(["ffmpeg", "-i", stream.url, "-vframes", "1", "-r", str(fps), filename], check=True)
     time.sleep(capture_time)
 
 # Criar o vídeo a partir dos frames capturados
-filenames = ["frame_{}.png".format(i) for i in range(num_frames)]
 clip = mp.ImageSequenceClip(filenames, fps=fps)
 clip.write_videofile("timelapse.mp4", preset='ultrafast')
 
