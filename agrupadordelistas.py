@@ -1,6 +1,6 @@
 import requests
 
-repo_urls = [    "https://api.github.com/repos/guiworldtv/STR-YT/contents",    "https://api.github.com/repos/guiworldtv/YT2M3U/contents",    "https://api.github.com/repos/guiworldtv/testeando-publico/contents"]
+repo_urls = [    "https://api.github.com/repos/guiworldtv/STR-YT/contents",    "https://api.github.com/repos/guiworldtv/YT2M3U/contents",    "https://api.github.com/repos/guiworldtv/STR2/contents"]
 
 lists = []
 for url in repo_urls:
