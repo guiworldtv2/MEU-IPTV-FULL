@@ -21,6 +21,12 @@ jobs:
     - name: Checkout Repositório
       uses: actions/checkout@v2
 
+    - name: INSTALANDO SELENIUM
+      run: |
+        pip install selenium --upgrade
+           
+      
+      
     - name: Executar script Python
       run: |
         python agrupadordelistas.py
@@ -28,7 +34,6 @@ jobs:
           echo "Erro na execução do script Python."
           exit 1
         fi
-
     - name: Adicionar arquivos ao controle de versão
       run: |
         git add -A
