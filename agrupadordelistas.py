@@ -1,28 +1,43 @@
-import requests
+import time
+import os
+import subprocess
+from selenium import webdriver
+from bs4 import BeautifulSoup
 
-repo_urls = [    "https://api.github.com/repos/guiworldtv/STR-YT/contents",    "https://api.github.com/repos/guiworldtv/YT2M3U/contents",    "https://api.github.com/repos/guiworldtv/STR2/contents"]
+while True:
+    try:
+        # URL da página desejada
+        url_youtube = "https://www.youtube.com/results?search_query=aula&sp=CAISBBABGAI%253D"
 
-lists = []
-for url in repo_urls:
-    response = requests.get(url)
+        # Instanciando o driver do firefox
+        driver = webdriver.Firefox()
 
-    if response.status_code == 200:
-        contents = response.json()
-        m3u_files = [content for content in contents if content["name"].endswith(".m3u")]
+        # Abrir a página desejada
+        driver.get(url_youtube)
 
-        for m3u_file in m3u_files:
-            m3u_url = m3u_file["download_url"]
-            m3u_response = requests.get(m3u_url)
+        # Aguardar alguns segundos para carregar todo o conteúdo da página
+        time.sleep(5)
 
-            if m3u_response.status_code == 200:
-                lists.append((m3u_file["name"], m3u_response.text))
-    else:
-        print(f"Error retrieving contents from {url}")
+        # Obter o conteúdo da página
+        html_content = driver.page_source
 
-lists = sorted(lists, key=lambda x: x[0])
+        # Encontrar os links e títulos dos quatro primeiros vídeos encontrados
+        soup = BeautifulSoup(html_content, "html.parser")
+        videos = soup.find_all("a", id="video-title", class_="yt-simple-endpoint style-scope ytd-video-renderer")
+        links = [video.get("href") for video in videos]
 
-with open("lista1.M3U", "w") as f:
-    for l in lists:
-        f.write(l[1])
+        # Imprimir os títulos e links dos quatro primeiros vídeos
+        for i in range(4):
+            print("Título:", videos[i].get_text().strip())
+            print("Link:", "https://www.youtube.com" + links[i], "\n")
+
+        # Fechar o driver
+        driver.quit()
+        break
+    except:
+        # Fechar o driver em caso de erro
+        driver.quit()
+        break
+
         
-       
+
