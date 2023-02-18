@@ -1,3 +1,17 @@
+
+#EXTINF:-1 tvg-id="sctv9hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv9/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/72.png", SCTV10
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv10/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="sctv11hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/73.png", SCTV11 HD
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv11/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="sctv12hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png", SCTV12 HD
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv12/index.m3u8|Referer=http://sctvonline.vn/
+
+
 #EXTM3U
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="sichd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC SEM VPN
 #EXTM3U
