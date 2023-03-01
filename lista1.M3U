@@ -1,3 +1,17 @@
+#EXTM3U
+
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mudstein/XML/main/TIZENsiptv.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/K-vanc/Tempest-EPG-Generator/main/Siteconfigs/Argentina/%5BENC%5D%5BEX%5Delcuatro.com_0.channel.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Nicolas0919/Guia-EPG/master/GuiaEPG.xml"
+#EXTINF:-1 group-title="YOUTUBE" tvg-logo="https://i.vimeocdn.com/video/1328537057-0ace724c8d00ff774de74729b678f6bc7856783c757adb32141fc7ea6849857b-d_1280",EVENTO _ BRUTO _ SEM EDIÇÃO - Power your...
+https://117vod-adaptive.akamaized.net/exp=1677687874~acl=%2Fd9b34a2c-4748-4526-9f8a-69dbe924bf74%2F%2A~hmac=dbd3ca757a6cc63898e585df5346f3f4922d5eb4a56f836815aef8e951387033/d9b34a2c-4748-4526-9f8a-69dbe924bf74/video/3eda9465/playlist.m3u8?query_string_ranges=1
+
+
+
+
+
+
 #EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-meo.xml"
 #EXTM3U url-tvg="http://m3u4u.com/epg/p192y791p3s3d1v8ymeg"
