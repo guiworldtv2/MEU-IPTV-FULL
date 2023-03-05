@@ -3,6 +3,64 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/p192y791p3s3d1v8ymeg"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bi/startimestv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml.gz,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml.gz,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml.gz,https://iptv-org.github.io/epg/guides/ga/startimestv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/lt/cgates.lt.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml.gz"
 
+#EXTINF:-1 tvg-name="MTV HD" tvg-id="3101" tvg-country="United States" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/20/large/20160620154233977402_79.png" group-title="Music",[HD]mtv hd@@4
+https://epg.pw/stream/3f4f273db8757e47386f6b1d6acefc8b7f9c141743a3dead0bf431265e93dc0c.ctv
+#EXTINF:-1 tvg-name="MTV HD" tvg-id="3101" tvg-country="United States" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/20/large/20160620154233977402_79.png" group-title="Music",[HD]mtv hd@@3
+https://epg.pw/stream/d6af2f1c1cfd512508db8794ac8486b1afdec0f9f4357cd125407b5f6651cac6.ctv
+#EXTINF:-1 tvg-name="MTV HD" tvg-id="3101" tvg-country="United States" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/20/large/20160620154233977402_79.png" group-title="Music",[HD]mtv hd ca
+https://epg.pw/stream/f3c53cef46a6e160169f5467f399facb755b32e8bf32d6c06926d11ad58d29ac.m3u8
+#EXTINF:-1 tvg-name="MTV HD" tvg-id="3101" tvg-country="United States" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/20/large/20160620154233977402_79.png" group-title="Music",[BD]mtv hd@@8[geo-blocked]
+https://epg.pw/stream/1124fdb499cd7b36b07638fab84663e0b78a2ea821252dbf349b08404f245131.m3u8
+#EXTINF:-1 tvg-name="MTV HD" tvg-id="3101" tvg-country="United States" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/20/large/20160620154233977402_79.png" group-title="Music",[HD]MvH Hard
+https://epg.pw/stream/e9471785df6641474158733bb751d0857ccf221b4a4e39dd5870e5ebc9396dcf.m3u8
+#EXTINF:-1 tvg-name="MTV HD" tvg-id="3101" tvg-country="United States" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/20/large/20160620154233977402_79.png" group-title="Music",[BD]mtv hd@@7[geo-blocked]
+https://epg.pw/stream/3c5289f2171b1cbbf0892e809ec0f11d454505a82e767569ef4d91e3f590f826.ctv
+#EXTINF:-1 tvg-name="MTV HD" tvg-id="3101" tvg-country="United States" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/20/large/20160620154233977402_79.png" group-title="Music",[BD]mtv hd@@13
+https://epg.pw/stream/1f37e21dcf4455b3bed974bc4d491f07501fa34d72684a090034d49a72c3a248.m3u8
+#EXTINF:-1 tvg-name="MTV HD" tvg-id="3101" tvg-country="United States" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/20/large/20160620154233977402_79.png" group-title="Music",[BD]mtv hd@@11
+https://epg.pw/stream/ee73cada71bf21a3032206b73afb15cfc868599efa802366e08565a9fd4fffc0.ctv
+#EXTINF:-1 tvg-name="MTV HD" tvg-id="3101" tvg-country="United States" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/20/large/20160620154233977402_79.png" group-title="Music",[BD]mtv hd@@14
+https://epg.pw/stream/18c05470394fe585d973f87393dd5b797bc3033deea84012a33b2f60fd1df41d.ctv
+#EXTINF:-1 tvg-name="MTV HD" tvg-id="3101" tvg-country="United States" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/20/large/20160620154233977402_79.png" group-title="Music",[HD]mtv hd@@6[geo-blocked]
+https://epg.pw/stream/dd62220661286bd98b4704155f7e6c86ddcf3d67a068e3bddf96317cff97cb98.ctv
+#EXTINF:-1 tvg-name="MTV HD" tvg-id="3101" tvg-country="United States" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/20/large/20160620154233977402_79.png" group-title="Music",[SD]mtv@@12
+https://epg.pw/stream/d8c4bf14c812705887b1f073a02d85c6fdb16e78da700d3eb24863f61122699f.ctv
+#EXTINF:-1 tvg-name="MTV HD" tvg-id="3101" tvg-country="United States" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/20/large/20160620154233977402_79.png" group-title="Music",[SD]mvh hard
+https://epg.pw/stream/3d0f2c370203e69e75e99ce19c5abb2309336fd02da98b409acb3e7baaf730a3.m3u8
+#EXTINF:-1 tvg-name="MTV HD" tvg-id="3101" tvg-country="United States" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/20/large/20160620154233977402_79.png" group-title="Music",[BD]mtv hd@@12
+https://epg.pw/stream/6b502a9de403252ea7bdf61dbb7987a4505dfd6506d022cf361a370448df262a.ctv
+#EXTINF:-1 tvg-name="MTV HD" tvg-id="3101" tvg-country="United States" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/20/large/20160620154233977402_79.png" group-title="Music",[HD]MvH Hard
+https://epg.pw/stream/c6324dea04e77f8507abd1bbf39424893c66cc143b9d8aa5e398513f98ecb369.m3u8
+#EXTINF:-1 tvg-name="MTV HD" tvg-id="3101" tvg-country="United States" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/20/large/20160620154233977402_79.png" group-title="Music",[HD]mtv hd de[geo-blocked]
+https://epg.pw/stream/583893947c5f1203a4f3cf8f64573175cbf756a467037b7b15c91b40c1f1ca7e.ctv
+#EXTINF:-1 tvg-name="MTV HD(Korea)" tvg-id="" tvg-country="United States" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/12/20/large/20221220153346829004_22.jpg" group-title="Music",[HD]mtv shore[geo-blocked]
+https://epg.pw/stream/500fe7ccfa62416455a2b34dbe4c348cd37c7d84f9a5bb47948d3ea1d9ec91cb.m3u8
+#EXTINF:-1 tvg-name="MTV HD(Korea)" tvg-id="" tvg-country="United States" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/12/20/large/20221220153346829004_22.jpg" group-title="Music",[HD]mtv shore@@2[geo-blocked]
+https://epg.pw/stream/e5103d246ffaab820c6de5f264ba68e7d598280da9680003b1acda316201625c.m3u8
+#EXTINF:-1 tvg-name="MTV HD(Korea)" tvg-id="" tvg-country="United States" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/12/20/large/20221220153346829004_22.jpg" group-title="Music",[HD]mtv shore@@1[geo-blocked]
+https://epg.pw/stream/10f3d6963b6eef4ea50f4b3f2df9ff57928b7e6cb501f27cf5d32306c8c40b67.m3u8
+#EXTINF:-1 tvg-name="MTV Live HD" tvg-id="7062" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027212332267177_57.png" group-title="Music",[BD]MTV Live
+https://epg.pw/stream/8539246602fa457dc87f1f22c86d61bdc943cdf94d719f708adc9f3cdf28e4b6.m3u8
+#EXTINF:-1 tvg-name="MTV Live HD" tvg-id="7062" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027212332267177_57.png" group-title="Music",[BD]mtv live@@2[geo-blocked]
+https://epg.pw/stream/e64a55200ad807d6fbe1d191b76a0fc8b24a4febbfa65472cab45741b7e6f1c2.ctv
+#EXTINF:-1 tvg-name="MTV Live HD" tvg-id="7062" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027212332267177_57.png" group-title="Music",[BD]mtv live@@3[geo-blocked]
+https://epg.pw/stream/43d5bffdf2cd2f10bc1516e02adfac69ad3cb7e0e3649ab57d71f3c6f6a99440.ctv
+#EXTINF:-1 tvg-name="MTV Live HD" tvg-id="7062" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027212332267177_57.png" group-title="Music",[BD]mtv live hd@@3[geo-blocked]
+https://epg.pw/stream/280e489007ae51ef3ae22c3884412a8c755c9f4991267f22ac2cd5482af33b13.m3u8
+#EXTINF:-1 tvg-name="MTV Live HD" tvg-id="7062" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027212332267177_57.png" group-title="Music",[BD]mtv live@@4[geo-blocked]
+https://epg.pw/stream/1800c293c53a9e4642a2abbfe39fec8804b47d18a37bc4fbc851685ba7c27d45.m3u8
+#EXTINF:-1 tvg-name="MTV Live HD" tvg-id="7062" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027212332267177_57.png" group-title="Music",[BD]mtv live@@6
+https://epg.pw/stream/fea549244f3f33c1b362edca4671b8f52583a82d21144610afd91ae8c6a23f44.m3u8
+#EXTINF:-1 tvg-name="MTV Live HD" tvg-id="7062" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027212332267177_57.png" group-title="Music",[BD]mtv live@@1[geo-blocked]
+https://epg.pw/stream/0751eb9e9ff878b32a600c7585c0bd4368a4511d4808d712b05a637adb78a738.ctv
+#EXTINF:-1 tvg-name="MTV Live USA" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/19/20140519121831600486_54.png" group-title="Music",[HD]mtv live@@5
+https://epg.pw/stream/654c272196d9b3f98a037c080d7f3c362c9d020d2d1d5761c0e5f63f265aa43e.ctv
+#EXTINF:-1 tvg-name="MTV Live USA" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/19/20140519121831600486_54.png" group-title="Music",[HD]us| mtv live fhd[geo-blocked]
+https://epg.pw/stream/4f734f6a0372f11edf0051d802c35f78a38b9be723e8e98a77ed4b38c7c66991.ctv
+#EXTINF:-1 tvg-name="MTV Live USA" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/19/20140519121831600486_54.png" group-title="Music",[VGA]mtv live@@8
+https://epg.pw/stream/bdda63a3bd706ea74b41616e26272d50294d688ddc069a1f11daf4a6f1abdcf1.ctv
+
+
 #EXTM3U
 
 #EXTINF:0 type="stream" channelId="1444" group-title="USA", Abc - Wabc
