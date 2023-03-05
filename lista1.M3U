@@ -11,8 +11,8 @@ https://v-ny.mybtv.net/live/554.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",CBS East
 https://v-ny.mybtv.net/live/545/1280x720.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="USA",E! East
-https://webudi.openhd.lol/lb/premium315/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="USA",CBS SPORTS
+https://v-ny.mybtv.net/live/545/1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6AoC5h.png" group-title="USA",Fox East
 https://v-ny.mybtv.net/live/550/1280x720.m3u8
