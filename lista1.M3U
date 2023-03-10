@@ -2,45 +2,6 @@
 
 
 
-#EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/6400da110cf2cf9224fb8f21/480",Para Sempre - Conversa de Elias deixa Clara pensativa
-https://streaming-vod2.iol.pt/vod/_definst_/b/9/a/3/smil:640a71410cf2cf9224fcb9a3-L/chunklist_w1552625292_b2500000.m3u8?nimblesessionid=334101226&wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIzIDE6MjM6NDggQU0maGFzaF92YWx1ZT0zVWtOOTk2cmV3NktqOHRrNUV4cGJ3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzMzNTcwNDAtODE5MS00M2E3LTllOTYtYzVlNDAwOWJiYzM4
-
-#EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/63e27bdd0cf2c84d7fc6d6b6/480",Quero � viver - Decis�o de Filipa deixa Rita destro�ada
-https://streaming-vod3.iol.pt/vod/_definst_/4/f/b/d/smil:640a72d00cf2665294d94fbd-L/chunklist_w117597943_b2500000.m3u8?nimblesessionid=633589579&wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIzIDE6MjQ6NCBBTSZoYXNoX3ZhbHVlPUNtZlNzdlREcit0c2VDK1U1WUJFT2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01ZDhiNGVhMi1lNDc4LTQ2MzktYTE0Yi02OGE4NTY0OGE5MGI%3D
-
-#EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/63ed15430cf2665294d5b6c0/480",Festa � festa - S�o revela que tem vivido um verdadeiro inferno
-https://streaming-vod1.iol.pt/vod/_definst_/4/e/5/5/smil:640a67390cf2665294d94e55-L/chunklist_w1202197568_b2500000.m3u8?nimblesessionid=650591747&wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIzIDE6MjQ6MjMgQU0maGFzaF92YWx1ZT1vZ1NoNkFwTnE5SDRvaXNzM1R3dHNnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGUwYmYzOWUtZWZhYS00OTRlLWE1OWMtZDRlNWQ5ZjZlOGUw
-
-#EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/640a72a10cf2cf9224fcb9c8/480",Jornal da CNN - Jornal da CNN - 9 de mar�o de 2023
-https://streaming-vod3.iol.pt/vod/_definst_/d/d/6/a/smil:640a68750cf2dce741aedd6a-L/chunklist_w338982193_b2500000.m3u8?nimblesessionid=633589671&wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIzIDE6MjQ6NDMgQU0maGFzaF92YWx1ZT1jUmZyNWJUYk1leW9ySktlc3BlY2dnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTFlNzEyODYtZTlkYS00NzQ4LTg0NjEtZmZiODc5M2Y0ZDM0
-
-#EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/640a49b30cf2dce741aed736/480",CNN em jogo - CNN em jogo - Domingos Soares de Oliveira sai do SAD do Benfica
-https://streaming-vod2.iol.pt/vod/_definst_/4/9/8/8/smil:640a4d440cf2665294d94988-L/chunklist_w786601355_b2500000.m3u8?nimblesessionid=334101366&wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIzIDE6MjU6MiBBTSZoYXNoX3ZhbHVlPVpmdUhxc1h6K216Rjc0VUQ3SDVsS3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hYmRjNDQ5My1mYWI2LTQ3ZmUtOGQ0My01YzY0NjA3YTdlMGY%3D
-
-#EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/640a49b30cf2dce741aed734/480",Jornal Nacional - Jornal Nacional - 9 de mar�o de 2023
-https://streaming-vod1.iol.pt/vod/_definst_/4/c/2/0/smil:640a59140cf2665294d94c20-L/chunklist_w815310799_b2000000.m3u8?nimblesessionid=650591858&wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIzIDE6MjU6MjIgQU0maGFzaF92YWx1ZT00RFV3eUVWd1dqUS8rV01jZmViTjF3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTg0YjM2YWItZTM3ZC00NzNjLTljOTMtNmI2YTBjMWVjZjI4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-meo.xml"
 #EXTM3U url-tvg="http://m3u4u.com/epg/p192y791p3s3d1v8ymeg"
