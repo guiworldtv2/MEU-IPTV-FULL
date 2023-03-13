@@ -133,10 +133,64 @@ https://v-ny.mybtv.net/live/545/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="USA",CBS SPORTS
 https://v-ny.mybtv.net/live/545/1280x720.m3u8
 
-#EXTINF:-1 group-title="Reality Show'S Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo 2
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[HD]telemundo chicago@@1
 https://epg.pw/stream/c33855977fdf9a377a88e306a5336e7d697fd10df1e3a2d19c5dc31769cd16de.ctv
-#EXTINF:-1 group-title="Reality Show'S Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",Telemundo 2
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo boston hd
 https://epg.pw/stream/96bd0d7079321bc9f7e61814fb4474f677d5a6215a1b4c9e8cf80eaa0840db04.ctv
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[VGA]teleunion@@1[geo-blocked]
+https://epg.pw/stream/4e07ce87d3d5e191ea1cf5e59288fb3cc628a039568c9fa40053d853c3a357d4.m3u8
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo 52
+https://epg.pw/stream/ef408d41c1da5971f8bde6ce90436b705c1d7dfa3a2c109301f69ddeb19511cf.m3u8
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo@@9
+https://epg.pw/stream/3cb268fe4bd86290093fa6c0ce00d7b40c2f794ba12d833b939868a180aa4316.m3u8
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[HD]telemundo al dia[geo-blocked]
+https://epg.pw/stream/a165bd9eceaf2c1a3565875d2aa57b9106207dbb2eb17d8849fc3e3fb1ba8d01.m3u8
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[VGA]telemundo@@19
+https://epg.pw/stream/89fe3df16cf9268ce467af0372ea6607c5d20c254b12a2bf887eecc2fd87d659.m3u8
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo miami@@1
+https://epg.pw/stream/da5e3340bc4d76208447de1cc39cf2b4125c86474aa46ddcf8a0d95b3a8c668e.ctv
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]mundo@@1[geo-blocked]
+https://epg.pw/stream/52816979ec165f8e38a7ad68415200875b412cf150e74977208d36eab0f0e42b.ctv
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[VGA]telemundo@@10
+https://epg.pw/stream/ce42d1caa9a72640a2f3c4fe89a438526def5ca592e7b7d2b0037fc5e743f41d.m3u8
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]mundo@@2
+https://epg.pw/stream/7adb299882e76390e1b17949426e958214167b779c6f0b13b6ff8dd3f7a2d0cd.ctv
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[HD]Telemundo telenovelas clásicas[geo-blocked]
+https://epg.pw/stream/917628fd3a71d2444289616fa38a18923605b0495f539dfd77078be34eb6380d.m3u8
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[VGA]telemundo
+https://epg.pw/stream/f985374ea700043adcca8c72ec8e018284793c4bc020b0b67b48cba2dc50d6ea.ctv
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]mundo
+https://epg.pw/stream/497be46c103ea85312de76e7dd323ac1dac44cc1d4ec17ae3c343e34ae7f0a2a.ctv
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo hd@@3
+https://epg.pw/stream/a75d213285a5c6079c292156d5a147d8d1c04cfcd2841baab27cb26af1b3b151.ctv
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[VGA]teleunion
+https://epg.pw/stream/bc6ad02fe00aacce4eff9bbb2f2b1e55ba5d99d531ca4034f3f03b44e33c9dbc.m3u8
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[VGA]telemundo@@16
+https://epg.pw/stream/c335b4ef004bc1c7e7545742acb67b5144c4750b5ca2af13e0563ad416470560.m3u8
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[HD]Mundo geek[geo-blocked]
+https://epg.pw/stream/52691ba4ed16276d6ab847da897159db27668845b4c87b0530b978a856ce7144.m3u8
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo miami hd
+https://epg.pw/stream/b681c547bf5542881a5dc7bd70f19ab5421aea107be233d1cacfd79f32aa2b3f.ctv
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[VGA]telemundo@@12
+https://epg.pw/stream/81c352343dcab7b6bf497d4bd7665b7e746201cd58e5a636c7a86deec5c13559.ctv
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo@@2
+https://epg.pw/stream/f07657be85f3c661a6ef3cca0dfb343f1e678d03fffe01a2d1e38efe2a84913c.m3u8
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo@@5
+https://epg.pw/stream/9ce1b05a13031c4ed50a6e1d9bb351359db8141c2ef870cc459eb2b66ed2db4d.m3u8
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[VGA]telemundo@@8[geo-blocked]
+https://epg.pw/stream/3e79da280742143f6bb4e4249800e27d84ea20afbff65a917c86b5ae2a7a79a6.ctv
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo new york@@1
+https://epg.pw/stream/f0a8c5f847840823e2c64fd581bb7262934775453c8e8479002f58224b08747e.ctv
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[SD]telemundo boston@@2
+https://epg.pw/stream/a28d482fecb8c8d874b715f85e581c269894753adaae24062a1e9a2291fc21a6.ctv
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo hd@@1[geo-blocked]
+https://epg.pw/stream/2f337bb0b6b4b98d70ea3b137ee07e217aff633ea5af09a515e312194e4515a6.ctv
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[HD]telemundo novelas[geo-blocked]
+https://epg.pw/stream/4bf64c15dc5dd4c267afff23e00abb9c2d38fa1d26d2796a4086743816239c2e.m3u8
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[VGA]149 telemundo sd
+https://epg.pw/stream/11422a0ca311fa2ea61db0e99991ca394e0a56cdea6953bc0998d493a735ccef.ctv
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[VGA]telemundo@@14[geo-blocked]
+https://epg.pw/stream/2550308ace1f88aa92b9f7e3a8a04510a4abd07b22733662ff203c95a643c990.ctv
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png",CNN ESPAÑOL
 https://epg.pw/stream/73b953b90b2305d8d0477c4d3551ac268d730f9a9c7cfc6b7316283de7f46d58.ctv
