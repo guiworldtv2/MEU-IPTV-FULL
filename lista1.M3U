@@ -7,6 +7,22 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/p192y791p3s3d1v8ymeg"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bi/startimestv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml.gz,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml.gz,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml.gz,https://iptv-org.github.io/epg/guides/ga/startimestv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/lt/cgates.lt.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml.gz"
 
+#EXTINF:-1 tvg-chno="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Azteca_Uno_logo.webp/245px-Azteca_Uno_logo.webp.png",Azteca 1
+http://tvstarlife.com:25461/live/geovany/geovany/27241.m3u8
+
+#EXTINF:-1 tvg-chno="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/440px-Azteca_7_%282016_Blank %29.svg.png",Azteca 7
+http://tvstarlife.com:25461/live/geovany/geovany/5135.m3u8
+
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas
+http://tvstarlife.com:25461/live/geovany/geovany/24565.m3u8
+
+#EXTINF:-1 tvg-chno="112" tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/09/AZ-MUNDO-NI-1024x320.jpg",Azteca Mundo
+http://tvstarlife.com:25461/live/geovany/geovany/27297.m3u8
+
+#EXTINF:-1 tvg-chno="113" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default_mobile/public/images/logos/canl-nueve-100x100.png",Nu9ve
+http://tvstarlife.com:25461/live/geovany/geovany/5137.m3u8
+
+
 
 
 #EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc hd@@1[geo-blocked]
