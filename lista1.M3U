@@ -133,12 +133,7 @@ https://v-ny.mybtv.net/live/545/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="USA",CBS SPORTS
 https://v-ny.mybtv.net/live/545/1280x720.m3u8
 
-#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[HD]telemundo chicago@@1
-https://epg.pw/stream/c33855977fdf9a377a88e306a5336e7d697fd10df1e3a2d19c5dc31769cd16de.ctv
-#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo boston hd
-https://epg.pw/stream/96bd0d7079321bc9f7e61814fb4474f677d5a6215a1b4c9e8cf80eaa0840db04.ctv
-#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[VGA]teleunion@@1[geo-blocked]
-https://epg.pw/stream/4e07ce87d3d5e191ea1cf5e59288fb3cc628a039568c9fa40053d853c3a357d4.m3u8
+
 #EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo 52
 https://epg.pw/stream/ef408d41c1da5971f8bde6ce90436b705c1d7dfa3a2c109301f69ddeb19511cf.m3u8
 #EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo@@9
