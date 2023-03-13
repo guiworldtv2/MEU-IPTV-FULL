@@ -58,8 +58,7 @@ https://epg.pw/stream/d30db27ef26df979ab23c736ae167482917ab74e9cb37948b42efc78a0
 https://epg.pw/stream/c00eb7b19f898b050c7fdd75c65a23a445490f0457c8d76cbb95b8a70aa8054b.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]23 ABC (KERO)[geo-blocked]
 https://epg.pw/stream/066a844bf29e4ac3a14995915970206ba61290cb514c1044bdddd5a8ec33ed1e.m3u8
-#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc
-https://epg.pw/stream/03b1a77f23c06456861b66ba950e76a3a68b4c127c4f5204d9462a30f6fd0417.m3u8
+
 #EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]23 ABC (KERO)[geo-blocked]
 https://epg.pw/stream/7d7f134e47bef48778d5352030d8cd2717fe25987eedf5fd6be44006b5d8cc71.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC[geo-blocked]
@@ -124,6 +123,9 @@ https://epg.pw/stream/bdda63a3bd706ea74b41616e26272d50294d688ddc069a1f11daf4a6f1
 
 #EXTINF:0 type="stream" channelId="1444" group-title="USA", Abc - Wabc
 https://v-ny.mybtv.net/live/554.m3u8
+
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc
+https://epg.pw/stream/03b1a77f23c06456861b66ba950e76a3a68b4c127c4f5204d9462a30f6fd0417.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",CBS East
 https://v-ny.mybtv.net/live/545/1280x720.m3u8
