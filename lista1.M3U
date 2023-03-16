@@ -18,8 +18,7 @@ https://mrgmaw.github.io/enlaces/ca/cacsm.m3u8
 https://mrgmaw.github.io/enlaces/ca/caqed.m3u8
 #EXTINF:-1 tvg-chno="28.1" tvg-id="KCNZ.us" tvg-logo="https://media.localbtv.com/images/atlantabtv/logos/latv.png" group-title="SF",KCNZ LATV
 https://mrgmaw.github.io/enlaces/ca/cacnz.m3u8
-#EXTINF:-1 tvg-chno="48.1" tvg-id="KSTS.us" tvg-logo="https://static.epg.best/mx/Telemundo.mx.png" group-title="SF",KDTS Telemundo
-https://mrgmaw.github.io/enlaces/ca/casts.m3u8
+
 #EXTINF:-1 tvg-chno="66.1" tvg-id="KFSFDT1.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="SF",KFSF Unimas
 https://mrgmaw.github.io/enlaces/ca/cafsf1.m3u8
 #EXTINF:-1 tvg-chno="66.2" tvg-id="KFSFDT2.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="SF",KFSF Univision
