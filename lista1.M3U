@@ -13,8 +13,7 @@ https://mrgmaw.github.io/enlaces/ca/canbc.m3u8
 https://mrgmaw.github.io/enlaces/ca/catvu.m3u8
 #EXTINF:-1 tvg-chno="60.6" tvg-id="KPJK.us" tvg-logo="https://media-usba.mybtv.net/logos/jazztv.png" group-title="SF",KPJK jazz
 https://mrgmaw.github.io/enlaces/ca/cacsm.m3u8
-#EXTINF:-1 tvg-chno="50.2" tvg-id="KCNS.us" tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="SF",KCNS Azteca América
-https://mrgmaw.github.io/enlaces/ca/cacsn.m3u8
+
 #EXTINF:-1 tvg-chno="9.1" tvg-id="KQED.us" tvg-logo="https://image.pbs.org/bento3-prod/kwcm-bento-live-pbs/Logos/PBS%20National/PBS%20logo/aaac26c5b7_PBS_P-Head-01.png" group-title="SF",KQED PBS
 https://mrgmaw.github.io/enlaces/ca/caqed.m3u8
 #EXTINF:-1 tvg-chno="28.1" tvg-id="KCNZ.us" tvg-logo="https://media.localbtv.com/images/atlantabtv/logos/latv.png" group-title="SF",KCNZ LATV
