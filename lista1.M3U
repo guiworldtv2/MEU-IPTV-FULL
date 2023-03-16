@@ -57,8 +57,7 @@ https://mrgmaw.github.io/enlaces/px/pxpbs.m3u8
 https://mrgmaw.github.io/enlaces/la/laabc.m3u8
 #EXTINF:-1 tvg-chno="9.1" tvg-id="KCALTV1.us" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="LA",KCAL cbs9
 https://mrgmaw.github.io/enlaces/la/lacal.m3u8
-#EXTINF:-1 tvg-chno="9.1" tvg-id="KCALTV1.us" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="LA",cbs
-https://mrgmaw.github.io/enlaces/la/lacbc.m3u8
+
 #EXTINF:-1 tvg-chno="4.1" tvg-id="KNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="LA",KNBC nbc4
 https://mrgmaw.github.io/enlaces/la/lanbc.m3u8
 #EXTINF:-1 tvg-chno="11.1" tvg-id="KTTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="LA",KTTV fox11
