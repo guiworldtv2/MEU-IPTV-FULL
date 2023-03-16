@@ -121,32 +121,17 @@ https://epg.pw/stream/4f734f6a0372f11edf0051d802c35f78a38b9be723e8e98a77ed4b38c7
 https://epg.pw/stream/bdda63a3bd706ea74b41616e26272d50294d688ddc069a1f11daf4a6f1abdcf1.ctv
 
 
-#EXTINF:-1 tvg-id="WCBSDT1.us" tvg-name="WCBS (New York) CBS East" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2015/03/wcbs.png" group-title="USA",WCBS (New York) CBS East
+#EXTINF:-1 tvg-id="WCBSDT1.us" tvg-name="WCBS (New York) CBS East" tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",WCBS (New York) CBS East
 https://v-ny.mybtv.net/live/545/1280x720.m3u8
 
-#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-name="WNBC (New York) NBC East" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2015/03/WNBC.png" group-title="USA",WNBC (New York) NBC East
+#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-name="WNBC (New York) NBC East" tvg-logo="https://i.imgur.com/OzHkxwZ.png" group-title="USA",WNBC (New York) NBC East
 https://v-ny.mybtv.net/live/548/1280x720.m3u8
 
-#EXTINF:-1 tvg-id="WABCDT1.us" tvg-name="WABC (New York) ABC East" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2015/03/wabc.png" group-title="USA",WABC (New York) ABC East
+#EXTINF:-1 tvg-id="WABCDT1.us" tvg-name="WABC (New York) ABC East" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-Logo-2013.png" group-title="USA",WABC (New York) ABC East
 https://v-ny.mybtv.net/live/554.m3u8
 
 
 #EXTM3U
-
-
-#EXTINF:-1 tvg-id="WCBSDT1.us" tvg-name="WCBS (New York) CBS East" tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",CBS East
-https://v-ny.mybtv.net/live/545/1280x720.m3u8
-
-#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-logo="https://i.imgur.com/OzHkxwZ.png" group-title="USA",NBC East
-https://v-ny.mybtv.net/live/548/1280x720.m3u8
-
-#EXTINF:-1 tvg-id="WABCDT1.us" tvg-logo="https://exemplo.com/logo.png" group-title="USA",WABC (New York) ABC East
-http://endereco_do_seu_stream.m3u8
-
-
-#EXTINF:0 tvg-id="WABCDT1.us" channelId="1444" group-title="USA", Abc - Wabc
-https://v-ny.mybtv.net/live/554.m3u8
-
 
 
 #EXTINF:-1 tvg-name="WABC" tvg-id="WABCDT1.us" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc
