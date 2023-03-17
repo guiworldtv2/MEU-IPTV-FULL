@@ -5,6 +5,9 @@
 
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58",url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/gatotv.com.epg.xml"
 
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo@@5
+https://epg.pw/stream/9ce1b05a13031c4ed50a6e1d9bb351359db8141c2ef870cc459eb2b66ed2db4d.m3u8
+
 #EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo miami@@1
 https://epg.pw/stream/da5e3340bc4d76208447de1cc39cf2b4125c86474aa46ddcf8a0d95b3a8c668e.ctv
 
@@ -399,8 +402,7 @@ https://epg.pw/stream/52691ba4ed16276d6ab847da897159db27668845b4c87b0530b978a856
 https://epg.pw/stream/81c352343dcab7b6bf497d4bd7665b7e746201cd58e5a636c7a86deec5c13559.ctv
 #EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo@@2
 https://epg.pw/stream/f07657be85f3c661a6ef3cca0dfb343f1e678d03fffe01a2d1e38efe2a84913c.m3u8
-#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo@@5
-https://epg.pw/stream/9ce1b05a13031c4ed50a6e1d9bb351359db8141c2ef870cc459eb2b66ed2db4d.m3u8
+
 #EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[VGA]telemundo@@8[geo-blocked]
 https://epg.pw/stream/3e79da280742143f6bb4e4249800e27d84ea20afbff65a917c86b5ae2a7a79a6.ctv
 #EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo new york@@1
