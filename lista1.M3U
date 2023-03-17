@@ -1,3 +1,31 @@
+#EXTM3U
+#EXTINF:-1,2022-09-01 10-15-01.ia.mp4
+https://archive.org/download/2022-09-01-10-15-01/2022-09-01%2010-15-01.ia.mp4
+#EXTINF:-1,2022-09-02 14-19-20.ia.mp4
+https://archive.org/download/2022-09-02-14-19-20/2022-09-02%2014-19-20.ia.mp4
+#EXTINF:-1,2022-09-03 14-56-44.ia.mp4
+https://archive.org/download/2022-09-03-14-56-44/2022-09-03%2014-56-44.ia.mp4
+#EXTINF:-1,2022-09-04 14-49-27.ia.mp4
+https://archive.org/download/2022-09-04-14-49-27/2022-09-04%2014-49-27.ia.mp4
+#EXTINF:-1,Rock in Rio 2022 - Dia 4
+https://archive.org/download/rock-in-rio-2022-inteiro-dia-4-multishow-4k-08092022/2022-09-08%2014-53-10.ia.mp4
+#EXTINF:-1,Rock in Rio 2022 - Dia 5
+https://archive.org/download/rock-in-rio-2022-inteiro-dia-5-multishow-4k-09092022/2022-09-09%2014-56-57.ia.mp4
+#EXTINF:-1,Rock in Rio 2022 - Dia 6
+https://archive.org/download/rock-in-rio-2022-inteiro-dia-6-multishow-4k-10092022/2022-09-10%2014-58-21.ia.mp4
+#EXTINF:-1,Rock in Rio 2022 - Dia 7
+https://archive.org/download/rock-in-rio-2022-inteiro-dia-7-multishow-4k-11092022/2022-09-11%2014-58-02.ia.mp4
+#EXTINF:-1,Live in Latin America
+https://archive.org/download/58034LatinAmericaVwr/58034%2BLatin%2BAmerica_vwr.mp4
+#EXTINF:-1,Live Via Early Bird
+https://archive.org/download/26824LiveViaEarlyBird/26824%20Live%20Via%20Early%20Bird.mp4
+#EXTINF:-1,Learjet World
+https://archive.org/download/xd-45154-learjet-world-vwr/XD45154%20Learjet%20World_vwr.mp4
+#EXTINF:-1,Croatia vs Brazil - BBC UHD
+https://archive.org/download/croatia-vs-brazil-fifa-world-cup-2022/1%20Croatia%20v%20Brazil%20-%20BBC%20UHD.mkv
+#EXTINF:-1,Croatia vs Brazil - AstroUHD
+https://archive.org/download/croatia-vs-brazil-fifa-world-cup-2022/2%20Croatia%20v%20Brazil%20-%20AstroUHD
+
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58",url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-id="WCBSDT1.us" tvg-name="WCBS (New York) CBS East" tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",WCBS (New York) CBS East
