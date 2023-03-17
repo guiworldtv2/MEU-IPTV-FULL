@@ -1,32 +1,12 @@
 #EXTM3U
-#EXTINF:-1,2022-09-01 10-15-01.ia.mp4
-https://archive.org/download/2022-09-01-10-15-01/2022-09-01%2010-15-01.ia.mp4
-#EXTINF:-1,2022-09-02 14-19-20.ia.mp4
-https://archive.org/download/2022-09-02-14-19-20/2022-09-02%2014-19-20.ia.mp4
-#EXTINF:-1,2022-09-03 14-56-44.ia.mp4
-https://archive.org/download/2022-09-03-14-56-44/2022-09-03%2014-56-44.ia.mp4
-#EXTINF:-1,2022-09-04 14-49-27.ia.mp4
-https://archive.org/download/2022-09-04-14-49-27/2022-09-04%2014-49-27.ia.mp4
-#EXTINF:-1,Rock in Rio 2022 - Dia 4
-https://archive.org/download/rock-in-rio-2022-inteiro-dia-4-multishow-4k-08092022/2022-09-08%2014-53-10.ia.mp4
-#EXTINF:-1,Rock in Rio 2022 - Dia 5
-https://archive.org/download/rock-in-rio-2022-inteiro-dia-5-multishow-4k-09092022/2022-09-09%2014-56-57.ia.mp4
-#EXTINF:-1,Rock in Rio 2022 - Dia 6
-https://archive.org/download/rock-in-rio-2022-inteiro-dia-6-multishow-4k-10092022/2022-09-10%2014-58-21.ia.mp4
-#EXTINF:-1,Rock in Rio 2022 - Dia 7
-https://archive.org/download/rock-in-rio-2022-inteiro-dia-7-multishow-4k-11092022/2022-09-11%2014-58-02.ia.mp4
-#EXTINF:-1,Live in Latin America
-https://archive.org/download/58034LatinAmericaVwr/58034%2BLatin%2BAmerica_vwr.mp4
-#EXTINF:-1,Live Via Early Bird
-https://archive.org/download/26824LiveViaEarlyBird/26824%20Live%20Via%20Early%20Bird.mp4
-#EXTINF:-1,Learjet World
-https://archive.org/download/xd-45154-learjet-world-vwr/XD45154%20Learjet%20World_vwr.mp4
-#EXTINF:-1,Croatia vs Brazil - BBC UHD
-https://archive.org/download/croatia-vs-brazil-fifa-world-cup-2022/1%20Croatia%20v%20Brazil%20-%20BBC%20UHD.mkv
-#EXTINF:-1,Croatia vs Brazil - AstroUHD
-https://archive.org/download/croatia-vs-brazil-fifa-world-cup-2022/2%20Croatia%20v%20Brazil%20-%20AstroUHD
+
+
+
 
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58",url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/gatotv.com.epg.xml"
+
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo miami@@1
+https://epg.pw/stream/da5e3340bc4d76208447de1cc39cf2b4125c86474aa46ddcf8a0d95b3a8c668e.ctv
 
 #EXTINF:-1 tvg-id="WCBSDT1.us" tvg-name="WCBS (New York) CBS East" tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",WCBS (New York) CBS East
 https://v-ny.mybtv.net/live/545/1280x720.m3u8
@@ -142,8 +122,7 @@ https://mrgmaw.github.io/enlaces/ny/nyasa1.m3u8
 https://mrgmaw.github.io/enlaces/ny/nyunivhd.m3u8
 #EXTINF:-1 tvg-chno="41.1" tvg-id="WFUTDT1.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="NY",WFUT Univision 41 SD
 https://mrgmaw.github.io/enlaces/ny/nyunivsd.m3u8
-#EXTINF:-1 tvg-chno="47.1" tvg-id="WNJUDT1.us" tvg-logo="https://static.epg.best/mx/Telemundo.mx.png" group-title="NY",WNJU Telemundo 
-https://mrgmaw.github.io/enlaces/ny/nytelem.m3u8
+
 #EXTINF:-1 tvg-chno="5.1" tvg-id="WNYWDT1.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="NY",Unimas
 https://mrgmaw.github.io/enlaces/ny/nyunim.m3u8
 
@@ -391,8 +370,7 @@ https://epg.pw/stream/3cb268fe4bd86290093fa6c0ce00d7b40c2f794ba12d833b939868a180
 https://epg.pw/stream/a165bd9eceaf2c1a3565875d2aa57b9106207dbb2eb17d8849fc3e3fb1ba8d01.m3u8
 #EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[VGA]telemundo@@19
 https://epg.pw/stream/89fe3df16cf9268ce467af0372ea6607c5d20c254b12a2bf887eecc2fd87d659.m3u8
-#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo miami@@1
-https://epg.pw/stream/da5e3340bc4d76208447de1cc39cf2b4125c86474aa46ddcf8a0d95b3a8c668e.ctv
+
 #EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]mundo@@1[geo-blocked]
 https://epg.pw/stream/52816979ec165f8e38a7ad68415200875b412cf150e74977208d36eab0f0e42b.ctv
 #EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[VGA]telemundo@@10
