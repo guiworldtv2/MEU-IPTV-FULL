@@ -27,6 +27,21 @@ https://v-ny.mybtv.net/live/548/1280x720.m3u8
 https://v-ny.mybtv.net/live/554.m3u8
 
 
+#EXTINF:-1 tvg-name="Golf Channel" tvg-id="3419" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/25/large/20170225222511035119_78.jpg" group-title="Sport",[BD]golf channel hd@@2[geo-blocked]
+https://epg.pw/stream/f0248e847f5b72d967a1767cd2a0ce2687df9269a30154a9710e20002b0bcd12.ctv
+#EXTINF:-1 tvg-name="Golf Channel" tvg-id="3419" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/25/large/20170225222511035119_78.jpg" group-title="Sport",[BD]golf channel@@7
+https://epg.pw/stream/c69f92a087fa1172fde57a8276fade1e868b6a3110cc525cbfd7c77ef0ebddde.ctv
+#EXTINF:-1 tvg-name="Golf Channel" tvg-id="3419" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/25/large/20170225222511035119_78.jpg" group-title="Sport",[HD]golf channel
+https://epg.pw/stream/9a927446eca10955835ff7f903ce3f0f09eebe50ab60494053b4ad36c511bc54.ctv
+#EXTINF:-1 tvg-name="Golf Channel" tvg-id="3419" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/25/large/20170225222511035119_78.jpg" group-title="Sport",[VGA]golf channel@@3[geo-blocked]
+https://epg.pw/stream/19c4af3512c52e746d12f5971693de4308441893969e3626d226a333286a2508.ctv
+#EXTINF:-1 tvg-name="Golf Channel" tvg-id="3419" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/25/large/20170225222511035119_78.jpg" group-title="Sport",[SD]golf channel@@4
+https://epg.pw/stream/ca4977731a812c7721133cd20fb1c4ba5fe4dee6eb3eb967ee08100f56c5896b.ctv
+#EXTINF:-1 tvg-name="Golf Channel" tvg-id="3419" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/25/large/20170225222511035119_78.jpg" group-title="Sport",[HD]golf channel hd@@1
+https://epg.pw/stream/75d0f9c592a99d0f975ac7b4388fc7e05fadf094fc4a99c53f141a5c63d34479.ctv
+#EXTINF:-1 tvg-name="Golf(PH)" tvg-id="3419" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/30/large/20200430135839638902_82.png" group-title="Sport",[HD]ph
+https://epg.pw/stream/917695ab42d235066d27be135a2da3f74138baa92b9f798130775bb25e19dc61.m3u8
+
 #EXTM3U
 
 
