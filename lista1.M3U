@@ -530,6 +530,9 @@ https://bit.ly/rtp3_pt?/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
 
+#EXTINF:-1 tvg-name="SIC Caras" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/06/20151206114016727414_55.jpg" group-title="Generic",[BD]sic caras ᶠᴴᴰ[geo-blocked]
+https://epg.pw/stream/8fb3d184fdb5aa1c50bf3b259a081dce03b39008e85d2cd08c1adec352813c31.ctv#EXTINF:-1 tvg-name="SIC Caras" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/06/20151206114016727414_55.jpg" group-title="Generic",[BD]sic caras ᶠᴴᴰ[geo-blocked]
+https://epg.pw/stream/8fb3d184fdb5aa1c50bf3b259a081dce03b39008e85d2cd08c1adec352813c31.ctv
 
 
 
@@ -548,7 +551,14 @@ https://sic.live.impresa.pt/sic.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="sichd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC COM VPN 2
 https://sic.live.impresa.pt/sic540p.m3u8
 
-
+#EXTINF:-1 tvg-name="SIC RADICAL 1 PT" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/15/20150415005058351810_67.png" group-title="Entertainment",[BD]Radical Docs[geo-blocked]
+https://epg.pw/stream/dba2fca9d3ecb5c9beb1ff29c4f4a27c3f54a0ed83022c5eb007a460bbf140e0.m3u8
+#EXTINF:-1 tvg-name="SIC RADICAL 1 PT" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/15/20150415005058351810_67.png" group-title="Entertainment",[HD]Radical Docs@@1[geo-blocked]
+https://epg.pw/stream/ca9cea6d5f94e38ded5972989cfccc157cf7b0b0210b73d36ff38658107bbda4.m3u8
+#EXTINF:-1 tvg-name="SIC RADICAL 1 PT" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/15/20150415005058351810_67.png" group-title="Entertainment",[HD]Radical Docs[geo-blocked]
+https://epg.pw/stream/c7f9fd951ad9671ba6c2646b6fa44563551e540287d61dd307691d084b33c767.m3u8
+#EXTINF:-1 tvg-name="SIC RADICAL 1 PT" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/15/20150415005058351810_67.png" group-title="Entertainment",[HD]Radical Docs[geo-blocked]
+https://epg.pw/stream/35b1a150b6de3c9a567ff575de241900d86501998bb100680f5e00c702e88f3f.m3u8
 
 
 
