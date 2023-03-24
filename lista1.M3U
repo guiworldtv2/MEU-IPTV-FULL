@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml"
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/es/gatotv.com.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/directv.com.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/gatotv.com.epg.xml"
