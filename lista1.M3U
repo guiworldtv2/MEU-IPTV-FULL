@@ -1,7 +1,11 @@
-#EXTM3U
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
+url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml"
+url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+url-tvg="https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
+url-tvg="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"
+url-tvg="https://iptv-org.github.io/epg/guides/us/gatotv.com.epg.xml"
 
 
-#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58",url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo new york@@1
 https://epg.pw/stream/f0a8c5f847840823e2c64fd581bb7262934775453c8e8479002f58224b08747e.ctv
@@ -27,18 +31,20 @@ https://v-ny.mybtv.net/live/548/1280x720.m3u8
 https://v-ny.mybtv.net/live/554.m3u8
 
 
-#EXTINF:-1 tvg-name="Golf Channel" tvg-id="3419" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/25/large/20170225222511035119_78.jpg" group-title="Sport",[BD]golf channel hd@@2[geo-blocked]
+#EXTINF:-1 tvg-name="Golf Channel" tvg-id="3419" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/25/large/20170225222511035119_78.jpg" group-title="Sports" tvg-chno="23", [BD] Golf Channel HD
 https://epg.pw/stream/f0248e847f5b72d967a1767cd2a0ce2687df9269a30154a9710e20002b0bcd12.ctv
-#EXTINF:-1 tvg-name="Golf Channel" tvg-id="3419" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/25/large/20170225222511035119_78.jpg" group-title="Sport",[BD]golf channel@@7
+
+#EXTINF:-1 tvg-name="Golf Channel" tvg-id="3419" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/25/large/20170225222511035119_78.jpg" group-title="Sports" tvg-chno="23", Golf Channel [BD]
 https://epg.pw/stream/c69f92a087fa1172fde57a8276fade1e868b6a3110cc525cbfd7c77ef0ebddde.ctv
-#EXTINF:-1 tvg-name="Golf Channel" tvg-id="3419" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/25/large/20170225222511035119_78.jpg" group-title="Sport",[HD]golf channel
+#EXTINF:-1 tvg-name="Golf Channel" tvg-id="3419" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/25/large/20170225222511035119_78.jpg" group-title="Sports" tvg-chno="23", Golf Channel [HD]
 https://epg.pw/stream/9a927446eca10955835ff7f903ce3f0f09eebe50ab60494053b4ad36c511bc54.ctv
-#EXTINF:-1 tvg-name="Golf Channel" tvg-id="3419" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/25/large/20170225222511035119_78.jpg" group-title="Sport",[VGA]golf channel@@3[geo-blocked]
+#EXTINF:-1 tvg-name="Golf Channel" tvg-id="3419" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/25/large/20170225222511035119_78.jpg" group-title="Sports" tvg-chno="23", Golf Channel [VGA] [geo-blocked]
 https://epg.pw/stream/19c4af3512c52e746d12f5971693de4308441893969e3626d226a333286a2508.ctv
-#EXTINF:-1 tvg-name="Golf Channel" tvg-id="3419" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/25/large/20170225222511035119_78.jpg" group-title="Sport",[SD]golf channel@@4
+#EXTINF:-1 tvg-name="Golf Channel" tvg-id="3419" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/25/large/20170225222511035119_78.jpg" group-title="Sports" tvg-chno="23", Golf Channel [SD]
 https://epg.pw/stream/ca4977731a812c7721133cd20fb1c4ba5fe4dee6eb3eb967ee08100f56c5896b.ctv
-#EXTINF:-1 tvg-name="Golf Channel" tvg-id="3419" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/25/large/20170225222511035119_78.jpg" group-title="Sport",[HD]golf channel hd@@1
+#EXTINF:-1 tvg-name="Golf Channel" tvg-id="3419" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/02/25/large/20170225222511035119_78.jpg" group-title="Sports" tvg-chno="23", Golf Channel [HD]
 https://epg.pw/stream/75d0f9c592a99d0f975ac7b4388fc7e05fadf094fc4a99c53f141a5c63d34479.ctv
+
 #EXTINF:-1 tvg-name="Golf(PH)" tvg-id="3419" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/30/large/20200430135839638902_82.png" group-title="Sport",[HD]ph
 https://epg.pw/stream/917695ab42d235066d27be135a2da3f74138baa92b9f798130775bb25e19dc61.m3u8
 
@@ -698,11 +704,15 @@ http://eg128.tmira.com/rtvalive/canal2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="ESPANHA",Andalucía: Canal Sur 2 Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.raiplay.it/dl/components/img/logo-app.png" group-title="RAI PLAY",RAI PLAY1
+
+
+
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/dl/components/img/logo-app.png" group-title="RAI Play", Rai Play 1
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay/hls/raiplay_2400/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.raiplay.it/dl/components/img/logo-app.png" group-title="RAI PLAY",RAI PLAY2
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/dl/components/img/logo-app.png" group-title="RAI Play", Rai Play 2
 https://streamcdne3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay2/hls/raiplay2_2400/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.raiplay.it/dl/components/img/logo-app.png" group-title="RAI PLAY",RAI PLAY3
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/dl/components/img/logo-app.png" group-title="RAI Play", Rai Play 3
 https://streamcdne3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay3/hls/raiplay3_2400/chunklist.m3u8
+
