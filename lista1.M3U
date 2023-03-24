@@ -28,19 +28,24 @@ https://epg.pw/stream/da5e3340bc4d76208447de1cc39cf2b4125c86474aa46ddcf8a0d95b3a
 #EXTINF:-1 tvg-name="Telemundo" tvg-id="WSCV-DT1" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo miami hd
 https://epg.pw/stream/b681c547bf5542881a5dc7bd70f19ab5421aea107be233d1cacfd79f32aa2b3f.ctv
 
-#EXTINF:-1 tvg-id="WCBSDT1.us" tvg-name="WCBS (New York) CBS East" tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",CBS 
+
+#EXTINF:-1 tvg-id="WCBSDT1.us" tvg-name="WCBS (New York) CBS East" tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",CBS 2 (New York)
 http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8
-NBC
+#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-name="WNBC (New York) NBC East" tvg-logo="https://i.imgur.com/OzHkxwZ.png" group-title="USA",NBC 4 (New York)
 http://v-ny.theus6tv.duckdns.org/hls/4.1/playlist.m3u8
 
-FOX NY
+FOX FOX 5 NY
 http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
-ABC
+
+#EXTINF:-1 tvg-id="WABCDT1.us" tvg-name="WABC (New York) ABC East" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-Logo-2013.png" group-title="USA",ABC 7 (New York) 
 
 http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
 
 SHOP HQ
 http://v-ny.theus6tv.duckdns.org/hls/48.1/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="WCBSDT1.us" tvg-name="WCBS (New York) CBS East" tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",WCBS (New York) CBS East
 https://v-ny.mybtv.net/live/545/1280x720.m3u8
