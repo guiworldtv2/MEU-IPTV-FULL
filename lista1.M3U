@@ -607,8 +607,33 @@ https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwi
 
 
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="ESPANHA",Generalistas: La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_1688877.jpg",La 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_3293681.jpg",La 1 - CATALUNHA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_720.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_5190066.jpg",La 1 - CANARIAS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rtvelivestream.akamaized.net/rtvesec/can/la1_can_main.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="LA 2" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_1688885.jpg",La 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="LA 2" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_3987218.jpg",La 2 - CATALUNHA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la2_cat_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="TV",Eventuales: +24
+https://rtvelivestream.akamaized.net/hls/nxrtgolumi/mastdp/stream1.m3u8
 
 
 
