@@ -4,23 +4,24 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/directv.com.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/gatotv.com.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/es/tvpassport.com.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml"
 
 
-
-#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo new york 47
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="WNJU-DT1" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo new york 47
 https://epg.pw/stream/f0a8c5f847840823e2c64fd581bb7262934775453c8e8479002f58224b08747e.ctv
-#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo 47
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="WNJU-DT1" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo 47
 https://epg.pw/stream/9ce1b05a13031c4ed50a6e1d9bb351359db8141c2ef870cc459eb2b66ed2db4d.m3u8
 
-#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[SD]telemundo boston@@2
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="WNEU-DT1" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[SD]telemundo boston@@2
 https://epg.pw/stream/a28d482fecb8c8d874b715f85e581c269894753adaae24062a1e9a2291fc21a6.ctv
 
 
 
-#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo miami@@1
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="WSCV-DT1" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo miami@@1
 https://epg.pw/stream/da5e3340bc4d76208447de1cc39cf2b4125c86474aa46ddcf8a0d95b3a8c668e.ctv
 
-#EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo miami hd
+#EXTINF:-1 tvg-name="Telemundo" tvg-id="WSCV-DT1" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo miami hd
 https://epg.pw/stream/b681c547bf5542881a5dc7bd70f19ab5421aea107be233d1cacfd79f32aa2b3f.ctv
 
 #EXTINF:-1 tvg-id="WCBSDT1.us" tvg-name="WCBS (New York) CBS East" tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",WCBS (New York) CBS East
@@ -56,7 +57,7 @@ https://epg.pw/stream/75d0f9c592a99d0f975ac7b4388fc7e05fadf094fc4a99c53f141a5c63
 https://epg.pw/stream/03b1a77f23c06456861b66ba950e76a3a68b4c127c4f5204d9462a30f6fd0417.m3u8
 
 
-#EXTINF:-1 tvg-chno"" tvg-id="" tvg-logo="" group-title="IN", WBNX 55
+#EXTINF:-1 tvg-chno"" tvg-id="WBNX-DT1" tvg-logo="" group-title="IN", WBNX 55
 https://mrgmaw.github.io/enlaces/in/inwbnx.m3u8
 
 #EXTINF:-1 tvg-chno="7.1" tvg-id="KGO.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="SF",KGO TV abc
@@ -169,11 +170,11 @@ https://mrgmaw.github.io/enlaces/pi/pitxf.m3u8
 https://mrgmaw.github.io/enlaces/pi/piphl.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="SD",XHJK Azt1 FHD
+#EXTINF:-1 tvg-id="XHJK-TDT" tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="SD",XHJK Azt1 FHD
 https://mrgmaw.github.io/enlaces/sd/sdazt1fhd.m3u8
-#EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="SD",XHJK Azt1 HD
+#EXTINF:-1 tvg-id="XHJK-TDT" tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="SD",XHJK Azt1 HD
 https://mrgmaw.github.io/enlaces/sd/sdazt1hd.m3u8
-#EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="SD",XHJK Azt1 SD
+#EXTINF:-1 tvg-id="XHJK-TDT" tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="SD",XHJK Azt1 SD
 https://mrgmaw.github.io/enlaces/sd/sdazt1sd.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/240px-Logo_a%2B_%28canal%29.svg.png" group-title="SD",XHTIT2 Azt+ SD
@@ -234,7 +235,7 @@ https://mrgmaw.github.io/enlaces/fn/kymb.m3u8
 https://mrgmaw.github.io/enlaces/xy/nbcny.m3u8
 #EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",ABC
 https://mrgmaw.github.io/enlaces/xy/abcny.m3u8
-#EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",CBSNewYork
+#EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="CBSNewsNewYork.us" tvg-logo="",CBSNewYork
 https://mrgmaw.github.io/enlaces/xy/cbsny.m3u8
 #EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",Fox5NY
 https://mrgmaw.github.io/enlaces/xy/foxny.m3u8
