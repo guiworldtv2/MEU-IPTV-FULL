@@ -1,12 +1,16 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/es/gatotv.com.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/directv.com.xml"
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/tvguide.com.xml"
+
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/gatotv.com.epg.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/es/tvpassport.com.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/es/gatotv.com.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/flixed.io.xml"
+
 
 #EXTINF:-1 tvg-name="Telemundo" tvg-id="WNJU-DT1" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo new york 47
 https://epg.pw/stream/f0a8c5f847840823e2c64fd581bb7262934775453c8e8479002f58224b08747e.ctv
