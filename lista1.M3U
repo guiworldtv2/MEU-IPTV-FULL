@@ -74,22 +74,23 @@ https://epg.pw/stream/27c4da9966717090f683de35ef633894ba57fcccf4a63f49a8c1a88429
 https://epg.pw/stream/280bbc6ba8e8d71d425cc1faa9099852056c9a795b9367dc2dab1a0c35069f7b.ctv
 
 
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[VGA]cnbc(2)[geo-blocked]
+https://epg.pw/stream/b56b227b19ee7ab50b0b69330d74e679f76ee9cc5da57d8b41d1b72a525db606.m3u8
+
 #EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[HD]cnbc indo
 https://epg.pw/stream/3e0dee382e5a09eed2c7e924bbfc3a0b4d5f613747a338851a56b204da036730.m3u8
 #EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[HD]CNBC Indonesia[geo-blocked]
 https://epg.pw/stream/0ea45157fdfcd07e3552f5b158cac4217bbfd4da35b008c34cfbf2476aef8e41.m3u8
 #EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[VGA]cnbc indonesia@@2
 https://epg.pw/stream/4a8b56af9f629845832989f034657b89fb8e40fd6ed8cfb288ba1f8090ab12e2.m3u8
-#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[VGA]cnbc(2)[geo-blocked]
-https://epg.pw/stream/b56b227b19ee7ab50b0b69330d74e679f76ee9cc5da57d8b41d1b72a525db606.m3u8
+
 #EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[HD]cnbc indonesia@@8
 https://epg.pw/stream/e21e7d65a077fab256cb7f0b0d3fcb27dc6490cae608efa47bedcb8d86ca6139.m3u8
 #EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[HD]CNBC[geo-blocked]
 https://epg.pw/stream/85443abb3de5bc8107b291a6fafebfd399080d47e58a122e1256f3131d0c8edf.m3u8
 #EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[VGA]cnbc indonesia@@4[geo-blocked]
 https://epg.pw/stream/47239bb58cda87badfc8d99b1b59873d600408b43e80e85da3527f4bf94f8be4.m3u8
-#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[HD]cnbc hd@@1
-https://epg.pw/stream/601276c3b542fafbd876d9c493a11110bb3e7ad04207697fb939a88024742e0a.m3u8
+
 #EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[SD]cnbc@@2
 https://epg.pw/stream/2e8e92b07530de5eba6cebdb77cae43297db0ca696b44757b92bad45b0838ea7.ctv
 #EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[VGA]cnbc asia-pacific@@1[geo-blocked]
