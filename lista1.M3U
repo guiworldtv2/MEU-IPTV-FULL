@@ -60,12 +60,9 @@ https://epg.pw/stream/f5dab7ab9ccc9c2c6f053230bb0a9fc91f44372f158b42a1bb011d3781
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/flixed.io.xml"
 
 
-#EXTINF:-1 tvg-name="MSNBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123012009812276_31.jpg" group-title="News",[HD]msnbc@@2
-https://epg.pw/stream/fcfdcf9fa230793bafb319c810222cb0daaedd9e1ca13cfa43289173508f634c.m3u8
+
 #EXTINF:-1 tvg-name="MSNBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123012009812276_31.jpg" group-title="News",[HD]msnbc@@3
 https://epg.pw/stream/1426225237c2f457ff62b3d6cd62d91f919d0deaba005283e3edb8ff5fb236da.ctv
-#EXTINF:-1 tvg-name="MSNBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123012009812276_31.jpg" group-title="News",[VGA]msnbc hd[geo-blocked]
-https://epg.pw/stream/4d4fa457884e1e1237d5bd76a7d1f8a23e68f89c5bcae734933b409760653554.ctv
 #EXTINF:-1 tvg-name="MSNBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123012009812276_31.jpg" group-title="News",[HD]usa-msnbc hd
 https://epg.pw/stream/27c4da9966717090f683de35ef633894ba57fcccf4a63f49a8c1a8842952c8c0.ctv
 #EXTINF:-1 tvg-name="MSNBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123012009812276_31.jpg" group-title="News",[HD]usa-msnbc
