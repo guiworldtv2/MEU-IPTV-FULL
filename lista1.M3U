@@ -1,3 +1,48 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mudstein/XML/main/TIZENsiptv.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/K-vanc/Tempest-EPG-Generator/main/Siteconfigs/Argentina/%5BENC%5D%5BEX%5Delcuatro.com_0.channel.xml"
+#EXTM3U x-tvg-url="https://github.com/Nicolas0919/Guia-EPG/raw/master/GuiaEPG.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz"
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" tvg-country="Argentina" tvg-language="Spanish" group-title="Entertainment", [HD] Telefe HD
+https://epg.pw/stream/b2045a4764b04a18dc855c069676ac3b695b498760874ba4eb668363562b2503.ctv
+
+#EXTINF:-1 tvg-id="" tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" tvg-country="Argentina" tvg-language="Spanish" group-title="Entertainment", [SD] Telefe SD
+https://epg.pw/stream/db6daa767a09e616e37f3b542b20073b496e1777fff04e1c1550c688b8b382d8.ctv
+
+#EXTINF:-1 tvg-name="Telefe Argentina" tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" group-title="Entertainment",TELEFE INTERNACIONAL
+https://epg.pw/stream/f5dab7ab9ccc9c2c6f053230bb0a9fc91f44372f158b42a1bb011d37818382f7.ctv
+
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png" group-title="Argentina", Telefe HD 2
+https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png" group-title="International", Telefe (INT) 3
+http://tvstarlife.com:25461/live/geovany/geovany/315.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina", Telefe 4
+https://delivery.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://telefe-static.akamaized.net/media/18154476/logo-telefe-twitter.png" group-title="Argentina", Telefe COM VPN
+https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina", Telefe COM VPN 2
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Telefe_Logo.svg/1280px-Telefe_Logo.svg.png" group-title="Argentina", Telefe COM VPN 3
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+
+
+
+
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+
+
+
+
+
 #EXTM3U x-tvg-url="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/gatotv.com.xml"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml"
@@ -10,6 +55,162 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/gatotv.com.xml"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/flixed.io.xml"
+
+
+#EXTINF:-1 tvg-name="MSNBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123012009812276_31.jpg" group-title="News",[HD]msnbc@@2
+https://epg.pw/stream/fcfdcf9fa230793bafb319c810222cb0daaedd9e1ca13cfa43289173508f634c.m3u8
+#EXTINF:-1 tvg-name="MSNBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123012009812276_31.jpg" group-title="News",[HD]msnbc@@3
+https://epg.pw/stream/1426225237c2f457ff62b3d6cd62d91f919d0deaba005283e3edb8ff5fb236da.ctv
+#EXTINF:-1 tvg-name="MSNBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123012009812276_31.jpg" group-title="News",[VGA]msnbc hd[geo-blocked]
+https://epg.pw/stream/4d4fa457884e1e1237d5bd76a7d1f8a23e68f89c5bcae734933b409760653554.ctv
+#EXTINF:-1 tvg-name="MSNBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123012009812276_31.jpg" group-title="News",[HD]usa-msnbc hd
+https://epg.pw/stream/27c4da9966717090f683de35ef633894ba57fcccf4a63f49a8c1a8842952c8c0.ctv
+#EXTINF:-1 tvg-name="MSNBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123012009812276_31.jpg" group-title="News",[HD]usa-msnbc
+https://epg.pw/stream/280bbc6ba8e8d71d425cc1faa9099852056c9a795b9367dc2dab1a0c35069f7b.ctv
+
+
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[HD]cnbc indo
+https://epg.pw/stream/3e0dee382e5a09eed2c7e924bbfc3a0b4d5f613747a338851a56b204da036730.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[HD]CNBC Indonesia[geo-blocked]
+https://epg.pw/stream/0ea45157fdfcd07e3552f5b158cac4217bbfd4da35b008c34cfbf2476aef8e41.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[VGA]cnbc indonesia@@2
+https://epg.pw/stream/4a8b56af9f629845832989f034657b89fb8e40fd6ed8cfb288ba1f8090ab12e2.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[VGA]cnbc(2)[geo-blocked]
+https://epg.pw/stream/b56b227b19ee7ab50b0b69330d74e679f76ee9cc5da57d8b41d1b72a525db606.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[HD]cnbc indonesia@@8
+https://epg.pw/stream/e21e7d65a077fab256cb7f0b0d3fcb27dc6490cae608efa47bedcb8d86ca6139.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[HD]CNBC[geo-blocked]
+https://epg.pw/stream/85443abb3de5bc8107b291a6fafebfd399080d47e58a122e1256f3131d0c8edf.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[VGA]cnbc indonesia@@4[geo-blocked]
+https://epg.pw/stream/47239bb58cda87badfc8d99b1b59873d600408b43e80e85da3527f4bf94f8be4.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[HD]cnbc hd@@1
+https://epg.pw/stream/601276c3b542fafbd876d9c493a11110bb3e7ad04207697fb939a88024742e0a.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[SD]cnbc@@2
+https://epg.pw/stream/2e8e92b07530de5eba6cebdb77cae43297db0ca696b44757b92bad45b0838ea7.ctv
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[VGA]cnbc asia-pacific@@1[geo-blocked]
+https://epg.pw/stream/8973d863a9f714b964cec548fef23de9a4e363ba141d585a94423226acabd1cb.ctv
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[BD]cnbc@@1[geo-blocked]
+https://epg.pw/stream/37d3c816c7b9ac59a263381a5a9c3d61f52b99cf4864dbcee561aa3831a1c7fc.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[HD]Class CNBC (576p)[geo-blocked]
+https://epg.pw/stream/7e6e81f49537df9eb10469c51d5e87d8255dec6484a7e31049cc8c2ac06d8eac.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[HD]cnbc indonesia@@7
+https://epg.pw/stream/642f4a5348788e74509426ffedde34152a47c0d33fc5b2a2d87cf01938f949fb.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[HD]cnbc indonesia@@3[geo-blocked]
+https://epg.pw/stream/f19db77c75caff764c918107af46beace32edfb79a9c9ee1a692657404f49406.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[HD]CNBC RIE[geo-blocked]
+https://epg.pw/stream/1053b99126bd22d3ed301bd0d974ac5d03deb1724555fe79a252c7bdd6b8cc41.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[HD]cnbc hd
+https://epg.pw/stream/436222547bc48a3a8924e0600ce9d3e16ccb04b6c567e2a7554012cc43106fd9.ctv
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[HD]cnbc indonesia@@5
+https://epg.pw/stream/8c38d21f7e4157d56685df0a9d705dc5c98c505d8b75ededb95786a5a52b88aa.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[VGA]cnbc indonesia@@6
+https://epg.pw/stream/059bd4da3c9c51b3a8a1e1796ed76fd3e05b904c2166d39d106e4367fdc7c01c.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[HD]cnbc indonesia
+https://epg.pw/stream/6ffc597ff110d9af52b77aeadf67bbe2e8471f9135108a17fda2f5afe50be515.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[HD]cnbc indonesia@@1
+https://epg.pw/stream/c566b1fbb625658a8fff87f6d6d3db002fee37f6ec6c31b019b9165c9d7ecf18.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[BD]cnbc hd@@2
+https://epg.pw/stream/bc1477c19e2f3ecab54e4e472534eeaa61fc82cfefa5a8df7702830586f7cb26.ctv
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[VGA]CNBC[geo-blocked]
+https://epg.pw/stream/4a75b71bdc4ec83f1376db5176204187dc5473357efd72c27be2d2f0a69e28ad.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[VGA]cnbc[geo-blocked]
+https://epg.pw/stream/16aebd5112aa28d2271ed0f0133eb59bef058056abeebe3d7453b3565fe8a076.m3u8
+#EXTINF:-1 tvg-name="CNBC WORLD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/21/large/20220921124023412812_82.jpg" group-title="News",[HD]cnbc world hd
+https://epg.pw/stream/8ecbe6e96739ba0f7dcb617cde6f472c0c277a0afe95b62064a3734347666e0e.ctv
+#EXTINF:-1 tvg-name="CNBC WORLD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/21/large/20220921124023412812_82.jpg" group-title="News",[BD]mnb world
+https://epg.pw/stream/93497b8c5dca2cd5eb2690addd9548bb19c834ef7deefe65f56cea63ae4164db.m3u8
+#EXTINF:-1 tvg-name="CNBC(USA)" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/10/large/20220310182519775139_27.png" group-title="News",[VGA]cnbc asia@@2[geo-blocked]
+https://epg.pw/stream/9bfc31d77172f84caff4ccf01eadd48ab4f708c66babe3bfa34196786a199d17.ctv
+#EXTINF:-1 tvg-name="CNBC(USA)" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/10/large/20220310182519775139_27.png" group-title="News",[VGA]cnbc asia@@3[geo-blocked]
+https://epg.pw/stream/6b26427b5d7239a0278a60756a4aa2ce7516e254566e8e081602cb2d02ea6c89.ctv
+
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc paraguay[geo-blocked]
+https://epg.pw/stream/b7daa230b0f871a38259c10755406c0dc5437f8106350a223704249ec52b7341.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC 5 Oklahoma City OK (KOCO) (576p) [Not 24/7][geo-blocked]
+https://epg.pw/stream/5ef502848538f90aa408eec0ca3d3318a27fca103a18437f6a306393cec1a5e6.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC 7 Denver (KMGH)[geo-blocked]
+https://epg.pw/stream/07054a0d16c1710e74f17f99759380643fa94bd9066204f3e6d807e166831a7d.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC 7 Los Angeles CA (KABC-TV) (720p)[geo-blocked]
+https://epg.pw/stream/9055b139e22d2a37ba0ade15ee762f717be641509c7c42dfec93dbdb00bd8b58.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc me[geo-blocked]
+https://epg.pw/stream/0b72ecbba0a86ae7aa3de1f0b2777eb1396bf040d5075ed8e0696c4d63f04b91.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC Phoenix AZ[geo-blocked]
+https://epg.pw/stream/2eb966f6ba699fb5d0236906c077176d7ee1e617f2269d087434b5ae5c44c646.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc 13 houston
+https://epg.pw/stream/cc1696302fd6b0f518d01c3728a0e4ecb0bcfee0d34d5a23b5570722c1292be1.ctv
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]ABC 4 Pittsburg PA (WTAE) (720p)[geo-blocked]
+https://epg.pw/stream/26163155ab76d071f1a6af638bd63816ce310bd503f54fb9634802ccd74258f3.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]US | Denver | ABC 7 KMGH[geo-blocked]
+https://epg.pw/stream/0b7020f448599e27fe9042d1f3b8b67e47af2bb1fb0b0e3693f36f6cc4eab4c6.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc 7 new york
+https://epg.pw/stream/c7aebfe4fa56857ba66487673a5f5d36097fef3a6f6402cf13f1cc40d313f9a1.ctv
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]ABC 9 Manchester NH (WMUR-TV) (720p)[geo-blocked]
+https://epg.pw/stream/d7b77010df07ed7c892467e7c2732bc495854a307d3bb7e0eb46a6ed5fc69e2f.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC Las Vegas NV[geo-blocked]
+https://epg.pw/stream/d30db27ef26df979ab23c736ae167482917ab74e9cb37948b42efc78a0916c9b.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc 7 chicago
+https://epg.pw/stream/22aa86f9b342371c90572fb21703d9a0244319870c5d4f6ced64d0028ecad3e8.ctv
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]abc me@@1
+https://epg.pw/stream/89225173f142455c8ac7f1b0478398cd6568b6be1333fef32ec115d117abaf4b.ctv
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC News US HD[geo-blocked]
+https://epg.pw/stream/c00eb7b19f898b050c7fdd75c65a23a445490f0457c8d76cbb95b8a70aa8054b.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]ABC 9 Kansas City MO (KMBC-TV) (720p) [Not 24/7][geo-blocked]
+https://epg.pw/stream/ece85a914176f0d928ae105a49303916790e0c476c4380baf62be22dd45f3da3.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC News Australiaᴴᴰ
+https://epg.pw/stream/802c57fd78b363480f09fc400edf13fd7ece48917e6d8a0b3662af23744865a0.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]23 ABC (KERO)[geo-blocked]
+https://epg.pw/stream/066a844bf29e4ac3a14995915970206ba61290cb514c1044bdddd5a8ec33ed1e.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]23 ABC (KERO)[geo-blocked]
+https://epg.pw/stream/7d7f134e47bef48778d5352030d8cd2717fe25987eedf5fd6be44006b5d8cc71.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC[geo-blocked]
+https://epg.pw/stream/c2ed2f6c9895983949cf8499916a6ce386478e9bfaa0dd0907bb84262343c9aa.m3u8
+
+
+
+#EXTINF:-1 tvg-name="CBS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg" group-title="Other",[VGA]CBS 6 Albany NY (WRGB) (720p)[geo-blocked]
+https://epg.pw/stream/eba3b967d2deb254a35b934ca054bff39dcdf9c9915164ff52f7ac47f5a86d03.m3u8
+#EXTINF:-1 tvg-name="CBS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg" group-title="Other",[VGA]US | Albany | CBS 6 WRGB[geo-blocked]
+https://epg.pw/stream/4c18edb3438626f84710ae7f49d7c660cc4c96efa55cec068a0dc9187dffafe3.m3u8
+#EXTINF:-1 tvg-name="CBS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg" group-title="Other",[VGA]CBS 12 West Palm Beach FL (WPEC) (720p)[geo-blocked]
+https://epg.pw/stream/15a27663312fafdcaef8e0a555e83af32370b0fb99a5d99871e8d4f4f17e0c47.m3u8
+#EXTINF:-1 tvg-name="CBS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg" group-title="Other",[SD]CBS 3 Omaha NE (KMTV-TV) (720p)[geo-blocked]
+https://epg.pw/stream/e8860faa0bbb90ecb4ec7ba3c0cebd9b4b7b320ed63dcf9b47105c62e14c5371.m3u8
+#EXTINF:-1 tvg-name="CBS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg" group-title="Other",[HD]cbs 2 los angeles
+https://epg.pw/stream/c430e52d4a5f355e0cc9d5507eb9c54d3b6a6605d279fbe6380cfaf06efd6539.ctv
+#EXTINF:-1 tvg-name="CBS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg" group-title="Other",[SD]CBS 3 Omaha(KMTV)[geo-blocked]
+https://epg.pw/stream/0e9330ca9318369d1e0c81edf78daed505a8e6ce05a956d64d577449b1cabe85.m3u8
+#EXTINF:-1 tvg-name="CBS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg" group-title="Other",[BD]cbs 11 houston
+https://epg.pw/stream/71b23572bc5cb57983705bed16ebddc20bb9f216366dcc245365fc7672494479.ctv
+#EXTINF:-1 tvg-name="CBS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg" group-title="Other",[HD]CBS新闻[geo-blocked]
+https://epg.pw/stream/de52183122a70f63cf74e0da280b32a172adec91b9a4838058164c85334879ee.m3u8
+#EXTINF:-1 tvg-name="CBS 4" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/12/15/large/20221215220144492080_91.jpg" group-title="News",[VGA]tbs@@4
+https://epg.pw/stream/27879642c4c358ca4d2ace0ef3727450cbf0f1a0b6eafef76fa590996a779a27.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[BD]NBC news[geo-blocked]
+https://epg.pw/stream/6477fe0be482a399068a721fc39cb23b0407c69625027d81de00e8afc0a7f77f.m3u8
+#EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[BD]NBC News Now-1-2[geo-blocked]
+https://epg.pw/stream/8d909f2bde83a87391085e2754ffb5a65a12604fec62702000223a6a2104bf09.m3u8
+#EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[SD]nbc sports philadelphia
+https://epg.pw/stream/7ab01c891923d3c0c6d056ab2f721eb761b631a64fcd609c4248be5da252f724.ctv
+#EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[HD]nbc hd
+https://epg.pw/stream/171205429cef4db1a5d64c0f063dc267f72833dc76278a4adbd5b9ff0b4be75c.m3u8
+#EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[SD]NBC 26 Green Bay WI (WGBA)[geo-blocked]
+https://epg.pw/stream/1fe3ac4cf69ac712f4ff62937d27d5000ae0b1ec93fd4dbdc2c0c49f7fb84bfa.m3u8
+#EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[SD]NBC 26 (WGBA)[geo-blocked]
+https://epg.pw/stream/b021cc761ae9e10289062fdd2c34ce57142e41ccf4b89360de648383030a38af.m3u8
+#EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[HD]nbc 2 houston
+https://epg.pw/stream/9177f542efbf224e921800937df3dc42224f8e3538e1346f1472f441da266a5a.ctv
+#EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[HD]nbc 5 chicago
+https://epg.pw/stream/755ed965cb5d513497afdb7dcb07583ff38e93cdc4c5b336ab715a3def83e189.ctv
+#EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[BD]NBC_News[geo-blocked]
+https://epg.pw/stream/feee661fa63d0518dabd2b89526c042e2744183ce5334d2bc770152e495ab97a.m3u8
+#EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[SD]NBC WTMJ4[geo-blocked]
+https://epg.pw/stream/0fa4a6726870ca2e3c49248e6baf68842effbe7778021b14660df9b8bca232ad.m3u8
+#EXTINF:-1 tvg-name="NBC Buffalo" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090322701392_73.png" group-title="News",[HD]nbc bufalo
+https://epg.pw/stream/9241d0bfa187416c9756c008d30c5b792d07fd65d1c26d0958f611e60f59cc5e.ctv
 
 
 #EXTINF:-1 tvg-name="Telemundo" tvg-id="WNJU-DT1" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo new york 47
@@ -480,14 +681,7 @@ https://v-ny.mybtv.net/live/550/1280x720.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Telefe Argentina" tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" group-title="Entertainment",[SD]telefe hd
-https://epg.pw/stream/b2045a4764b04a18dc855c069676ac3b695b498760874ba4eb668363562b2503.ctv
 
-#EXTINF:-1 tvg-name="Telefe Argentina" tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" group-title="Entertainment",[BD]argentina - telefe sd
-https://epg.pw/stream/db6daa767a09e616e37f3b542b20073b496e1777fff04e1c1550c688b8b382d8.ctv
-
-#EXTINF:-1 tvg-name="Telefe Argentina" tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" group-title="Entertainment",TELEFE INTERNACIONAL
-https://epg.pw/stream/f5dab7ab9ccc9c2c6f053230bb0a9fc91f44372f158b42a1bb011d37818382f7.ctv
 
 #EXTINF:0,Cerbero
 https://cerbero.mediaset.es
