@@ -1,4 +1,4 @@
-https://epg.pw/xmltv/epg.xml
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
 
 #EXTINF:-1 tvg-name="TVN, Chile" tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/18/20150518021622731206_39.jpg" group-title="Entertainment",[BD]ChiveTV[geo-blocked]
 https://epg.pw/stream/ee9c445b723e72dbdf43f171f79c4740db4e08de0877d811dc96810d081e705f.m3u8
