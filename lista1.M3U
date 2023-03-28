@@ -5,39 +5,51 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml"
 
 
-#EXTINF:-1 tvg-id="TVPublica.ar" ,TV Pública Argentina
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQaYsAXWJNpiduF7CfZckAt76XcPWwTeM4qkKiI=s48-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA", TV Pública Argentina
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
-
-
-#EXTINF:-1 tvg-id="ARG: El Trece HD" tvg-name="Canal 13 HD El Trece Argentina" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" , EL TRECE 
+#EXTINF:-1 tvg-id="ARG: El Trece HD" tvg-name="Canal 13 HD El Trece Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" group-title="ARGENTINA", EL TRECE
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
 
-
-#EXTINF:-1 tvg-id="ARG: El Trece HD" tvg-name="El Trece" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" , EL TRECE 2
+#EXTINF:-1 tvg-id="ARG: El Trece HD" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" group-title="ARGENTINA", EL TRECE 2
 https://epg.pw/stream/3fb531ba6198b118a4b3fc92e8d7d0011ce427610719d9fdbd30cdc67fa69fed.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="ARG: Telefe HD" tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" tvg-country="Argentina" tvg-language="Spanish" group-title="Entertainment", Telefe HD
+#EXTINF:-1 tvg-id="ARG: Telefe HD" tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" group-title="ARGENTINA", Telefe HD
 https://epg.pw/stream/b2045a4764b04a18dc855c069676ac3b695b498760874ba4eb668363562b2503.ctv
 
-#EXTINF:-1 tvg-id="ARG: Telefe FHD" tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" tvg-country="Argentina" tvg-language="Spanish" group-title="Entertainment", Telefe SD
+#EXTINF:-1 tvg-id="ARG: Telefe FHD" tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" group-title="ARGENTINA", Telefe SD
 https://epg.pw/stream/db6daa767a09e616e37f3b542b20073b496e1777fff04e1c1550c688b8b382d8.ctv
 
-#EXTINF:-1 tvg-id="ARG: Telefe HD" tvg-name="Telefe Argentina" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png" group-title="International", Telefe (INT) 3
+#EXTINF:-1 tvg-id="ARG: Telefe HD" tvg-name="Telefe Argentina" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png" group-title="ARGENTINA", Telefe (INT) 3
 http://tvstarlife.com:25461/live/geovany/geovany/315.m3u8
 
-#EXTINF:-1 tvg-id="ARG: Telefe HD"  tvg-name="Telefe Argentina" tvg-logo="https://telefe-static.akamaized.net/media/18154476/logo-telefe-twitter.png" group-title="Argentina", Telefe COM VPN
+#EXTINF:-1 tvg-id="ARG: Telefe HD"  tvg-name="Telefe Argentina" tvg-logo="https://telefe-static.akamaized.net/media/18154476/logo-telefe-twitter.png" group-title="ARGENTINA", Telefe COM VPN
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#EXTINF:-1 tvg-id="ARG: Telefe HD"  tvg-name="Telefe Argentina" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina", Telefe COM VPN 2
+#EXTINF:-1 tvg-id="ARG: Telefe HD"  tvg-name="Telefe Argentina" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="ARGENTINA", Telefe COM VPN 2
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
-#EXTINF:-1 tvg-id="ARG: Telefe HD"  tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" tvg-country="Argentina" tvg-language="Spanish" group-title="Entertainment", Telefe Internacional
+#EXTINF:-1 tvg-id="ARG: Telefe HD"  tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" tvg-country="Argentina" tvg-language="Spanish" group-title="Entertainment" group-title="ARGENTINA", Telefe Internacional
 https://epg.pw/stream/f5dab7ab9ccc9c2c6f053230bb0a9fc91f44372f158b42a1bb011d37818382f7.ctv
 
 
+
+EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQaYsAXWJNpiduF7CfZckAt76XcPWwTeM4qkKiI=s48-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",Informacion Periodística
+https://ythls.onrender.com/channel/UC1bBjOZieJWHbsFA0LwjjJA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSYU51c8SbrkWZeNBRMFeCnGv0YXPpXuEGBNq-X5g=s48-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",Canal Encuentro
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSYzA3huV-HI91MDWQCaz6y5IjfDpj8sQTqNHLSmg=s68-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",LN+
+https://ythls.onrender.com/channel/UCt4t-jeY85JegMlZ-E5UWtA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zcWXboTnous/hqdefault_live.jpg" group-title="ARGENTINA",América TV
+https://ythls.onrender.com/channel/UCs7sGk0fT1bOm1JLGLu9mxg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSnZ-EKL9UQCi8CSKVDUDbbcwC7BXuZJb_vF4_lbA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="ARGENTINA",SENADO ARGENTINA
+https://ythls.onrender.com/channel/UCt4t-jeY85JegMlZ-E5UWtA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTqGg2bWg02R5un1pFAeuYDMGAVCmna52i__wapvw=s88-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",C5N
+https://ythls.onrender.com/channel/UCxgJd5bORi5GkF5lGmZB0zQ.m3u8
 
 
 
