@@ -33,23 +33,29 @@ https://epg.pw/stream/f5dab7ab9ccc9c2c6f053230bb0a9fc91f44372f158b42a1bb011d3781
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zcWXboTnous/hqdefault_live.jpg" group-title="ARGENTINA",América TV
+https://ythls.onrender.com/channel/UCs7sGk0fT1bOm1JLGLu9mxg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSYzA3huV-HI91MDWQCaz6y5IjfDpj8sQTqNHLSmg=s68-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",LN+
+https://ythls.onrender.com/channel/UCt4t-jeY85JegMlZ-E5UWtA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTqGg2bWg02R5un1pFAeuYDMGAVCmna52i__wapvw=s88-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",C5N
+https://ythls.onrender.com/channel/UCxgJd5bORi5GkF5lGmZB0zQ.m3u8
+
 EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQaYsAXWJNpiduF7CfZckAt76XcPWwTeM4qkKiI=s48-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",Informacion Periodística
 https://ythls.onrender.com/channel/UC1bBjOZieJWHbsFA0LwjjJA.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSYU51c8SbrkWZeNBRMFeCnGv0YXPpXuEGBNq-X5g=s48-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",Canal Encuentro
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSYzA3huV-HI91MDWQCaz6y5IjfDpj8sQTqNHLSmg=s68-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",LN+
-https://ythls.onrender.com/channel/UCt4t-jeY85JegMlZ-E5UWtA.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zcWXboTnous/hqdefault_live.jpg" group-title="ARGENTINA",América TV
-https://ythls.onrender.com/channel/UCs7sGk0fT1bOm1JLGLu9mxg.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSnZ-EKL9UQCi8CSKVDUDbbcwC7BXuZJb_vF4_lbA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="ARGENTINA",SENADO ARGENTINA
 https://ythls.onrender.com/channel/UCt4t-jeY85JegMlZ-E5UWtA.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTqGg2bWg02R5un1pFAeuYDMGAVCmna52i__wapvw=s88-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",C5N
-https://ythls.onrender.com/channel/UCxgJd5bORi5GkF5lGmZB0zQ.m3u8
+
 
 
 
