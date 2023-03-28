@@ -142,24 +142,12 @@ https://epg.pw/stream/4a75b71bdc4ec83f1376db5176204187dc5473357efd72c27be2d2f0a6
 https://epg.pw/stream/16aebd5112aa28d2271ed0f0133eb59bef058056abeebe3d7453b3565fe8a076.m3u8
 #EXTINF:-1 tvg-name="CNBC WORLD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/21/large/20220921124023412812_82.jpg" group-title="News",[HD]cnbc world hd
 https://epg.pw/stream/8ecbe6e96739ba0f7dcb617cde6f472c0c277a0afe95b62064a3734347666e0e.ctv
-#EXTINF:-1 tvg-name="CNBC WORLD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/21/large/20220921124023412812_82.jpg" group-title="News",[BD]mnb world
-https://epg.pw/stream/93497b8c5dca2cd5eb2690addd9548bb19c834ef7deefe65f56cea63ae4164db.m3u8
-#EXTINF:-1 tvg-name="CNBC(USA)" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/10/large/20220310182519775139_27.png" group-title="News",[VGA]cnbc asia@@2[geo-blocked]
-https://epg.pw/stream/9bfc31d77172f84caff4ccf01eadd48ab4f708c66babe3bfa34196786a199d17.ctv
-#EXTINF:-1 tvg-name="CNBC(USA)" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/10/large/20220310182519775139_27.png" group-title="News",[VGA]cnbc asia@@3[geo-blocked]
-https://epg.pw/stream/6b26427b5d7239a0278a60756a4aa2ce7516e254566e8e081602cb2d02ea6c89.ctv
 
-#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc paraguay[geo-blocked]
-https://epg.pw/stream/b7daa230b0f871a38259c10755406c0dc5437f8106350a223704249ec52b7341.m3u8
-#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC 5 Oklahoma City OK (KOCO) (576p) [Not 24/7][geo-blocked]
-https://epg.pw/stream/5ef502848538f90aa408eec0ca3d3318a27fca103a18437f6a306393cec1a5e6.m3u8
-#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC 7 Denver (KMGH)[geo-blocked]
-https://epg.pw/stream/07054a0d16c1710e74f17f99759380643fa94bd9066204f3e6d807e166831a7d.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC 7 Los Angeles CA (KABC-TV) (720p)[geo-blocked]
 https://epg.pw/stream/9055b139e22d2a37ba0ade15ee762f717be641509c7c42dfec93dbdb00bd8b58.m3u8
-#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc me[geo-blocked]
+#EXTINF:-1 tvg-name="CBS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc me[geo-blocked]
 https://epg.pw/stream/0b72ecbba0a86ae7aa3de1f0b2777eb1396bf040d5075ed8e0696c4d63f04b91.m3u8
-#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC Phoenix AZ[geo-blocked]
+#EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC Phoenix AZ[geo-blocked]
 https://epg.pw/stream/2eb966f6ba699fb5d0236906c077176d7ee1e617f2269d087434b5ae5c44c646.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc 13 houston
 https://epg.pw/stream/cc1696302fd6b0f518d01c3728a0e4ecb0bcfee0d34d5a23b5570722c1292be1.ctv
