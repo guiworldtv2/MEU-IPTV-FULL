@@ -12,7 +12,7 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
 
 
-#EXTINF:-1 tvg-id="ARG: El Trece HD" tvg-name="Canal 13 HD El Trece Argentina" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" , EL TRECE 2
+#EXTINF:-1 tvg-id="ARG: El Trece HD" tvg-name="El Trece" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" , EL TRECE 2
 https://livetrx01.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
 
 #EXTINF:-1 tvg-id="ARG: El Trece HD" tvg-name="Canal 13 HD El Trece Argentina" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" , EL TRECE 2
@@ -22,10 +22,10 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8|user-agent=Mozilla/5
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
 
 
-#EXTINF:-1 tvg-id="ARG: Telefe HD"  tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" tvg-country="Argentina" tvg-language="Spanish" group-title="Entertainment", Telefe HD
+#EXTINF:-1 tvg-id="ARG: Telefe HD" tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" tvg-country="Argentina" tvg-language="Spanish" group-title="Entertainment", Telefe HD
 https://epg.pw/stream/b2045a4764b04a18dc855c069676ac3b695b498760874ba4eb668363562b2503.ctv
 
-#EXTINF:-1 tvg-id="ARG: Telefe HD" tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" tvg-country="Argentina" tvg-language="Spanish" group-title="Entertainment", Telefe SD
+#EXTINF:-1 tvg-id="ARG: Telefe FHD" tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" tvg-country="Argentina" tvg-language="Spanish" group-title="Entertainment", Telefe SD
 https://epg.pw/stream/db6daa767a09e616e37f3b542b20073b496e1777fff04e1c1550c688b8b382d8.ctv
 
 #EXTINF:-1 tvg-id="ARG: Telefe HD" tvg-name="Telefe Argentina" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png" group-title="International", Telefe (INT) 3
