@@ -34,7 +34,7 @@ https://epg.pw/stream/f5dab7ab9ccc9c2c6f053230bb0a9fc91f44372f158b42a1bb011d3781
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zcWXboTnous/hqdefault_live.jpg" group-title="ARGENTINA",América TV
-https://ythls.onrender.com/channel/UCs7sGk0fT1bOm1JLGLu9mxg.m3u8
+https://ythls.onrender.com/channel/$americaenvivo.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSYzA3huV-HI91MDWQCaz6y5IjfDpj8sQTqNHLSmg=s68-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",LN+
 https://ythls.onrender.com/channel/UCt4t-jeY85JegMlZ-E5UWtA.m3u8
