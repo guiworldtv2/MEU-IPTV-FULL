@@ -118,8 +118,7 @@ https://epg.pw/stream/1426225237c2f457ff62b3d6cd62d91f919d0deaba005283e3edb8ff5f
 #EXTINF:-1 tvg-name="MSNBC" tvg-country="United States" tvg-language="en" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123012009812276_31.jpg" group-title="MSNBC", MSNBC 3
 https://epg.pw/stream/280bbc6ba8e8d71d425cc1faa9099852056c9a795b9367dc2dab1a0c35069f7b.ctv
 
-#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="en" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="CNBC", CNBC
-https://epg.pw/stream/b56b227b19ee7ab50b0b69330d74e679f76ee9cc5da57d8b41d1b72a525db606.m3u8
+
 
 #EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="en" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="CNBC", CNBC 2
 https://epg.pw/stream/3e0dee382e5a09eed2c7e924bbfc3a0b4d5f613747a338851a56b204da036730.m3u8
