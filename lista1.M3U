@@ -173,8 +173,7 @@ https://epg.pw/stream/9055b139e22d2a37ba0ade15ee762f717be641509c7c42dfec93dbdb00
 https://epg.pw/stream/2eb966f6ba699fb5d0236906c077176d7ee1e617f2269d087434b5ae5c44c646.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc 13 houston
 https://epg.pw/stream/cc1696302fd6b0f518d01c3728a0e4ecb0bcfee0d34d5a23b5570722c1292be1.ctv
-#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]ABC 4 Pittsburg PA (WTAE) (720p)[geo-blocked]
-https://epg.pw/stream/26163155ab76d071f1a6af638bd63816ce310bd503f54fb9634802ccd74258f3.m3u8
+
 #EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]US | Denver | ABC 7 KMGH[geo-blocked]
 https://epg.pw/stream/0b7020f448599e27fe9042d1f3b8b67e47af2bb1fb0b0e3693f36f6cc4eab4c6.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc 7 new york
