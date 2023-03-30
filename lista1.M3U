@@ -187,8 +187,7 @@ https://epg.pw/stream/22aa86f9b342371c90572fb21703d9a0244319870c5d4f6ced64d0028e
 
 #EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC News US HD[geo-blocked]
 https://epg.pw/stream/c00eb7b19f898b050c7fdd75c65a23a445490f0457c8d76cbb95b8a70aa8054b.m3u8
-#EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]ABC 9 Kansas City MO (KMBC-TV) (720p) [Not 24/7][geo-blocked]
-https://epg.pw/stream/ece85a914176f0d928ae105a49303916790e0c476c4380baf62be22dd45f3da3.m3u8
+
 #EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC News Australiaᴴᴰ
 https://epg.pw/stream/802c57fd78b363480f09fc400edf13fd7ece48917e6d8a0b3662af23744865a0.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]23 ABC (KERO)[geo-blocked]
