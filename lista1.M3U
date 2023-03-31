@@ -227,8 +227,7 @@ https://epg.pw/stream/6477fe0be482a399068a721fc39cb23b0407c69625027d81de00e8afc0
 https://epg.pw/stream/8d909f2bde83a87391085e2754ffb5a65a12604fec62702000223a6a2104bf09.m3u8
 #EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[SD]nbc sports philadelphia
 https://epg.pw/stream/7ab01c891923d3c0c6d056ab2f721eb761b631a64fcd609c4248be5da252f724.ctv
-#EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[HD]nbc hd
-https://epg.pw/stream/171205429cef4db1a5d64c0f063dc267f72833dc76278a4adbd5b9ff0b4be75c.m3u8
+
 #EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[SD]NBC 26 Green Bay WI (WGBA)[geo-blocked]
 https://epg.pw/stream/1fe3ac4cf69ac712f4ff62937d27d5000ae0b1ec93fd4dbdc2c0c49f7fb84bfa.m3u8
 #EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[SD]NBC 26 (WGBA)[geo-blocked]
@@ -241,8 +240,7 @@ https://epg.pw/stream/755ed965cb5d513497afdb7dcb07583ff38e93cdc4c5b336ab715a3def
 https://epg.pw/stream/feee661fa63d0518dabd2b89526c042e2744183ce5334d2bc770152e495ab97a.m3u8
 #EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[SD]NBC WTMJ4[geo-blocked]
 https://epg.pw/stream/0fa4a6726870ca2e3c49248e6baf68842effbe7778021b14660df9b8bca232ad.m3u8
-#EXTINF:-1 tvg-name="NBC Buffalo" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090322701392_73.png" group-title="News",[HD]nbc bufalo
-https://epg.pw/stream/9241d0bfa187416c9756c008d30c5b792d07fd65d1c26d0958f611e60f59cc5e.ctv
+
 
 
 #EXTINF:-1 tvg-name="Telemundo" tvg-id="WNJU-DT1" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[BD]telemundo new york 47
