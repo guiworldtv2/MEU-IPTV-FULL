@@ -131,6 +131,10 @@ https://epg.pw/stream/f5dab7ab9ccc9c2c6f053230bb0a9fc91f44372f158b42a1bb011d3781
 
 
 
+#EXTINF:-1 tvg-id="elnueve" tvg-id="nueve" tvg-logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=256&q=75" group-title="Argentina",El nueve 
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zcWXboTnous/hqdefault_live.jpg" group-title="ARGENTINA",América TV
 http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/43320
 
