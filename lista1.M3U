@@ -1,26 +1,3 @@
-#EXTM3U x-tvg-url="https://github.com/acidjesuz/EPG/raw/master/guide.xml"
-#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" tvg-logo="http://2.bp.blogspot.com/_6kYzhJGqq2M/TGpoVXng50I/AAAAAAAAFGM/JkJMfrJH43w/s310/ABC-TV+Logo.png" group-title="Broadcast", ABC
-http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-#EXTINF:-1 tvg-id="I2.1.16689.zap2it.com" tvg-name="CBS New York" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/cbs1.png" group-title="Broadcast", CBS
-http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-#EXTINF:-1 tvg-id="I5.1.20360.zap2it.com" tvg-name="FOX New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/150px-FOX-Channel-Germany.svg.png" group-title="Broadcast", FOX
-http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-#EXTINF:-1 tvg-id="I4.1.20459.zap2it.com" tvg-name="NBC New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="Broadcast", NBC
-#http://v-pi.theus6tv.duckdns.org/hls/10.1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/4.1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-#EXTINF:-1 tvg-id="WBXXDT1.us" tvg-name="CW" tvg-logo="https://ia800801.us.archive.org/17/items/TheCwHd/the%20cw%20hd.png" group-title="Broadcast", CW
-#CWEast.us
-plugin://plugin.video.live.streamspro/?url=%24doregex%5BgetUrl%5D%7CUser-Agent%3DiPad%26Referer%3Dhttps%3A%2F%2Fustv247.tv%2F%26Origin%3Dhttps%3A%2F%2Fustv247.tv&mode=17&regexs=%7B%27getUrl%27%3A%20%7B%27name%27%3A%20%27getUrl%27%2C%20%27expres%27%3A%20%22hls_src%3D%27%28%5B%5E%27%5D%2B%29%22%2C%20%27page%27%3A%20%27https%3A//ustv247.tv%24doregex%5Bstripper%5D%27%2C%20%27referer%27%3A%20%27https%3A//ustv247.tv/the-cw-live-stream/%27%2C%20%27post%27%3A%20%27stream%3A%24doregex%5Bstripper%5D%27%2C%20%27cookiejar%27%3A%20%27%27%7D%2C%20%27stripper%27%3A%20%7B%27name%27%3A%20%27stripper%27%2C%20%27expres%27%3A%20%22%3Ciframe%20src%3D%27%28%5B%5E%27%5D%2B%29%22%2C%20%27page%27%3A%20%27https%3A//ustv247.tv/the-cw-live-stream/%27%2C%20%27cookiejar%27%3A%20%27%27%7D%7D
-
-#EXTINF:-1 tvg-id="WWAYDT1.us" tvg-name="" tvg-logo="https://s3.amazonaws.com/media.muckrack.com/groups/icons/wwaytv3.png" group-title="Broadcast", ABC 3.1 WWAY Wilmington
-http://192.168.1.3:5004/auto/v3.1
-#EXTINF:-1 tvg-id="WWAYDT2.us" tvg-name="" tvg-logo="http://www.tvnewslivestream.com/wp-content/uploads/2019/08/WWAY-ABC-CBS-13-News-238x150.jpg" group-title="Broadcast", CBS 3.2 WWAY Wilmington
-http://192.168.1.3:5004/auto/v3.2
-
-
-
-
-
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mudstein/XML/main/TIZENsiptv.xml"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/K-vanc/Tempest-EPG-Generator/main/Siteconfigs/Argentina/%5BENC%5D%5BEX%5Delcuatro.com_0.channel.xml"
 #EXTM3U x-tvg-url="https://github.com/Nicolas0919/Guia-EPG/raw/master/GuiaEPG.xml.gz"
@@ -28,6 +5,94 @@ http://192.168.1.3:5004/auto/v3.2
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml"
 
 
+
+#EXTINF:-1 ,US: C-Span
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205817
+#EXTINF:-1 ,US: C-Span 2
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/205818
+
+#EXTINF:-1 ,CBS - DALLAS TX KTVT
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1845
+#EXTINF:-1 ,CBS - DETROIT MI WWJ
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1847
+#EXTINF:-1 ,CBS - LOS ANGELES CA KCBS -
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1851
+#EXTINF:-1 ,CBS - NEW YORK NY WCBS -
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1855
+#EXTINF:-1 ,CBS - PHILADELPHIA PA KYW
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1856
+#EXTINF:-1 ,CBS - PHOENIX AZ KPHO
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1857
+#EXTINF:-1 ,CBS - SAN DIEGO CA KFMB
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1860
+
+#EXTINF:-1 ,NBC - CHICAGO IL WMAQ
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1893
+#EXTINF:-1 ,NBC - LOS ANGELES CA KNBC
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1902
+#EXTINF:-1 ,NBC - MIAMI FL WTVJ
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1903
+#EXTINF:-1 ,NBC - PHILADELPHIA PA WCAU
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1906
+#EXTINF:-1 ,NBC - SACRAMENTO CA KCRA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1910
+#EXTINF:-1 ,NBC - SAN DIEGO CA KNSD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1911
+
+#EXTINF:-1 group-title="USA",USA: ABC (West) HD
+http://ghostiptv.vip:80/777444/777444/44699
+#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/675be6079b845935190007db9e49e581.png",USA: ABC 28 (WFTS) Tampa
+http://ghostiptv.vip:80/777444/777444/44700
+#EXTINF:-1 group-title="USA",USA: ABC 30 (KDNL) St. louis
+http://ghostiptv.vip:80/777444/777444/44701
+#EXTINF:-1 group-title="USA",USA: ABC 4
+http://ghostiptv.vip:80/777444/777444/44702
+#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/5cab5a308a876ec4fb75d052db3f1c00.png",USA: ABC 5 (WCVB) Boston
+http://ghostiptv.vip:80/777444/777444/44703
+#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/4f7f32cb4171ca41ed93757799c51259.png",Usa: ABC 7 (KABC) Los Angeles
+http://ghostiptv.vip:80/777444/777444/44704
+#EXTINF:-1 group-title="USA",USA: ABC 7 (WLS) Chicago
+http://ghostiptv.vip:80/777444/777444/44705
+#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/fd0bbb72636a333d4dca81bae6878c75.png",Usa: ABC 7 (WXYZ) Detroit
+http://ghostiptv.vip:80/777444/777444/44706
+#EXTINF:-1 group-title="USA",USA: ABC Atlanta
+http://ghostiptv.vip:80/777444/777444/44707
+#EXTINF:-1 group-title="USA",USA: ABC Baltimore
+http://ghostiptv.vip:80/777444/777444/44708
+#EXTINF:-1 group-title="USA",USA: ABC Dallas
+http://ghostiptv.vip:80/777444/777444/44709
+#EXTINF:-1 group-title="USA",USA: ABC durham
+http://ghostiptv.vip:80/777444/777444/44710
+#EXTINF:-1 group-title="USA",USA: ABC FAMILY/SPARK
+http://ghostiptv.vip:80/777444/777444/44711
+#EXTINF:-1 group-title="USA",USA: ABC Fresno
+http://ghostiptv.vip:80/777444/777444/44712
+#EXTINF:-1 group-title="USA",USA: ABC HD
+http://ghostiptv.vip:80/777444/777444/44713
+#EXTINF:-1 group-title="USA",USA: ABC houston
+http://ghostiptv.vip:80/777444/777444/44714
+#EXTINF:-1 group-title="USA",USA: ABC Kansas City
+http://ghostiptv.vip:80/777444/777444/44715
+#EXTINF:-1 group-title="USA",USA: ABC Milwaukee
+http://ghostiptv.vip:80/777444/777444/44716
+#EXTINF:-1 group-title="USA",USA: ABC Nashville
+http://ghostiptv.vip:80/777444/777444/44717
+#EXTINF:-1 group-title="USA",USA: ABC 7 (WABC) New York
+http://ghostiptv.vip:80/777444/777444/44718
+#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/3eb1b24d2f5b8415419bb838231ce826.png",Usa: ABC News Live
+http://ghostiptv.vip:80/777444/777444/44719
+#EXTINF:-1 group-title="USA",USA: ABC Orlando
+http://ghostiptv.vip:80/777444/777444/44720
+#EXTINF:-1 group-title="USA",USA: ABC Phoenix
+http://ghostiptv.vip:80/777444/777444/44721
+#EXTINF:-1 group-title="USA",USA: ABC Pittsburgh
+http://ghostiptv.vip:80/777444/777444/44722
+#EXTINF:-1 group-title="USA",USA: ABC Salt lake city
+http://ghostiptv.vip:80/777444/777444/44723
+#EXTINF:-1 group-title="USA",USA: ABC San Antonio
+http://ghostiptv.vip:80/777444/777444/44724
+#EXTINF:-1 group-title="USA",USA: ABC 10 (KGTV) San Diego
+http://ghostiptv.vip:80/777444/777444/44725
 
 
 #EXTINF:0,1 NBA All-Star Celebrity Game (17.02.23).mp4
