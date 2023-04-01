@@ -3,6 +3,7 @@
 #EXTM3U x-tvg-url="https://github.com/Nicolas0919/Guia-EPG/raw/master/GuiaEPG.xml.gz"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/mi.tv.xml"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml"
+#EXTM3U x-tvg-url="https://github.com/acidjesuz/EPG/raw/master/guide.xml"
 
 
 
@@ -39,59 +40,59 @@ http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1910
 #EXTINF:-1 ,NBC - SAN DIEGO CA KNSD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1911
 
-#EXTINF:-1 group-title="USA",USA: ABC (West) HD
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC (West) HD
 http://ghostiptv.vip:80/777444/777444/44699
-#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/675be6079b845935190007db9e49e581.png",USA: ABC 28 (WFTS) Tampa
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/675be6079b845935190007db9e49e581.png",USA: ABC 28 (WFTS) Tampa
 http://ghostiptv.vip:80/777444/777444/44700
-#EXTINF:-1 group-title="USA",USA: ABC 30 (KDNL) St. louis
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC 30 (KDNL) St. louis
 http://ghostiptv.vip:80/777444/777444/44701
-#EXTINF:-1 group-title="USA",USA: ABC 4
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC 4
 http://ghostiptv.vip:80/777444/777444/44702
-#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/5cab5a308a876ec4fb75d052db3f1c00.png",USA: ABC 5 (WCVB) Boston
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/5cab5a308a876ec4fb75d052db3f1c00.png",USA: ABC 5 (WCVB) Boston
 http://ghostiptv.vip:80/777444/777444/44703
-#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/4f7f32cb4171ca41ed93757799c51259.png",Usa: ABC 7 (KABC) Los Angeles
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/4f7f32cb4171ca41ed93757799c51259.png",Usa: ABC 7 (KABC) Los Angeles
 http://ghostiptv.vip:80/777444/777444/44704
-#EXTINF:-1 group-title="USA",USA: ABC 7 (WLS) Chicago
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC 7 (WLS) Chicago
 http://ghostiptv.vip:80/777444/777444/44705
-#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/fd0bbb72636a333d4dca81bae6878c75.png",Usa: ABC 7 (WXYZ) Detroit
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/fd0bbb72636a333d4dca81bae6878c75.png",Usa: ABC 7 (WXYZ) Detroit
 http://ghostiptv.vip:80/777444/777444/44706
-#EXTINF:-1 group-title="USA",USA: ABC Atlanta
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC Atlanta
 http://ghostiptv.vip:80/777444/777444/44707
-#EXTINF:-1 group-title="USA",USA: ABC Baltimore
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC Baltimore
 http://ghostiptv.vip:80/777444/777444/44708
-#EXTINF:-1 group-title="USA",USA: ABC Dallas
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC Dallas
 http://ghostiptv.vip:80/777444/777444/44709
-#EXTINF:-1 group-title="USA",USA: ABC durham
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC durham
 http://ghostiptv.vip:80/777444/777444/44710
-#EXTINF:-1 group-title="USA",USA: ABC FAMILY/SPARK
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC FAMILY/SPARK
 http://ghostiptv.vip:80/777444/777444/44711
-#EXTINF:-1 group-title="USA",USA: ABC Fresno
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York"  group-title="USA",USA: ABC Fresno
 http://ghostiptv.vip:80/777444/777444/44712
-#EXTINF:-1 group-title="USA",USA: ABC HD
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC HD
 http://ghostiptv.vip:80/777444/777444/44713
-#EXTINF:-1 group-title="USA",USA: ABC houston
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC houston
 http://ghostiptv.vip:80/777444/777444/44714
-#EXTINF:-1 group-title="USA",USA: ABC Kansas City
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC Kansas City
 http://ghostiptv.vip:80/777444/777444/44715
-#EXTINF:-1 group-title="USA",USA: ABC Milwaukee
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC Milwaukee
 http://ghostiptv.vip:80/777444/777444/44716
-#EXTINF:-1 group-title="USA",USA: ABC Nashville
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC Nashville
 http://ghostiptv.vip:80/777444/777444/44717
-#EXTINF:-1 group-title="USA",USA: ABC 7 (WABC) New York
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC 7 (WABC) New York
 http://ghostiptv.vip:80/777444/777444/44718
-#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/3eb1b24d2f5b8415419bb838231ce826.png",Usa: ABC News Live
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/3eb1b24d2f5b8415419bb838231ce826.png",Usa: ABC News Live
 http://ghostiptv.vip:80/777444/777444/44719
-#EXTINF:-1 group-title="USA",USA: ABC Orlando
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC Orlando
 http://ghostiptv.vip:80/777444/777444/44720
-#EXTINF:-1 group-title="USA",USA: ABC Phoenix
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC Phoenix
 http://ghostiptv.vip:80/777444/777444/44721
-#EXTINF:-1 group-title="USA",USA: ABC Pittsburgh
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC Pittsburgh
 http://ghostiptv.vip:80/777444/777444/44722
-#EXTINF:-1 group-title="USA",USA: ABC Salt lake city
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC Salt lake city
 http://ghostiptv.vip:80/777444/777444/44723
-#EXTINF:-1 group-title="USA",USA: ABC San Antonio
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC San Antonio
 http://ghostiptv.vip:80/777444/777444/44724
-#EXTINF:-1 group-title="USA",USA: ABC 10 (KGTV) San Diego
+#EXTINF:-1 tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" group-title="USA",USA: ABC 10 (KGTV) San Diego
 http://ghostiptv.vip:80/777444/777444/44725
 
 
@@ -317,18 +318,18 @@ https://epg.pw/stream/8ecbe6e96739ba0f7dcb617cde6f472c0c277a0afe95b62064a3734347
 https://epg.pw/stream/9055b139e22d2a37ba0ade15ee762f717be641509c7c42dfec93dbdb00bd8b58.m3u8
 #EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC Phoenix AZ[geo-blocked]
 https://epg.pw/stream/2eb966f6ba699fb5d0236906c077176d7ee1e617f2269d087434b5ae5c44c646.m3u8
-#EXTINF:-1 group-title="USA" tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc 13 houston
+#EXTINF:-1 group-title="USA" tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc 13 houston
 https://epg.pw/stream/cc1696302fd6b0f518d01c3728a0e4ecb0bcfee0d34d5a23b5570722c1292be1.ctv
 
 #EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]US | Denver | ABC 7 KMGH[geo-blocked]
 https://epg.pw/stream/0b7020f448599e27fe9042d1f3b8b67e47af2bb1fb0b0e3693f36f6cc4eab4c6.m3u8
-#EXTINF:-1 group-title="USA" tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc 7 new york
+#EXTINF:-1 group-title="USA" tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc 7 new york
 https://epg.pw/stream/c7aebfe4fa56857ba66487673a5f5d36097fef3a6f6402cf13f1cc40d313f9a1.ctv
 #EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]ABC 9 Manchester NH (WMUR-TV) (720p)[geo-blocked]
 https://epg.pw/stream/d7b77010df07ed7c892467e7c2732bc495854a307d3bb7e0eb46a6ed5fc69e2f.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC Las Vegas NV[geo-blocked]
 https://epg.pw/stream/d30db27ef26df979ab23c736ae167482917ab74e9cb37948b42efc78a0916c9b.m3u8
-#EXTINF:-1 group-title="USA" tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc 7 chicago
+#EXTINF:-1 group-title="USA" tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]abc 7 chicago
 https://epg.pw/stream/22aa86f9b342371c90572fb21703d9a0244319870c5d4f6ced64d0028ecad3e8.ctv
 
 #EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC News US HD[geo-blocked]
@@ -353,11 +354,11 @@ https://epg.pw/stream/4c18edb3438626f84710ae7f49d7c660cc4c96efa55cec068a0dc9187d
 https://epg.pw/stream/15a27663312fafdcaef8e0a555e83af32370b0fb99a5d99871e8d4f4f17e0c47.m3u8
 #EXTINF:-1 tvg-name="CBS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg" group-title="Other",[SD]CBS 3 Omaha NE (KMTV-TV) (720p)[geo-blocked]
 https://epg.pw/stream/e8860faa0bbb90ecb4ec7ba3c0cebd9b4b7b320ed63dcf9b47105c62e14c5371.m3u8
-#EXTINF:-1 tvg-name="CBS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg" group-title="Other",[HD]cbs 2 los angeles
+#EXTINF:-1 tvg-id="I2.1.16689.zap2it.com" tvg-name="CBS New York" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg" group-title="Other",[HD]cbs 2 los angeles
 https://epg.pw/stream/c430e52d4a5f355e0cc9d5507eb9c54d3b6a6605d279fbe6380cfaf06efd6539.ctv
-#EXTINF:-1 tvg-name="CBS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg" group-title="Other",[SD]CBS 3 Omaha(KMTV)[geo-blocked]
+#EXTINF:-1 tvg-id="I2.1.16689.zap2it.com" tvg-name="CBS New York" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg" group-title="Other",[SD]CBS 3 Omaha(KMTV)[geo-blocked]
 https://epg.pw/stream/0e9330ca9318369d1e0c81edf78daed505a8e6ce05a956d64d577449b1cabe85.m3u8
-#EXTINF:-1 group-title="USA" tvg-name="CBS" tvg-id="CBS" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg" group-title="Other",[BD]cbs 11 houston
+#EXTINF:-1 group-title="USA" tvg-id="I2.1.16689.zap2it.com" tvg-name="CBS New York" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg" group-title="Other",[BD]cbs 11 houston
 https://epg.pw/stream/71b23572bc5cb57983705bed16ebddc20bb9f216366dcc245365fc7672494479.ctv
 #EXTINF:-1 tvg-name="CBS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg" group-title="Other",[HD]CBS新闻[geo-blocked]
 https://epg.pw/stream/de52183122a70f63cf74e0da280b32a172adec91b9a4838058164c85334879ee.m3u8
@@ -378,9 +379,9 @@ https://epg.pw/stream/7ab01c891923d3c0c6d056ab2f721eb761b631a64fcd609c4248be5da2
 https://epg.pw/stream/1fe3ac4cf69ac712f4ff62937d27d5000ae0b1ec93fd4dbdc2c0c49f7fb84bfa.m3u8
 #EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[SD]NBC 26 (WGBA)[geo-blocked]
 https://epg.pw/stream/b021cc761ae9e10289062fdd2c34ce57142e41ccf4b89360de648383030a38af.m3u8
-#EXTINF:-1 group-title="USA" tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[HD]nbc 2 houston
+#EXTINF:-1 group-title="USA" tvg-id="I4.1.20459.zap2it.com" tvg-name="NBC New York" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[HD]nbc 2 houston
 https://epg.pw/stream/9177f542efbf224e921800937df3dc42224f8e3538e1346f1472f441da266a5a.ctv
-#EXTINF:-1 group-title="USA" tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[HD]nbc 5 chicago
+#EXTINF:-1 group-title="USA" tvg-id="I4.1.20459.zap2it.com" tvg-name="NBC New York" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[HD]nbc 5 chicago
 https://epg.pw/stream/755ed965cb5d513497afdb7dcb07583ff38e93cdc4c5b336ab715a3def83e189.ctv
 #EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[BD]NBC_News[geo-blocked]
 https://epg.pw/stream/feee661fa63d0518dabd2b89526c042e2744183ce5334d2bc770152e495ab97a.m3u8
