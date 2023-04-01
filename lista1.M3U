@@ -271,6 +271,13 @@ https://epg.pw/stream/c430e52d4a5f355e0cc9d5507eb9c54d3b6a6605d279fbe6380cfaf06e
 https://epg.pw/stream/0e9330ca9318369d1e0c81edf78daed505a8e6ce05a956d64d577449b1cabe85.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="I2.1.16689.zap2it.com" tvg-name="CBS New York" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg",[BD]cbs 11 houston
 https://epg.pw/stream/71b23572bc5cb57983705bed16ebddc20bb9f216366dcc245365fc7672494479.ctv
+#EXTINF:-1 group-title="USA" tvg-id="I2.1.16689.zap2it.com" tvg-name="CBS New York" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg",[BD]cbs 4 miami
+https://epg.pw/stream/81f6c26e1d231a13cbc4f11847e5ed09668d03f2a2b1dead9cd514405b3fcc8e.ctv
+
+#EXTINF:-1 group-title="USA" tvg-id="I2.1.16689.zap2it.com" tvg-name="CBS New York" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg",[BD]cbs indefinido
+https://epg.pw/stream/66732f8430e1c1c4129b9332e88bc09130f91b373989a9744252f21dddcf053f.m3u8
+
+
 #EXTINF:-1 tvg-name="CBS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg" group-title="Other",[HD]CBS新闻[geo-blocked]
 https://epg.pw/stream/de52183122a70f63cf74e0da280b32a172adec91b9a4838058164c85334879ee.m3u8
 #EXTINF:-1 tvg-name="CBS 4" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/12/15/large/20221215220144492080_91.jpg" group-title="News",[VGA]tbs@@4
