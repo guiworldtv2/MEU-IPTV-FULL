@@ -32,30 +32,8 @@ https://archive.org/download/NBAAllStarWeekend2023-FullPlayback-Utah/4%20NBA%20A
 #EXTINF:-1 group-title="USA" tvg-id="usbrtv" tvg-name="USBR TV" tvg-logo="https://www.usbrtv.com/wp-content/uploads/2022/05/logo-white.png", USBRTV - AO VIVO
 https://5a2b083e9f360.streamlock.net/usbrasiltv/usbrasiltv.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS Albuquerque HD
-http://hidra.live:80/usvhppwq/4C3D7fuen2/43671
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS Baltimore FHD
-http://hidra.live:80/usvhppwq/4C3D7fuen2/43672
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS Boston FHD
-http://hidra.live:80/usvhppwq/4C3D7fuen2/43673
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS KTVT FHD
-http://hidra.live:80/usvhppwq/4C3D7fuen2/43676
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS Los Angeles HD
-http://hidra.live:80/usvhppwq/4C3D7fuen2/43677
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS Miami FHD
-http://hidra.live:80/usvhppwq/4C3D7fuen2/43679
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS New Orleans FHD
-http://hidra.live:80/usvhppwq/4C3D7fuen2/43680
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS New York FHD
-http://hidra.live:80/usvhppwq/4C3D7fuen2/43681
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS New York Area HD
-http://hidra.live:80/usvhppwq/4C3D7fuen2/43682
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS Philadelphia FHD
-http://hidra.live:80/usvhppwq/4C3D7fuen2/43683
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS SN HD
-http://hidra.live:80/usvhppwq/4C3D7fuen2/43685
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS Sports News HQ HD
-http://hidra.live:80/usvhppwq/4C3D7fuen2/43686 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/mtv.png",US: MTV 2 SD
+
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/mtv.png",US: MTV 2 SD
 http://hidra.live:80/usvhppwq/4C3D7fuen2/43649
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://picon-13398.kxcdn.com/abc2us.jpg",ABC 2 WSB Atlanta HD US
