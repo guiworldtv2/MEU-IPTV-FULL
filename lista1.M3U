@@ -25,6 +25,41 @@ http://212.8.248.94:2103/live/nani27/nani27/2503.ts
 #EXTINF:-1,|US| NBC GOLF CHANNEL HD
 http://212.8.248.94:2103/live/nani27/nani27/2500.ts
 
+#EXTINF:-1,US: C-SPAN 1 HD
+http://tvipbr.net:8080/live/7171/7171/19968.ts
+#EXTINF:-1,US: C-SPAN 3 HD
+http://tvipbr.net:8080/live/7171/7171/19966.ts
+
+
+#EXTINF:-1,MTV FHD
+http://plextreamiptv.net:80/live/mine/mine/6347.m3u8
+#EXTINF:-1,MTV HD
+http://plextreamiptv.net:80/live/mine/mine/1713.m3u8
+#EXTINF:-1,MTV
+http://plextreamiptv.net:80/live/mine/mine/1712.m3u8
+#EXTINF:-1,MTV Hits HD
+http://plextreamiptv.net:80/live/mine/mine/1711.m3u8
+#EXTINF:-1,MTV Live HD
+http://plextreamiptv.net:80/live/mine/mine/1710.m3u8
+#EXTINF:-1,MTV Base HD
+http://plextreamiptv.net:80/live/mine/mine/1708.m3u8
+#EXTINF:-1,MTV Classic
+http://plextreamiptv.net:80/live/mine/mine/1705.m3u8
+#EXTINF:-1,MTV Dance HD
+http://plextreamiptv.net:80/live/mine/mine/1709.m3u8
+#EXTINF:-1,MTV Music
+http://plextreamiptv.net:80/live/mine/mine/1706.m3u8
+#EXTINF:-1,MTV Rocks HD
+http://plextreamiptv.net:80/live/mine/mine/1707.m3u8
+
+#EXTINF:-1,USA: ABC West FHD
+http://plextreamiptv.net:80/live/mine/mine/6340.m3u8
+#EXTINF:-1,USA: CBS FHD
+http://plextreamiptv.net:80/live/mine/mine/6326.m3u8
+
+#EXTINF:-1,USA: NBC West FHD
+http://plextreamiptv.net:80/live/mine/mine/6346.m3u8
+
 #EXTINF:0,1 NBA All-Star Celebrity Game (17.02.23).mp4
 #EXT-X-PROGRAM-DATE-TIME:2023-02-20T06:05:00Z
 #EXT-X-TARGETDURATION:871
