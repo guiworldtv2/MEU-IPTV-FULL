@@ -29,6 +29,103 @@ https://archive.org/download/NBAAllStarWeekend2023-FullPlayback-Utah/3%20NBA%20A
 #EXT-X-VERSION:3
 https://archive.org/download/NBAAllStarWeekend2023-FullPlayback-Utah/4%20NBA%20All-Star%20Game%20%2819.02.23%29.mp4
 
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS Albuquerque HD
+http://hidra.live:80/usvhppwq/4C3D7fuen2/43671
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS Baltimore FHD
+http://hidra.live:80/usvhppwq/4C3D7fuen2/43672
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS Boston FHD
+http://hidra.live:80/usvhppwq/4C3D7fuen2/43673
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS KTVT FHD
+http://hidra.live:80/usvhppwq/4C3D7fuen2/43676
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS Los Angeles HD
+http://hidra.live:80/usvhppwq/4C3D7fuen2/43677
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS Miami FHD
+http://hidra.live:80/usvhppwq/4C3D7fuen2/43679
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS New Orleans FHD
+http://hidra.live:80/usvhppwq/4C3D7fuen2/43680
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS New York FHD
+http://hidra.live:80/usvhppwq/4C3D7fuen2/43681
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS New York Area HD
+http://hidra.live:80/usvhppwq/4C3D7fuen2/43682
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS Philadelphia FHD
+http://hidra.live:80/usvhppwq/4C3D7fuen2/43683
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS SN HD
+http://hidra.live:80/usvhppwq/4C3D7fuen2/43685
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS Sports News HQ HD
+http://hidra.live:80/usvhppwq/4C3D7fuen2/43686 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/mtv.png",US: MTV 2 SD
+http://hidra.live:80/usvhppwq/4C3D7fuen2/43649
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://picon-13398.kxcdn.com/abc2us.jpg",ABC 2 WSB Atlanta HD US
+http://45.12.1.14:80/BlIm21564/agf7Fp264/28220
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://picon-13398.kxcdn.com/abcsparkca.jpg",ABC Spark HD CA
+http://45.12.1.14:80/BlIm21564/agf7Fp264/29473
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://static2.wikia.nocookie.net/__cb20101113195547/logopedia/images/6/62/WPLG_Local_10_ABC.png",ABC 10 MIAMI HD
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ABC.smil/chunklist_b1160000_slen.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://img3.wikia.nocookie.net/__cb20121110235042/logopedia/images/b/b4/Wtvj_nbc_6_south_florida.png",NBC 6 MIAMI HD
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NBC.smil/chunklist_b1160000_slen.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://bluepandenver.com/wp-content/uploads/2016/03/cbs-news.png",CBS HD
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CBS.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="http://51.79.21.44:80/images/0c5430f3ec92a56ddd05378b4200f0b5.png",USA C-SPAN
+http://ky-iptv.com:80/deshazior/deshazior/175983
+#EXTINF:-1 group-title="USA" tvg-logo="http://185.156.74.135:80/images/6a0ac50d67746752be975e3e20285c07.png",USA C-SPAN 2
+http://ky-iptv.com:80/deshazior/deshazior/175984
+#EXTINF:-1 group-title="USA" tvg-logo="http://185.156.74.135:80/images/0ea6add692992b8a5316407be14423f6.png",USA CNN INTERNATIONAL*
+http://ky-iptv.com:80/deshazior/deshazior/175988
+
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://picon-13398.kxcdn.com/mtv2.jpg",MTV 2 HD US
+http://45.12.1.14:80/BlIm21564/agf7Fp264/28185
+#EXTINF:-1 group-title="USA" tvg-logo="https://picon-13398.kxcdn.com/mtvclassic.jpg",MTV Classic HD US
+http://45.12.1.14:80/BlIm21564/agf7Fp264/27468
+#EXTINF:-1 group-title="USA" tvg-logo="https://picon-13398.kxcdn.com/mtvu.jpg",MTV U HD US
+http://45.12.1.14:80/BlIm21564/agf7Fp264/27305
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://static.epg.best/us/FOXWXIX.us.png",FOX 7 AUSTIN TX HD
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX.smil/chunklist_b1160000.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/1920px-WGN_9_logo.svg.png",WGN 9
+http://gtv01.airlinktt.co/live/smil:WGN.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://image.pbs.org/bento3-prod/southfloridapbs/371220d04f_ed4727b385_StationImages-WPBT.png",South Florida PBS
+http://gtv01.airlinktt.co/live/smil:PBS.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/a/a6/MyTV33_2011.jpg",MY 33
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:MY33.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://img2.wikia.nocookie.net/__cb20140603140410/logopedia/images/thumb/9/92/We_TV_new_logo_2014.png/200px-We_TV_new_logo_2014.png",WE TV+ HD
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:WE_TV.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/01/AlJazeera-America.jpg",AL JAZEERA NEWS ENGLISH
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ALJAZEERA.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/gb/BBCWorldNews.uk.png",BBC WORLD NEWS HD
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BBC_WORLD.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC TORONTO HD
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CBC.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CityTVToronto.ca.png",CITY TORONTO HD
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:CITY_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://picon-13398.kxcdn.com/cnbc.jpg",CNBC HD
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:CNBC.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CTVToronto.ca.png",CTV NEWS HD 
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:CTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/FoxNews.us.png",FOX News
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX_NEWS.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/fr/France24English.fr.png",FRANCE 24 ENGLISH
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:FRANCE_24.smil/chunklist_b2160000_slen.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://streaming-engine-assets.rftslb.com/posters/image/image/1090028/main_main.jpg",KTLA 5 HD (LA)
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:KTLA.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC HD
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MSNBC.smil/playlist.m3u8 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS 5 KPHO FHD
+http://hidra.live:80/usvhppwq/4C3D7fuen2/43670
+
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/mtv.png",US: MTV Classic SD
+http://hidra.live:80/usvhppwq/4C3D7fuen2/43650
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/mtv.png",US: MTV Live HD
+http://hidra.live:80/usvhppwq/4C3D7fuen2/43651
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/mtv.png",US: MTV U SD
+http://hidra.live:80/usvhppwq/4C3D7fuen2/43652
+
+
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="ARGENTINA", TV Pública Argentina
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
