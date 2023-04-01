@@ -5,6 +5,26 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml"
 
 
+#EXTINF:-1,|US| C-Span 1
+http://212.8.248.94:2103/live/nani27/nani27/3092.ts
+#EXTINF:-1,|US| C-Span 2
+http://212.8.248.94:2103/live/nani27/nani27/3091.ts
+#EXTINF:-1,|US| C-Span 3
+http://212.8.248.94:2103/live/nani27/nani27/3090.ts
+
+
+#EXTINF:-1,|US| CBS HD
+http://212.8.248.94:2103/live/nani27/nani27/3087.ts
+
+#EXTINF:-1,|US| ABC (WEST) HD
+http://212.8.248.94:2103/live/nani27/nani27/2441.ts
+
+#EXTINF:-1,|US| NBC (NY) FHD
+http://212.8.248.94:2103/live/nani27/nani27/2503.ts
+
+#EXTINF:-1,|US| NBC GOLF CHANNEL HD
+http://212.8.248.94:2103/live/nani27/nani27/2500.ts
+
 #EXTINF:0,1 NBA All-Star Celebrity Game (17.02.23).mp4
 #EXT-X-PROGRAM-DATE-TIME:2023-02-20T06:05:00Z
 #EXT-X-TARGETDURATION:871
