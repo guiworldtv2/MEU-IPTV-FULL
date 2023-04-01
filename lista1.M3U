@@ -109,7 +109,7 @@ https://epg.pw/stream/f5dab7ab9ccc9c2c6f053230bb0a9fc91f44372f158b42a1bb011d3781
 
 
 
-#EXTINF:-1 tvg-id="elnueve" tvg-id="nueve" tvg-logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=256&q=75" group-title="Argentina",El nueve 
+#EXTINF:-1 tvg-id="elnueve" tvg-id="nueve" tvg-logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=256&q=75" group-title="ARGENTINA",El nueve 
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
 
 
@@ -347,28 +347,7 @@ https://epg.pw/stream/03b1a77f23c06456861b66ba950e76a3a68b4c127c4f5204d9462a30f6
 #EXTINF:-1 tvg-chno"" tvg-id="WBNX-DT1" tvg-logo="" group-title="IN", WBNX 55
 https://mrgmaw.github.io/enlaces/in/inwbnx.m3u8
 
-#EXTINF:-1 tvg-chno="7.1" tvg-id="KGO.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="SF",KGO TV abc
-https://mrgmaw.github.io/enlaces/ca/caabc.m3u8
-#EXTINF:-1 tvg-chno="5.1" tvg-id="KPIX-TV" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="SF",KPIX cbs
-https://mrgmaw.github.io/enlaces/ca/cacbs.m3u8
-#EXTINF:-1 tvg-chno="11.1" tvg-id="KNTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="SF",KNTV nbc
-https://mrgmaw.github.io/enlaces/ca/canbc.m3u8
-#EXTINF:-1 tvg-chno="2.1" tvg-id="KTVU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="SF",KTVU fox
-https://mrgmaw.github.io/enlaces/ca/catvu.m3u8
-#EXTINF:-1 tvg-chno="60.6" tvg-id="KPJK.us" tvg-logo="https://media-usba.mybtv.net/logos/jazztv.png" group-title="SF",KPJK jazz
-https://mrgmaw.github.io/enlaces/ca/cacsm.m3u8
 
-#EXTINF:-1 tvg-chno="9.1" tvg-id="KQED.us" tvg-logo="https://image.pbs.org/bento3-prod/kwcm-bento-live-pbs/Logos/PBS%20National/PBS%20logo/aaac26c5b7_PBS_P-Head-01.png" group-title="SF",KQED PBS
-https://mrgmaw.github.io/enlaces/ca/caqed.m3u8
-#EXTINF:-1 tvg-chno="28.1" tvg-id="KCNZ.us" tvg-logo="https://media.localbtv.com/images/atlantabtv/logos/latv.png" group-title="SF",KCNZ LATV
-https://mrgmaw.github.io/enlaces/ca/cacnz.m3u8
-
-#EXTINF:-1 tvg-chno="66.1" tvg-id="KFSFDT1.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="SF",KFSF Unimas
-https://mrgmaw.github.io/enlaces/ca/cafsf1.m3u8
-#EXTINF:-1 tvg-chno="66.2" tvg-id="KFSFDT2.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="SF",KFSF Univision
-https://mrgmaw.github.io/enlaces/ca/cafsf.m3u8
-#EXTINF:-1 tvg-chno="14.1" tvg-id="KDTV.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="SF",KDTV Univision
-https://mrgmaw.github.io/enlaces/ca/cadtv.m3u8
 
 
 #EXTINF:-1 tvg-chno="15.1" tvg-id="KNXV.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="PX",KNXV abc
