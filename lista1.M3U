@@ -38,47 +38,15 @@ https://5a2b083e9f360.streamlock.net/usbrasiltv/usbrasiltv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/mtv.png",US: MTV 2 SD
 http://hidra.live:80/usvhppwq/4C3D7fuen2/43649
 
-
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://img3.wikia.nocookie.net/__cb20121110235042/logopedia/images/b/b4/Wtvj_nbc_6_south_florida.png",NBC 6 MIAMI HD
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NBC.smil/chunklist_b1160000_slen.m3u8
-
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://image.pbs.org/bento3-prod/southfloridapbs/371220d04f_ed4727b385_StationImages-WPBT.png",South Florida PBS
-http://gtv01.airlinktt.co/live/smil:PBS.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/a/a6/MyTV33_2011.jpg",MY 33
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:MY33.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://img2.wikia.nocookie.net/__cb20140603140410/logopedia/images/thumb/9/92/We_TV_new_logo_2014.png/200px-We_TV_new_logo_2014.png",WE TV+ HD
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:WE_TV.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/01/AlJazeera-America.jpg",AL JAZEERA NEWS ENGLISH
-http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ALJAZEERA.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/gb/BBCWorldNews.uk.png",BBC WORLD NEWS HD
-http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BBC_WORLD.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC TORONTO HD
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CBC.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CityTVToronto.ca.png",CITY TORONTO HD
-http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:CITY_TV.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://picon-13398.kxcdn.com/cnbc.jpg",CNBC HD
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:CNBC.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CTVToronto.ca.png",CTV NEWS HD 
-http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:CTV.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/fr/France24English.fr.png",FRANCE 24 ENGLISH
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:FRANCE_24.smil/chunklist_b2160000_slen.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://streaming-engine-assets.rftslb.com/posters/image/image/1090028/main_main.jpg",KTLA 5 HD (LA)
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:KTLA.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC HD
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MSNBC.smil/playlist.m3u8 
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS 5 KPHO FHD
 http://hidra.live:80/usvhppwq/4C3D7fuen2/43670
 
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/mtv.png",US: MTV Classic SD
-http://hidra.live:80/usvhppwq/4C3D7fuen2/43650
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/mtv.png",US: MTV Live HD
+#EXTINF:-1 tvg-id="I572.49141.zap2it.com" group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/mtv.png",US: MTV Live HD
 http://hidra.live:80/usvhppwq/4C3D7fuen2/43651
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/mtv.png",US: MTV U SD
+#EXTINF:-1 tvg-id="I336.22561.zap2it.com" group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/mtv.png",US: MTV Classic SD
+http://hidra.live:80/usvhppwq/4C3D7fuen2/43650
+
+#EXTINF:-1 tvg-id="I429.66419.schedulesdirect.org" group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/mtv.png",US: MTV U SD
 http://hidra.live:80/usvhppwq/4C3D7fuen2/43652
 
 
