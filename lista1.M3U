@@ -321,59 +321,14 @@ https://epg.pw/stream/ca4977731a812c7721133cd20fb1c4ba5fe4dee6eb3eb967ee08100f56
 https://epg.pw/stream/03b1a77f23c06456861b66ba950e76a3a68b4c127c4f5204d9462a30f6fd0417.m3u8
 
 
-#EXTINF:-1 tvg-chno"" tvg-id="WBNX-DT1" tvg-logo="" group-title="IN", WBNX 55
-https://mrgmaw.github.io/enlaces/in/inwbnx.m3u8
 
 
 
 
-#EXTINF:-1 tvg-chno="15.1" tvg-id="KNXV.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="PX",KNXV abc
-https://mrgmaw.github.io/enlaces/px/pxabc.m3u8
-#EXTINF:-1 tvg-chno="5.1" tvg-id="KPHO-TV" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="PX",KPHO cbs
-https://mrgmaw.github.io/enlaces/px/pxcbs.m3u8
-#EXTINF:-1 tvg-chno="12.1" tvg-id="KPNX.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="PX",KPNX nbc
-https://mrgmaw.github.io/enlaces/px/pxnbc.m3u8
-#EXTINF:-1 tvg-chno="67.1" tvg-id="KDJTDT1.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="PX",KDJT Univision
-https://mrgmaw.github.io/enlaces/px/pxdjt.m3u8
-#EXTINF:-1 tvg-chno="67.1" tvg-id="KDJTDT1.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="PX",KDJT Unimas
-https://mrgmaw.github.io/enlaces/px/pxdjt1.m3u8
-#EXTINF:-1 tvg-chno="67.1" tvg-id="KSAZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="PX",KSAZ fox10
-https://mrgmaw.github.io/enlaces/px/pxfox.m3u8
-#EXTINF:-1 tvg-chno="67.1" tvg-id="KSAZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="PX",KSAZ fox10
-https://mrgmaw.github.io/enlaces/px/pxfox1.m3u8
-#EXTINF:-1 tvg-chno="40.1" tvg-id="KEJRLD.us" tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="PX",Azteca América
-https://mrgmaw.github.io/enlaces/px/pxazam.m3u8
-#EXTINF:-1 tvg-chno="39.1" tvg-id="KTAZDT1.us" tvg-logo="https://static.epg.best/mx/Telemundo.mx.png" group-title="PX",KTAZ Telemundo
-https://mrgmaw.github.io/enlaces/px/pxtaz.m3u8
-
-#EXTINF:-1 tvg-chno="51.1" tvg-id="KPPXDT1.us" tvg-logo="https://cdn.blog.tdstelecom.com/wp-content/uploads/2017/08/Ion-tv.jpg" group-title="PX",ION
-https://mrgmaw.github.io/enlaces/px/pxion.m3u8
-#EXTINF:-1 tvg-chno="8.1" tvg-id="KAETDT1.us" tvg-logo="https://image.pbs.org/bento3-prod/kwcm-bento-live-pbs/Logos/PBS%20National/PBS%20logo/aaac26c5b7_PBS_P-Head-01.png" group-title="PX",PBS
-https://mrgmaw.github.io/enlaces/px/pxpbs.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="7.1" tvg-id="KABCDT1.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="LA",KABC abc7
-https://mrgmaw.github.io/enlaces/la/laabc.m3u8
-#EXTINF:-1 tvg-chno="9.1" tvg-id="KCALTV1.us" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="LA",KCAL cbs9
-https://mrgmaw.github.io/enlaces/la/lacal.m3u8
 
-#EXTINF:-1 tvg-chno="4.1" tvg-id="KNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="LA",KNBC nbc4
-https://mrgmaw.github.io/enlaces/la/lanbc.m3u8
-#EXTINF:-1 tvg-chno="11.1" tvg-id="KTTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="LA",KTTV fox11
-https://mrgmaw.github.io/enlaces/la/lattv.m3u8
-#EXTINF:-1 tvg-chno="34.1" tvg-id="KMEXDT1.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="LA",KMEX Univision
-https://mrgmaw.github.io/enlaces/la/lamex.m3u8
-#EXTINF:-1 tvg-chno="52.1" tvg-id="KVEA.us" tvg-logo="https://static.epg.best/mx/Telemundo.mx.png" group-title="LA",KVEA Telemundo
-https://mrgmaw.github.io/enlaces/la/lavea.m3u8
-#EXTINF:-1 tvg-chno="34.1" tvg-id="KMEXDT2.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="LA",KMEX-DT2 Unimas
-https://mrgmaw.github.io/enlaces/la/lamexdt2.m3u8
-#EXTINF:-1 tvg-chno="62.1" tvg-id="KRCA.us" tvg-logo="https://media.localbtv.com/images/atlantabtv/logos/estrella.png" group-title="LA",KRCA Estrella
-https://mrgmaw.github.io/enlaces/la/larca.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="LA",Comet
-https://mrgmaw.github.io/enlaces/la/lacomet.m3u8
-#EXTINF:-1 tvg-chno="5.1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/320px-The_CW.svg.png" group-title="LA",KTLA5 The CW
-https://mrgmaw.github.io/enlaces/la/latla5.m3u8
 
 #EXTINF:-1 tvg-chno="7.1" tvg-id="WABCDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="NY",WABC abc7
 https://mrgmaw.github.io/enlaces/ny/nyabc.m3u8
