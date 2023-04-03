@@ -1,7 +1,3 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mudstein/XML/main/TIZENsiptv.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/K-vanc/Tempest-EPG-Generator/main/Siteconfigs/Argentina/%5BENC%5D%5BEX%5Delcuatro.com_0.channel.xml"
-#EXTM3U x-tvg-url="https://github.com/Nicolas0919/Guia-EPG/raw/master/GuiaEPG.xml.gz"
-
 #EXTM3U x-tvg-url="https://github.com/acidjesuz/EPG/raw/master/guide.xml"
 
 
@@ -114,21 +110,15 @@ https://ythls.onrender.com/video/Gq6MIaZ501A.m3u8
 
 
 
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/rev.bs.xml"
 
 
 
 
 
-#EXTM3U x-tvg-url="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml"
+
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/tvguide.com.xml"
-
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/gatotv.com.epg.xml"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml"
-
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/flixed.io.xml"
 
 
