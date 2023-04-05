@@ -52,7 +52,11 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="ARG: El Trece HD" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" group-title="ARGENTINA", EL TRECE 2
-https://epg.pw/stream/3fb531ba6198b118a4b3fc92e8d7d0011ce427610719d9fdbd30cdc67fa69fed.m3u8
+https://epg.pw/stream/ae39a82a7424799959cc748490a5ed56908aadd89ca774e2a390833bd5a9a1af.ctv
+
+#EXTINF:-1 tvg-id="ARG: El Trece HD" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" group-title="ARGENTINA", EL TRECE 3
+https://epg.pw/stream/f69fa69719864d8e2353e4d455cdb447ff132b76fd20434d1564a70adfc2db0f.ctv
+
 
 #EXTINF:-1 tvg-id="ARG: Telefe HD" tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" group-title="ARGENTINA", Telefe HD
 https://epg.pw/stream/b2045a4764b04a18dc855c069676ac3b695b498760874ba4eb668363562b2503.ctv
