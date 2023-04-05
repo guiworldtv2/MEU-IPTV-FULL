@@ -1,3 +1,7 @@
+#EXTM3U x-tvg-url="https://github.com/acidjesuz/EPG/raw/master/guide.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+
+
 #EXTINF:-1 tvg-name="Caracol" tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[HD]caracol tv@@1[geo-blocked]
 https://epg.pw/stream/349233579d2a5027a04950e963e7903d1a516aff268e72b33eb09a56a96c5edf.ctv
 #EXTINF:-1 tvg-name="Caracol" tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[VGA]canal caracol@@6
