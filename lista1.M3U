@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México",[HD]las estrellas[geo-blocked]
+https://epg.pw/stream/39ffdd5f3a07ad410754cd5be6694ca054b3489b8d25a3d9dde8dea1809ccaf4.m3u8
+
+
 #EXTINF:-1 tvg-name="Las Estrellas" tvg-id="" tvg-country="MX" tvg-language="es" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México", [BD] Las Estrellas Latinoamérica
 https://epg.pw/stream/0b671c18068b9b431ae06d2af2809086eeff9688e63951f441e5feb1a1282a6a.ctv
 
@@ -19,8 +23,7 @@ https://epg.pw/stream/5cc2d89a72d564d058e74a2fe2178e8b1e28aa3374c34e0ae4ddda812e
 https://epg.pw/stream/feb57ba17d5d3b5f050abd0dc44881f1e720737a4d089bc1695b3e7b03981513.m3u8
 #EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México",[BD]las estrellas latam[geo-blocked]
 https://epg.pw/stream/82a44bec8d296d7184bbc564f98888eb1f0710ece418d92a5835ab4cc5189101.m3u8
-#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México",[HD]las estrellas[geo-blocked]
-https://epg.pw/stream/39ffdd5f3a07ad410754cd5be6694ca054b3489b8d25a3d9dde8dea1809ccaf4.m3u8
+
 #EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México",[HD]estrellas de accion[geo-blocked]
 https://epg.pw/stream/ee84f0c17e654f849da55d84627a0618c33579b525eae13e251cdb831f028358.m3u8
 #EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México",[VGA]las estrellas@@6
