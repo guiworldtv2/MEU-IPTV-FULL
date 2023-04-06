@@ -1,46 +1,52 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[BD]mx | las estrellas latinoamérica
+#EXTINF:-1 tvg-name="Las Estrellas" tvg-id="" tvg-country="MX" tvg-language="es" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México", [BD] Las Estrellas Latinoamérica
 https://epg.pw/stream/0b671c18068b9b431ae06d2af2809086eeff9688e63951f441e5feb1a1282a6a.ctv
-#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[HD]Viaje a las estrellas[geo-blocked]
+
+#EXTINF:-1 tvg-name="Las Estrellas" tvg-id="" tvg-country="MX" tvg-language="es" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México", [HD] Viaje a Las Estrellas [geo-bloqueado]
 https://epg.pw/stream/8a032137bb39a40c69293765e60842ac1bd662f573a606775580895356464089.m3u8
-#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[VGA]las estrellas@@8
+
+#EXTINF:-1 tvg-name="Las Estrellas" tvg-id="" tvg-country="MX" tvg-language="es" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México", [VGA] Las Estrellas
 https://epg.pw/stream/9876e9f3d1ba750d5e96adbeda5f40795b01ef7b5de4cdf6fbcd466b7a18c80d.m3u8
-#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[BD]las estrellas hd
+
+#EXTINF:-1 tvg-name="Las Estrellas" tvg-id="" tvg-country="MX" tvg-language="es" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México", [BD] Las Estrellas HD
 https://epg.pw/stream/4957eecb731ea78522cfb2b10df0d29cf48083566eb4f6c1bd2fd1c015b900ee.m3u8
-#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[VGA]canal estrellas@@3
+
+#EXTINF:-1 tvg-name="Las Estrellas" tvg-id="" tvg-country="MX" tvg-language="es" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México", [VGA] Canal Estrellas
 https://epg.pw/stream/5cc2d89a72d564d058e74a2fe2178e8b1e28aa3374c34e0ae4ddda812ec16580.ctv
-#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[HD]Estrellas de Acción[geo-blocked]
+
+
+#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México",[HD]Estrellas de Acción[geo-blocked]
 https://epg.pw/stream/feb57ba17d5d3b5f050abd0dc44881f1e720737a4d089bc1695b3e7b03981513.m3u8
-#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[BD]las estrellas latam[geo-blocked]
+#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México",[BD]las estrellas latam[geo-blocked]
 https://epg.pw/stream/82a44bec8d296d7184bbc564f98888eb1f0710ece418d92a5835ab4cc5189101.m3u8
-#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[HD]las estrellas[geo-blocked]
+#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México",[HD]las estrellas[geo-blocked]
 https://epg.pw/stream/39ffdd5f3a07ad410754cd5be6694ca054b3489b8d25a3d9dde8dea1809ccaf4.m3u8
-#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[HD]estrellas de accion[geo-blocked]
+#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México",[HD]estrellas de accion[geo-blocked]
 https://epg.pw/stream/ee84f0c17e654f849da55d84627a0618c33579b525eae13e251cdb831f028358.m3u8
-#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[VGA]las estrellas@@6
+#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México",[VGA]las estrellas@@6
 https://epg.pw/stream/b2fdd7ceaf41083f6ea511e9399207759a67f0a53edad963373be8110f162f03.ctv
-#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[HD]las estrellas op2[geo-blocked]
+#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México",[HD]las estrellas op2[geo-blocked]
 https://epg.pw/stream/560a503f3b463e526592b3bd93cbf4f44183d4326cef664e68856d0040f4bbf7.m3u8
-#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[HD]estrellas de acción[geo-blocked]
+#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México",[HD]estrellas de acción[geo-blocked]
 https://epg.pw/stream/23223c57199ac9861b26b6535b20caa8f01867e6fcf55259707cf5f9b74711c9.m3u8
-#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[BD]las estrellas@@7
+#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México",[BD]las estrellas@@7
 https://epg.pw/stream/5db56abab8397422184879ee3c500d55b30681b68963e74b5e9535e70075c6da.m3u8
-#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[VGA]las estrellas@@2[geo-blocked]
+#EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México",[VGA]las estrellas@@2[geo-blocked]
 https://epg.pw/stream/7769050db316ada3f65be70962cd55dee7268e020a6ed131f4d93984ce236116.ctv
 
 
 
-#EXTINF:-1 tvg-name="Azteca 13 HD Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530190459339641_15.png" group-title="Generic",[BD]azteca uno@@5
+#EXTINF:-1 tvg-name="Azteca 13 HD Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530190459339641_15.png" group-title="México",[BD]azteca uno@@5
 https://epg.pw/stream/15557a0c647d85e757fbe1f23f073141dc067e2bbb4c8c75b2611d3a62793b9d.m3u8
-#EXTINF:-1 tvg-name="Azteca 13 HD Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530190459339641_15.png" group-title="Generic",[HD]azteca 1[geo-blocked]
+#EXTINF:-1 tvg-name="Azteca 13 HD Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530190459339641_15.png" group-title="México",[HD]azteca 1[geo-blocked]
 https://epg.pw/stream/49176d5a5819401c1f873f824e4fa02fc0b60045a8bd6e3b74280bb2db4ca4e0.m3u8
-#EXTINF:-1 tvg-name="Azteca 13 HD Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530190459339641_15.png" group-title="Generic",[HD]azteca 1@@1
+#EXTINF:-1 tvg-name="Azteca 13 HD Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530190459339641_15.png" group-title="México",[HD]azteca 1@@1
 https://epg.pw/stream/634aeb31fc75ea46a067faea4b303828d14e86a9f4271b19a9b29bf4f9e57686.ctv
-#EXTINF:-1 tvg-name="Azteca 7 HD México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127163507552839_88.jpg" group-title="Generic",[HD]azteca 7@@6[geo-blocked]
+#EXTINF:-1 tvg-name="Azteca 7 HD México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127163507552839_88.jpg" group-title="México",[HD]azteca 7@@6[geo-blocked]
 https://epg.pw/stream/be825837ce45e60693b991f3a7decbc739948e3bb6bbbc33efe85bbf7b31f4f9.m3u8
-#EXTINF:-1 tvg-name="Azteca 7 HD México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127163507552839_88.jpg" group-title="Generic",[HD]azteca 7@@3[geo-blocked]
+#EXTINF:-1 tvg-name="Azteca 7 HD México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127163507552839_88.jpg" group-title="México",[HD]azteca 7@@3[geo-blocked]
 https://epg.pw/stream/fbdcd67f90d9b808a4ec7b76fa709214c05e8897f62c960a077eeb7b2daaf04b.m3u8
-#EXTINF:-1 tvg-name="Azteca 7 HD México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127163507552839_88.jpg" group-title="Generic",[BD]azteca 7@@5[geo-blocked]
+#EXTINF:-1 tvg-name="Azteca 7 HD México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127163507552839_88.jpg" group-title="México",[BD]azteca 7@@5[geo-blocked]
 https://epg.pw/stream/40a064a787bfa3f79f7c165c353005585c7669a7736b4039813165b474bb9801.m3u8
 
 
@@ -117,42 +123,42 @@ https://epg.pw/stream/1d8d1357572d3665e56bcb8bc992f168d7cba02164354e156c3d062910
 https://epg.pw/stream/6c3585f39d59fc40bbc3ccbcaeadfc843d497dc9ab76c8b9ca35ae1a23a25c92.m3u8
 #EXTINF:-1 tvg-name="44 Noticias" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231346808634_39.png" group-title="News",[HD]amx noticias[geo-blocked]
 https://epg.pw/stream/ae86a96af0da9a1473ef8bf6a313d2259a04900a1b2427a293151c0ce5a1f455.m3u8
-#EXTINF:-1 tvg-name="AZ CORAZóN México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102172124296152_36.jpg" group-title="Generic",[HD]corazón turco[geo-blocked]
+#EXTINF:-1 tvg-name="AZ CORAZóN México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102172124296152_36.jpg" group-title="México",[HD]corazón turco[geo-blocked]
 https://epg.pw/stream/bdcf6d6ed9d14d2c490904a13a33afa5b0832f55dae6d0b8a7378d10158d3fb6.m3u8
-#EXTINF:-1 tvg-name="AZ Cinema México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102173626910645_79.jpg" group-title="Generic",[SD]az cinema@@1
+#EXTINF:-1 tvg-name="AZ Cinema México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102173626910645_79.jpg" group-title="México",[SD]az cinema@@1
 https://epg.pw/stream/86f0791d2281840a5a41c075548d83ec732aa177e657f12b6d51e64ab2a98fc0.ctv
 #EXTINF:-1 tvg-name="AprendeTV" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/03/31/20150331022714557175_86.jpg" group-title="Entertainment",[BD]DETV2
 rtmp://jsylivealone.iqilu.com/donge/donge_tv02
 #EXTINF:-1 tvg-name="AprendeTV" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/03/31/20150331022714557175_86.jpg" group-title="Entertainment",[HD]prendetv liga mx[geo-blocked]
 https://epg.pw/stream/f6f90f03eea84e3d8b5fec25cc22c6edffa7b1c36e1ca2432845ffb83099eabf.m3u8
 
-#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="Generic",[BD]3abn latino@@11[geo-blocked]
+#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="México",[BD]3abn latino@@11[geo-blocked]
 https://epg.pw/stream/22b2bba8c0c369bf3aa061151eb713563985f8ecb725e49f2e39c5b5fd3f694a.m3u8
-#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="Generic",[VGA][美国]3abn latino
+#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="México",[VGA][美国]3abn latino
 https://epg.pw/stream/47ec78ffee88b7c3cd649a669d7027d4b03d06955c43a20a333e536002794854.m3u8
-#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="Generic",[SD]3abn latino@@3
+#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="México",[SD]3abn latino@@3
 https://epg.pw/stream/1b873785616ee212e3c62528c5961d52a42f2708ca2aa51234538a97fa393a13.m3u8
-#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="Generic",[BD]3abn latino@@4[geo-blocked]
+#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="México",[BD]3abn latino@@4[geo-blocked]
 https://epg.pw/stream/529a6939913d3c6562d6f09ca74705ef3043bb40a627299776ea84ec87597385.m3u8
-#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="Generic",[SD]3abn latino@@5
+#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="México",[SD]3abn latino@@5
 https://epg.pw/stream/a4aaa3eac5f7d6f3ebaa14ef9cda95e17c89794fd8dd277e077b989cd92551c6.m3u8
-#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="Generic",[HD]3abn latino[geo-blocked]
+#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="México",[HD]3abn latino[geo-blocked]
 https://epg.pw/stream/45642638ddb699e46c30c3c0b89f068ba23759d27005b8861ac7dc47e3ed6352.m3u8
-#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="Generic",[BD]3abn latino@@9[geo-blocked]
+#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="México",[BD]3abn latino@@9[geo-blocked]
 https://epg.pw/stream/c07ef6fcb3aaa2c152bf0dccc00dc92d78193fe83180573594beef084221475d.m3u8
-#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="Generic",[BD]3abn latino@@6[geo-blocked]
+#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="México",[BD]3abn latino@@6[geo-blocked]
 https://epg.pw/stream/e58c72567460239cda45f8bd7fcff8f846101b04b3cb87bcbf0d2bd561fe651a.m3u8
-#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="Generic",[SD]3abn latino@@1
+#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="México",[SD]3abn latino@@1
 https://epg.pw/stream/b61df3815b247501419d3f917401f3fb5da0f8334e0790c2de5ab9a02f91f7ef.m3u8
-#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="Generic",[SD]3abn latino@@7
+#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="México",[SD]3abn latino@@7
 https://epg.pw/stream/ab701b4fbeacded0f714e9757d65838107cc251297efcdd7113a2bd930f44d31.m3u8
-#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="Generic",[BD]3abn latino@@2[geo-blocked]
+#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="México",[BD]3abn latino@@2[geo-blocked]
 https://epg.pw/stream/b47a5d5fd10fd1fa440865d43889a55562e062486074018db68fd70cd03ea2a8.m3u8
-#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="Generic",[BD]3abn latino@@8[geo-blocked]
+#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="México",[BD]3abn latino@@8[geo-blocked]
 https://epg.pw/stream/5e068190d381b8238fd8d91043e67b87a36fca19d02e065fc5a6aca90b23deef.m3u8
-#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="Generic",[VGA]cine latino@@4
+#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="México",[VGA]cine latino@@4
 https://epg.pw/stream/354114672825addd24cfe2920a3eb6d4fc862e1b2888d42732f04d5c3cf50719.ctv
-#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="Generic",[SD]3abn latino@@10
+#EXTINF:-1 tvg-name="CBN Latino" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102184246042268_64.jpg" group-title="México",[SD]3abn latino@@10
 https://epg.pw/stream/dc3c6f5c71a05c08b45d9308889c6b667b10a5cad95ee3fa1af8ffc7a5eb47d8.m3u8
 #EXTINF:-1 tvg-name="CINECANAL" tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[VGA]cinecanal@@3
 https://epg.pw/stream/cc5fe391512c4a19a7717bee2c96816a6b8e6052c854b156f4182527e3321271.ctv
@@ -176,39 +182,39 @@ https://epg.pw/stream/8fc4a5676f2e4632e3194eb5c7882fda5df3ecf1e9d433e89519eacea4
 https://epg.pw/stream/2d5110aca07aecde8e98e11d79ccafeb978e2725f0b149b92928cc1fac602936.m3u8
 #EXTINF:-1 tvg-name="CINECANAL" tvg-id="50564" tvg-country="Mexico" tvg-language="latino" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416003019858427_21.jpg" group-title="Movie",[BD]cinecanal hd
 https://epg.pw/stream/4ff3d33d8bfb227e942b28376ec56fbb4073c5877bd089a19636e919f0b4ba13.ctv
-#EXTINF:-1 tvg-name="Cadena Tres México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102165958192581_34.jpg" group-title="Generic",[HD]cadena 103
+#EXTINF:-1 tvg-name="Cadena Tres México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102165958192581_34.jpg" group-title="México",[HD]cadena 103
 https://epg.pw/stream/7a55e893a8d668f8b657df3e19174a29d41235187b3456d053585d3210dd1471.m3u8
-#EXTINF:-1 tvg-name="Cadena Tres México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102165958192581_34.jpg" group-title="Generic",[SD]el tres
+#EXTINF:-1 tvg-name="Cadena Tres México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102165958192581_34.jpg" group-title="México",[SD]el tres
 https://epg.pw/stream/b0ef5f6fcd7eb53daf1914cba0a68f5d6fd19d43af60f9cc2fb7c1c93cb67a8d.m3u8
-#EXTINF:-1 tvg-name="Canal 2 Los Mochis México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102183310365638_52.jpg" group-title="Generic",[SD]canal 2@@6[geo-blocked]
+#EXTINF:-1 tvg-name="Canal 2 Los Mochis México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102183310365638_52.jpg" group-title="México",[SD]canal 2@@6[geo-blocked]
 https://epg.pw/stream/35b1b54724a6687fe290addea2498922d00607ef70e6809ec68727c2c8ecb0a3.m3u8
-#EXTINF:-1 tvg-name="Canal 3 Los Mochis Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054242252092_46.jpg" group-title="Generic",[SD][墨西哥]tvp mochis hd
+#EXTINF:-1 tvg-name="Canal 3 Los Mochis Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054242252092_46.jpg" group-title="México",[SD][墨西哥]tvp mochis hd
 https://epg.pw/stream/390f6ca4a42c694d1ac184c2f27118381855059a2beedd72a3664c564590d6da.m3u8
-#EXTINF:-1 tvg-name="Canal 3 Los Mochis Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054242252092_46.jpg" group-title="Generic",[SD]tvp los mochis@@1[geo-blocked]
+#EXTINF:-1 tvg-name="Canal 3 Los Mochis Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054242252092_46.jpg" group-title="México",[SD]tvp los mochis@@1[geo-blocked]
 https://epg.pw/stream/2139156a27f6edafe16b373c9650ed80467fc1b9b5119c494e475d28e67ce104.m3u8
-#EXTINF:-1 tvg-name="Canal 3 Los Mochis Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054242252092_46.jpg" group-title="Generic",[SD]tvp los mochis@@2
+#EXTINF:-1 tvg-name="Canal 3 Los Mochis Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054242252092_46.jpg" group-title="México",[SD]tvp los mochis@@2
 https://epg.pw/stream/303ff20b0287185f504f626565d697d7fff63d0d7473a136cfc6d0d3e2128588.m3u8
-#EXTINF:-1 tvg-name="Canal 3 Los Mochis Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054242252092_46.jpg" group-title="Generic",[SD]tvp mochis[geo-blocked]
+#EXTINF:-1 tvg-name="Canal 3 Los Mochis Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054242252092_46.jpg" group-title="México",[SD]tvp mochis[geo-blocked]
 https://epg.pw/stream/a57089f1bbe9363caa0948ee53825d83558aae2db23ebf1ac0e26a35edb97908.m3u8
-#EXTINF:-1 tvg-name="Canal 3 Los Mochis Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054242252092_46.jpg" group-title="Generic",[SD]tvp los mochis[geo-blocked]
+#EXTINF:-1 tvg-name="Canal 3 Los Mochis Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054242252092_46.jpg" group-title="México",[SD]tvp los mochis[geo-blocked]
 https://epg.pw/stream/16526116b2ecb0095d24be4c737122220ee1b600611e493043fbc604f81e0143.m3u8
-#EXTINF:-1 tvg-name="Canal 3 Los Mochis Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054242252092_46.jpg" group-title="Generic",[VGA]mexico@@1
+#EXTINF:-1 tvg-name="Canal 3 Los Mochis Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054242252092_46.jpg" group-title="México",[VGA]mexico@@1
 https://epg.pw/stream/94deede737a41c8f036412fc0ec0be07073501777cc6f5f8674c696cfcde6f6f.ctv
-#EXTINF:-1 tvg-name="Canal 3 Los Mochis Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054242252092_46.jpg" group-title="Generic",[BD]mexico@@2
+#EXTINF:-1 tvg-name="Canal 3 Los Mochis Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054242252092_46.jpg" group-title="México",[BD]mexico@@2
 https://epg.pw/stream/64887d7e17f3e9e3c178dd5563e41a2d3160944caf04b3a696d2627c0303fa02.ctv
-#EXTINF:-1 tvg-name="Canal 44 Ciudad Juarez México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102171522200164_60.jpg" group-title="Generic",[BD]44
+#EXTINF:-1 tvg-name="Canal 44 Ciudad Juarez México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102171522200164_60.jpg" group-title="México",[BD]44
 https://epg.pw/stream/c3b4a55b92b67246520dfc06de421600e3887da5ea24660e09227d462b574af7.m3u8
-#EXTINF:-1 tvg-name="Canal 44 Ciudad Juarez México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102171522200164_60.jpg" group-title="Generic",[VGA]44
+#EXTINF:-1 tvg-name="Canal 44 Ciudad Juarez México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102171522200164_60.jpg" group-title="México",[VGA]44
 https://epg.pw/stream/71e8b78de273400528167f612f26ae1a5402248f94814fc3a4c7d29db7535e1f.m3u8
-#EXTINF:-1 tvg-name="Canal 7 Mazatlan Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054901161037_89.jpg" group-title="Generic",[HD]tvp mazatlan@@2[geo-blocked]
+#EXTINF:-1 tvg-name="Canal 7 Mazatlan Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054901161037_89.jpg" group-title="México",[HD]tvp mazatlan@@2[geo-blocked]
 https://epg.pw/stream/bec64fa3df221fb72152936dfa1f5a16b15ae281d5e2d9f78e43f366b3415949.m3u8
-#EXTINF:-1 tvg-name="Canal 7 Mazatlan Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054901161037_89.jpg" group-title="Generic",[HD]tvp mazatlan@@1[geo-blocked]
+#EXTINF:-1 tvg-name="Canal 7 Mazatlan Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054901161037_89.jpg" group-title="México",[HD]tvp mazatlan@@1[geo-blocked]
 https://epg.pw/stream/ad46c067e39d6fe2846ff22e81934cd459269be9a791c299c01652a86d922a40.m3u8
-#EXTINF:-1 tvg-name="Canal 7 Mazatlan Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054901161037_89.jpg" group-title="Generic",[HD]tvp mazatlan[geo-blocked]
+#EXTINF:-1 tvg-name="Canal 7 Mazatlan Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105054901161037_89.jpg" group-title="México",[HD]tvp mazatlan[geo-blocked]
 https://epg.pw/stream/450dc6943b5662f2306746a7c434b6923bbae050e0822290e807ccec03f1a050.m3u8
-#EXTINF:-1 tvg-name="Canal Once Internacional" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102141746955585_45.jpg" group-title="Generic",[VGA]jbn internacional[geo-blocked]
+#EXTINF:-1 tvg-name="Canal Once Internacional" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102141746955585_45.jpg" group-title="México",[VGA]jbn internacional[geo-blocked]
 https://epg.pw/stream/1e17e92a41a81010a84f1c9a0981fdaff93155e48342fb596296fbc6f526d843.m3u8
-#EXTINF:-1 tvg-name="Canal Once Internacional" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102141746955585_45.jpg" group-title="Generic",[BD]caracol internacional[geo-blocked]
+#EXTINF:-1 tvg-name="Canal Once Internacional" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102141746955585_45.jpg" group-title="México",[BD]caracol internacional[geo-blocked]
 https://epg.pw/stream/7b2fd78ce2352105197a0cc68b898e0821f7cce48a661e8a9fca641d00002ab0.m3u8
 
 #EXTINF:-1 tvg-name="ESPN Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2017/01/08/large/20170108232724093116_88.jpg" group-title="Sport",[HD]presumiendo mexico
@@ -271,13 +277,13 @@ https://epg.pw/stream/62ca5b8995f2de5277555e9f30d47a3f9e1e8909638aa8f1753f5a6aad
 https://epg.pw/stream/506ef4600c198c673d4019f4aadbd778f49fac0d2374bbef08feed0d30f69a25.ctv
 #EXTINF:-1 tvg-name="GOURMET TV" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416010516543116_76.jpg" group-title="Entertainment",[BD]177 el gourmet hd
 https://epg.pw/stream/0c7a677aa64bde28b79da53ba68cfa54c8a34e8cbddff2250b52f6b3304a054e.ctv
-#EXTINF:-1 tvg-name="Mexiquense TV Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/23/large/20151023193906529680_11.jpg" group-title="Generic",[SD]mexiquense tv (720p)
+#EXTINF:-1 tvg-name="Mexiquense TV Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/23/large/20151023193906529680_11.jpg" group-title="México",[SD]mexiquense tv (720p)
 https://epg.pw/stream/68da1045c70f6cabb8c4e89faaca3699d396f7e9cb17bae0b161c64f0b8a0a2b.m3u8
-#EXTINF:-1 tvg-name="Mexiquense TV Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/23/large/20151023193906529680_11.jpg" group-title="Generic",[HD]mexiquense@@3
+#EXTINF:-1 tvg-name="Mexiquense TV Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/23/large/20151023193906529680_11.jpg" group-title="México",[HD]mexiquense@@3
 https://epg.pw/stream/b713b2da80b6d9d88da20e3a39bca1f8215651709c35f73195ebf4ec2752cc70.ctv
-#EXTINF:-1 tvg-name="Mexiquense TV Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/23/large/20151023193906529680_11.jpg" group-title="Generic",[HD]mexiquense[geo-blocked]
+#EXTINF:-1 tvg-name="Mexiquense TV Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/23/large/20151023193906529680_11.jpg" group-title="México",[HD]mexiquense[geo-blocked]
 https://epg.pw/stream/86fa2a3527323e33fa8866e4dcaa1fc1fe7f357e9c0ebcd9275f82d241c11714.m3u8
-#EXTINF:-1 tvg-name="Mexiquense TV Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/23/large/20151023193906529680_11.jpg" group-title="Generic",[HD]Mexiquense TV (720p)
+#EXTINF:-1 tvg-name="Mexiquense TV Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/10/23/large/20151023193906529680_11.jpg" group-title="México",[HD]Mexiquense TV (720p)
 https://epg.pw/stream/1ef97813504d77fbb83ec95593aceca9896d9134398f89dc6b6cbca56bdc15b3.m3u8
 
 #EXTINF:-1 tvg-name="Proyecto 40 México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102170349452324_63.jpg" group-title="Entertainment",[BD]40
@@ -304,17 +310,17 @@ https://epg.pw/stream/ea8a1fbb7df3ba96113bd981c15f176262fbe7afa0759c195dfc9c5fd8
 https://epg.pw/stream/a4e1e2aca7303b6da76c0cb275aa55ef2c1e9e7f8614d82576d788e78a67c9b2.m3u8
 #EXTINF:-1 tvg-name="STUDIO UNIVERSAL" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[BD]studio universal hd@@6
 https://epg.pw/stream/305ddacb22f3a395bb56c5a854bd72d5942b19b4e525c29521ce00c5118a7a2c.m3u8
-#EXTINF:-1 tvg-name="Telemundo Internacional México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180126711759_36.jpg" group-title="Generic",[VGA]telemundo internacional@@1
+#EXTINF:-1 tvg-name="Telemundo Internacional México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180126711759_36.jpg" group-title="México",[VGA]telemundo internacional@@1
 https://epg.pw/stream/8f6a338cb35c60c4f23a80ef11c2c15cc99e2cac97bc0843c1cb1b1a41f0ad53.ctv
-#EXTINF:-1 tvg-name="Telemundo Internacional México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180126711759_36.jpg" group-title="Generic",[VGA]telemundo internacional@@5[geo-blocked]
+#EXTINF:-1 tvg-name="Telemundo Internacional México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180126711759_36.jpg" group-title="México",[VGA]telemundo internacional@@5[geo-blocked]
 https://epg.pw/stream/4f9578088185cf5bfdfe8fbb56e1c1c6858e6a4a8c3da488a922f478e3021888.ctv
-#EXTINF:-1 tvg-name="Telemundo Internacional México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180126711759_36.jpg" group-title="Generic",[BD]telemundo internacional@@2
+#EXTINF:-1 tvg-name="Telemundo Internacional México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180126711759_36.jpg" group-title="México",[BD]telemundo internacional@@2
 https://epg.pw/stream/cb5d5119536c559831479942c4728f623da65ff388c7408a061ac2db4c97ae2a.ctv
-#EXTINF:-1 tvg-name="Tlnovelas América México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102172341276582_16.jpg" group-title="Generic",[VGA]tlnovelas
+#EXTINF:-1 tvg-name="Tlnovelas América México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102172341276582_16.jpg" group-title="México",[VGA]tlnovelas
 https://epg.pw/stream/ec44cb4927d8d5df237f3010295109a695de269543208079d2192044f00314c3.ctv
-#EXTINF:-1 tvg-name="Tlnovelas América México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102172341276582_16.jpg" group-title="Generic",[VGA]tlnovelas@@4
+#EXTINF:-1 tvg-name="Tlnovelas América México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102172341276582_16.jpg" group-title="México",[VGA]tlnovelas@@4
 https://epg.pw/stream/b29df46c2471ebbccb6ff92f5aaf9dfbd4a4c5865dfd5dc0ae775902f3b1d876.ctv
-#EXTINF:-1 tvg-name="Tlnovelas América México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102172341276582_16.jpg" group-title="Generic",[BD]tlnovelas@@6
+#EXTINF:-1 tvg-name="Tlnovelas América México" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102172341276582_16.jpg" group-title="México",[BD]tlnovelas@@6
 https://epg.pw/stream/78c03e834fcdfea5703226b33f4b5eb6fe502b138b76f0d10d132f252ef7c2cd.m3u8
 #EXTINF:-1 tvg-name="Univisión TDN Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/08/20150608070712657487_46.png" group-title="Sport",[HD]univisión la[geo-blocked]
 https://epg.pw/stream/c2cadd0989603587616ad5ce081d460b8464de93b1f9ec7ae52b7e697aebd1ee.m3u8
