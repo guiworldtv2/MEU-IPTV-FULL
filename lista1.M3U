@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México",[HD]las estrellas[geo-blocked]
 https://epg.pw/stream/39ffdd5f3a07ad410754cd5be6694ca054b3489b8d25a3d9dde8dea1809ccaf4.m3u8
 
+#EXTINF:-1,MULTISHOW EM 4K
+https://archive.org/download/multishow-4-k-25.03.23/MULTISHOW%204K%2025.03.23.ts
 
 #EXTINF:-1 tvg-name="Las Estrellas" tvg-id="" tvg-country="MX" tvg-language="es" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México", [BD] Las Estrellas Latinoamérica
 https://epg.pw/stream/0b671c18068b9b431ae06d2af2809086eeff9688e63951f441e5feb1a1282a6a.ctv
