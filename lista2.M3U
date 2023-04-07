@@ -4,6 +4,10 @@
 #EXTM3U x-tvg-url="https://github.com/pendy99/iptv-epg/raw/main/epg.xml.gz"
 
 #EXTINF:-1 tvg-name="Caracol" tvg-id="CaracolTV.co" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[HD]caracol tv@@1[geo-blocked]
+https://live-tvg-df-05.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTA1LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTY4MDkzOTkxMSwiaWF0IjoxNjgwODUzNTExLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImZhOTNhMmRhLWM2ZDUtNGY5ZS1hMGQ3LTZiMDg2YjU0ODc5YyIsInBhdGgiOiIvbnUvZihiTWluPTIwMDAsaT0yKS9nbG9iby1nbzAxL3BsYXlsaXN0Lm0zdTgifQ.PrH5ozyXxLDabYBvSIsqwXHgJ7EfnflO5pdJnr2QrAArxz78fnCYA1QF1XTBd_vp9nlmKbOnkWLCcIEKidTO-gtRmvAtfMwvMt2q_j-f8LVBBvr4TynCheZo2wrOSk4jCs5dBpnxsDIU6If2fNVv8SKnXL9xNpMA7-5ChCwD99Mz8Rb0On9YTbmnARZcL06OEW4TBMVZo2tVlCWaa274FUvt2lxK9Z3NSRuUfj_PDhW2TugkFhPNmMKuPBUvsqC9Kbf54rKgZEsAVmsn6UAW8B5fP6OF_AcCagGLO8YvVRTDdEUVvM-vBU-pEpWiLu0GasTO8528oRY5kh506V-ybw/nu/f(bMin=2000,i=2)/globo-go01/globo-go01-audio_1=96000-video=3442944.m3u8
+
+
+#EXTINF:-1 tvg-name="Caracol" tvg-id="CaracolTV.co" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[HD]caracol tv@@1[geo-blocked]
 https://epg.pw/stream/349233579d2a5027a04950e963e7903d1a516aff268e72b33eb09a56a96c5edf.ctv
 #EXTINF:-1 tvg-name="Caracol" tvg-id="CaracolTV.co" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[VGA]canal caracol@@6
 https://epg.pw/stream/4624dc55e73e11c0c32ced5f18f96e3a5faf401aafe75fb2079644290eb53af4.m3u8
