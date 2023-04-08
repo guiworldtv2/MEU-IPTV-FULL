@@ -2,11 +2,7 @@
 #EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México",[HD]las estrellas[geo-blocked]
 https://epg.pw/stream/39ffdd5f3a07ad410754cd5be6694ca054b3489b8d25a3d9dde8dea1809ccaf4.m3u8
 
-#EXTINF:-1,EL NUEVE
-https://cotesma02.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
-#EXTINF:-1,TELEFE
-https://cotesma02.cdn.rcs.net.ar/mnp/telefe/output.mpd
 
 #EXTINF:-1,MULTISHOW EM 4K
 #EXT-X-PROGRAM-DATE-TIME:2023-02-20T06:05:00Z
@@ -434,11 +430,15 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="ARG: El Trece HD" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" group-title="ARGENTINA", EL TRECE 2
-https://epg.pw/stream/ae39a82a7424799959cc748490a5ed56908aadd89ca774e2a390833bd5a9a1af.ctv
+https://cotesma02.cdn.rcs.net.ar/mnp/el13/output.mpd
+
 
 #EXTINF:-1 tvg-id="ARG: El Trece HD" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" group-title="ARGENTINA", EL TRECE 3
 https://epg.pw/stream/f69fa69719864d8e2353e4d455cdb447ff132b76fd20434d1564a70adfc2db0f.ctv
 
+
+#EXTINF:-1 tvg-id="ARG: Telefe HD" tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" group-title="ARGENTINA", Telefe HD
+https://cotesma02.cdn.rcs.net.ar/mnp/telefe/output.mpd
 
 #EXTINF:-1 tvg-id="ARG: Telefe HD" tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" group-title="ARGENTINA", Telefe HD
 https://epg.pw/stream/b2045a4764b04a18dc855c069676ac3b695b498760874ba4eb668363562b2503.ctv
@@ -466,8 +466,10 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zcWXboTnous/hqdefault_live.jpg" group-title="ARGENTINA",América TV
 http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/43320
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSYzA3huV-HI91MDWQCaz6y5IjfDpj8sQTqNHLSmg=s68-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",LN+
-https://ythls.onrender.com/video/0ib0IQf3_8M.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/LA_NACION_%2B.jpg" group-title="ARGENTINA", LA NACION +
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTqGg2bWg02R5un1pFAeuYDMGAVCmna52i__wapvw=s88-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",C5N
 https://ythls.onrender.com/video/jTE8OQysM6w.m3u8
@@ -477,18 +479,25 @@ EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQaYsAXWJNpiduF7CfZckAt76XcPW
 https://ythls.onrender.com/channel/UC1bBjOZieJWHbsFA0LwjjJA.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSYU51c8SbrkWZeNBRMFeCnGv0YXPpXuEGBNq-X5g=s48-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",Canal Encuentro
-https://ythls.onrender.com/video/s-_Jzr-vYMw.m3u8
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8     
 
 
-#EXTINF:-1  group-title="ARGENTINA",TN NOTICIAS
+#EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/A_24.jpg" group-title="ARGENTINA", A24  36.3
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title="ARGENTINA",TODO NOTICIAS  
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Gq6MIaZ501A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFTyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLconM4I-SBUjFA3fZsH_rB5RkxA" group-title="ARGENTINA",DIPUTADOS TV
 https://ythls.onrender.com/video/Gq6MIaZ501A.m3u8
 
+#EXTINF:-1 tvg-id="TecTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/tec.png" group-title="ARGENTINA", TEC 22.5
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/unife.png" group-title="ARGENTINA", UNIFE  25.1
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8
 
 
 
