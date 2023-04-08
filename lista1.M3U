@@ -706,42 +706,6 @@ https://epg.pw/stream/03b1a77f23c06456861b66ba950e76a3a68b4c127c4f5204d9462a30f6
 
 
 
-#EXTINF:-1 tvg-chno="7.1" tvg-id="WABCDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="NY",WABC abc7
-https://mrgmaw.github.io/enlaces/ny/nyabc.m3u8
-#EXTINF:-1 tvg-chno="2.1" tvg-id="WCBSDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="NY",WCBS cbs2
-https://mrgmaw.github.io/enlaces/ny/nycbs.m3u8
-#EXTINF:-1 tvg-chno="4.1" tvg-id="WNBCDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="NY",WNBC nbc4
-https://mrgmaw.github.io/enlaces/ny/nynbc.m3u8
-#EXTINF:-1 tvg-chno="5.1" tvg-id="WNYWDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="NY",WNYW 5fox
-https://mrgmaw.github.io/enlaces/ny/nynyw.m3u8
-#EXTINF:-1 tvg-chno="9.1" tvg-id="WWORDT1.us" tvg-logo="" group-title="NY",MyNetwork
-https://mrgmaw.github.io/enlaces/ny/nywor.m3u8
-#EXTINF:-1 tvg-chno="25.1" tvg-id="WNYEDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/NYCTV_Life_logo.png" group-title="NY",NYC Life
-https://mrgmaw.github.io/enlaces/ny/nynye.m3u8
-#EXTINF:-1 tvg-chno="2.3" tvg-id="WCBSDT3.us" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/112501/s112157_h3_aa.png" group-title="NY",DABL
-https://mrgmaw.github.io/enlaces/ny/nycbs3.m3u8
-#EXTINF:-1 tvg-chno="24.2" tvg-id="WASALD1.us" tvg-logo="https://media.localbtv.com/images/atlantabtv/logos/estrella.png" group-title="NY",WASA estrella news
-https://mrgmaw.github.io/enlaces/ny/nyasa.m3u8
-#EXTINF:-1 tvg-chno="22.6" tvg-id="WASALD6.us" tvg-logo="https://media.localbtv.com/images/atlantabtv/logos/estrella.png" group-title="NY",WASA estrella 
-https://mrgmaw.github.io/enlaces/ny/nyasa1.m3u8
-#EXTINF:-1 tvg-chno="41.1" tvg-id="WFUTDT1.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="NY",WFUT Univision 41 HD
-https://mrgmaw.github.io/enlaces/ny/nyunivhd.m3u8
-#EXTINF:-1 tvg-chno="41.1" tvg-id="WFUTDT1.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="NY",WFUT Univision 41 SD
-https://mrgmaw.github.io/enlaces/ny/nyunivsd.m3u8
-
-#EXTINF:-1 tvg-chno="5.1" tvg-id="WNYWDT1.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="NY",Unimas
-https://mrgmaw.github.io/enlaces/ny/nyunim.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="PI",WCAU nbc10
-https://mrgmaw.github.io/enlaces/pi/picau.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="PI",WPVI 6abc
-https://mrgmaw.github.io/enlaces/pi/piabc.m3u8
-#EXTINF:-1 tvg-chno="3.1" tvg-id="KYWDT1.us" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="PI",KYW cbs3
-https://mrgmaw.github.io/enlaces/pi/piyw.m3u8
-#EXTINF:-1 tvg-chno="29.1" tvg-id="WTXFDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="PI",WTXF fox
-https://mrgmaw.github.io/enlaces/pi/pitxf.m3u8
-#EXTINF:-1 tvg-chno="17.1" tvg-id="WPHLDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/320px-MyNetworkTV_2D_Logo.svg.png" group-title="PI",WPHL MyNetwork
-https://mrgmaw.github.io/enlaces/pi/piphl.m3u8
 
 
 #EXTINF:-1 tvg-id="XHJK-TDT" tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="SD",XHJK Azt1 FHD
