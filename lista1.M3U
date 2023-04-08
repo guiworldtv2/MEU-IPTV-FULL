@@ -2,6 +2,12 @@
 #EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="México",[HD]las estrellas[geo-blocked]
 https://epg.pw/stream/39ffdd5f3a07ad410754cd5be6694ca054b3489b8d25a3d9dde8dea1809ccaf4.m3u8
 
+#EXTINF:-1,EL NUEVE
+https://cotesma02.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+
+#EXTINF:-1,TELEFE
+https://cotesma02.cdn.rcs.net.ar/mnp/telefe/output.mpd
+
 #EXTINF:-1,MULTISHOW EM 4K
 #EXT-X-PROGRAM-DATE-TIME:2023-02-20T06:05:00Z
 #EXT-X-TARGETDURATION:871
