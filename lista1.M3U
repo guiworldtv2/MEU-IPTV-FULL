@@ -741,45 +741,17 @@ https://epg.pw/stream/03b1a77f23c06456861b66ba950e76a3a68b4c127c4f5204d9462a30f6
 
 
 
-#EXTINF:-1 tvg-chno="3.1" tvg-id="KSNV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="LV",KSNV NBC 3
-https://mrgmaw.github.io/enlaces/lv/lvnbc3.m3u8
-#EXTINF:-1 tvg-chno="3.1" tvg-id="" tvg-logo="" group-title="LV",NewsNetSports
-https://mrgmaw.github.io/enlaces/lv/lvnets.m3u8
-#EXTINF:-1 tvg-chno"" tvg-id="" tvg-logo="" group-title="LV",BeIn extra
-https://mrgmaw.github.io/enlaces/lv/lvbeinx.m3u8
-#EXTINF:-1 tvg-chno"" tvg-id="" tvg-logo="" group-title="LV",BeIn extra 1
-https://mrgmaw.github.io/enlaces/lv/lvbeinx1.m3u8
-#EXTINF:-1 tvg-chno"" tvg-id="" tvg-logo="" group-title="LV",BeIn extra esp
-https://mrgmaw.github.io/enlaces/lv/lvbeinsp.m3u8
-
-#EXTINF:-1 tvg-chno"26.1" tvg-id="" tvg-logo="" group-title="FN",KMPH Fox 26
-https://mrgmaw.github.io/enlaces/fn/kmph.m3u8
-#EXTINF:-1 tvg-chno"27.1" tvg-id="KYMBLD.us" tvg-logo="https://media.localbtv.com/images/fresnobtv/logos/metv.png" group-title="FN",KYMB MeTv
-https://mrgmaw.github.io/enlaces/fn/kymb.m3u8
 
 
-#EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",NBC
-https://mrgmaw.github.io/enlaces/xy/nbcny.m3u8
-#EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",ABC
-https://mrgmaw.github.io/enlaces/xy/abcny.m3u8
-#EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="CBSNewsNewYork.us" tvg-logo="",CBSNewYork
-https://mrgmaw.github.io/enlaces/xy/cbsny.m3u8
-#EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",Fox5NY
-https://mrgmaw.github.io/enlaces/xy/foxny.m3u8
+
+
 #EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",Deutsche Welle
 https://mrgmaw.github.io/enlaces/xy/dwes.m3u8
 #EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",RT
 https://mrgmaw.github.io/enlaces/xy/rtes.m3u8
 #EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",CNNEsp
 http://190.83.119.67:8000/play/a01g/index.m3u8
-#EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",English Club
-https://mrgmaw.github.io/enlaces/xy/engclb.m3u8
-#EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",Univision 
-https://mrgmaw.github.io/enlaces/xy/univny.m3u8
-#EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",Telemundo52
-https://mrgmaw.github.io/enlaces/xy/telela.m3u8
-#EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",Telemundo Arizona
-https://mrgmaw.github.io/enlaces/xy/telepx.m3u8
+
 #EXTINF:-1 group-title="XY" tvg-chno="" tvg-id="" tvg-logo="",BBC World
 https://mrgmaw.github.io/enlaces/xy/bbcw.m3u8
 
