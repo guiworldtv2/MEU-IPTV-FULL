@@ -1,4 +1,44 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+
+#EXTINF:0,ES: CLAN HD
+http://232802178476321175.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/321175.ts
+#EXTINF:0,ES: CLAN TVE HD
+http://232802178476339748.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/339748.ts
+
+#EXTINF:0,ES: CUATRO HD
+http://232802178476321197.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/321197.ts
+
+#EXTINF:-1 tvg-name="TELECINCO DIRECTO" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/31/20150531054039189573_62.png" group-title="Entertainment",[BD]telecinco fhd@@2
+https://epg.pw/stream/6307e40eb4dec5e9b23b03edb55c8af2e0b22aaa066662a3a0015f02961b8c7b.ctv
+#EXTINF:-1 tvg-name="TELECINCO DIRECTO" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/31/20150531054039189573_62.png" group-title="Entertainment",[BD]telecinco[geo-blocked]
+https://epg.pw/stream/f746deaecea3dc05afef2d7d7628d3c05542e5cbc214746a7dd86412d4504e89.ctv
+
+#EXTINF:-1 tvg-name="TELECINCO DIRECTO" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/31/20150531054039189573_62.png" group-title="Entertainment",[SD]telecinco@@8
+https://epg.pw/stream/d28cdad8cfe89e6cf1cf14496289f55265489ffa314884af9d5f3a71acdde59d.ctv
+
+#EXTINF:0,ES: TELECINCO HD
+http://232802178476321430.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/321430.ts
+#EXTINF:0,ES: TELEDEPORTE HD
+http://232802178476387148.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/387148.ts
+
+#EXTINF:0,ES: LA SEXTA HD
+http://232802178476321289.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/321289.ts
+
+#EXTINF:0,ES: MTV ESPANA HD
+http://232802178476383409.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/383409.ts
+#EXTINF:0,ES: MTV EUROPE HD
+http://232802178476321358.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/321358.ts
+#EXTINF:0,ES: MTV HD
+http://232802178476382332.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/382332.ts
+#EXTINF:0,ES: MTV LIVE HD
+http://232802178476387787.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/387787.ts
+#EXTINF:0,ES: MTV MUSIC 24 HD
+http://232802178476321362.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/321362.ts
+
+#EXTINF:0,ES: NEOX HD
+http://232802178476321375.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/321375.ts
+
+
 #EXTINF:-1 xui-id="130" tvg-id="TVNSTGO" tvg-name="TVN" tvg-logo="https://normielista.cl:443/images/0GV_IuQaPDLyYaZp9L5H2CMg2ozhFk3H2yn6s37Y4X9hjyeejv4VZTPJ0cqZW1Oo.png" group-title="CHILE",TVN
 https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9RH4Lwij7wZqoExyEgsq1MJiZehEJxZd2QnpUVeLV_Fz/ts
 #EXTINF:-1 xui-id="128" tvg-id="MEGA" tvg-name="Mega" tvg-logo="https://normielista.cl:443/images/0GV_IuQaPDLyYaZp9L5H2CMg2ozhFk3H2yn6s37Y4X-phSNZlGbmiki05OMDvwB3.png" ggroup-title="CHILE",Mega
