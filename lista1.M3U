@@ -444,7 +444,7 @@ http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52506.ts
 https://cotesma02.cdn.rcs.net.ar/mnp/telefe/output.mpd
 
 #EXTINF:-1 tvg-id="ARG: Telefe HD" tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" group-title="ARGENTINA", Telefe HD
-https://epg.pw/stream/b2045a4764b04a18dc855c069676ac3b695b498760874ba4eb668363562b2503.ctv
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52518.ts
 
 #EXTINF:-1 tvg-id="ARG: Telefe FHD" tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" group-title="ARGENTINA", Telefe SD
 https://epg.pw/stream/db6daa767a09e616e37f3b542b20073b496e1777fff04e1c1550c688b8b382d8.ctv
@@ -469,7 +469,8 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zcWXboTnous/hqdefault_live.jpg" group-title="ARGENTINA",América TV
 http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/43320
 
-
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cronica TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16258_dark_360w_270h.png" group-title="ARGENTINA",Cronica TV
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52503.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/LA_NACION_%2B.jpg" group-title="ARGENTINA", LA NACION +
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
