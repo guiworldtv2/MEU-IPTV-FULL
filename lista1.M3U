@@ -256,12 +256,10 @@ https://epg.pw/stream/1e17e92a41a81010a84f1c9a0981fdaff93155e48342fb596296fbc6f5
 #EXTINF:-1 tvg-name="Canal Once Internacional" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102141746955585_45.jpg" group-title="México",[BD]caracol internacional[geo-blocked]
 https://epg.pw/stream/7b2fd78ce2352105197a0cc68b898e0821f7cce48a661e8a9fca641d00002ab0.m3u8
 
-#EXTINF:-1 tvg-name="ESPN Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2017/01/08/large/20170108232724093116_88.jpg" group-title="Sport",[HD]presumiendo mexico
-https://epg.pw/stream/779cc2639244c081a4886cda217843209306421d9203dcb5abdad46de626c9f1.ctv
+
 #EXTINF:-1 tvg-name="ESPN Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2017/01/08/large/20170108232724093116_88.jpg" group-title="Sport",[HD]espn vivo[geo-blocked]
 https://epg.pw/stream/b713981d2106a53778fd660dc8badccb82064852bedafafb33cee1e0c4963222.m3u8
-#EXTINF:-1 tvg-name="ESPN Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2017/01/08/large/20170108232724093116_88.jpg" group-title="Sport",[BD]espn vivo@@1[geo-blocked]
-https://epg.pw/stream/eafaae3c309f5efbc448ac1bfd68ee8ea0d1278368f309dab31aa4b5905197ba.m3u8
+
 #EXTINF:-1 tvg-name="FOX CINEMA" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/15/20160415212032748536_10.jpg" group-title="Movie",[SD]Cine XOXO[geo-blocked]
 https://epg.pw/stream/924c0222bae0dcf6658ec3ea1dc005fa3d53c90aeb19f28f6a3340c07a02035d.m3u8
 #EXTINF:-1 tvg-name="FOX CINEMA" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/15/20160415212032748536_10.jpg" group-title="Movie",[BD]flou cine@@2[geo-blocked]
@@ -740,49 +738,8 @@ https://epg.pw/stream/03b1a77f23c06456861b66ba950e76a3a68b4c127c4f5204d9462a30f6
 
 
 
-#EXTINF:-1 tvg-id="XHJK-TDT" tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="SD",XHJK Azt1 FHD
-https://mrgmaw.github.io/enlaces/sd/sdazt1fhd.m3u8
-#EXTINF:-1 tvg-id="XHJK-TDT" tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="SD",XHJK Azt1 HD
-https://mrgmaw.github.io/enlaces/sd/sdazt1hd.m3u8
-#EXTINF:-1 tvg-id="XHJK-TDT" tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="SD",XHJK Azt1 SD
-https://mrgmaw.github.io/enlaces/sd/sdazt1sd.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/240px-Logo_a%2B_%28canal%29.svg.png" group-title="SD",XHTIT2 Azt+ SD
-https://mrgmaw.github.io/enlaces/sd/sdaztmas.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo-ForoTV-2020.png/240px-Logo-ForoTV-2020.png" group-title="SD",XHUAA Forotv SD
-https://mrgmaw.github.io/enlaces/sd/sdforotv.m3u8
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="SD",XHTIT1 Azt7 HD
-https://mrgmaw.github.io/enlaces/sd/sdazt7hd.m3u8
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="SD",XHTIT1 Azt7 SD
-https://mrgmaw.github.io/enlaces/sd/sdazt7sd.m3u8
-#EXTINF:-1 tvg-chno="16.1" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/21134978072561.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpg" group-title="SD",KETV El Nu9ve SD
-https://mrgmaw.github.io/enlaces/sd/sdetv.m3u8
-#EXTINF:-1 tvg-chno="16.1" tvg-logo="" group-title="SD", Estrella tv
-https://mrgmaw.github.io/enlaces/sd/esttv.m3u8
-#EXTINF:-1 tvg-chno="16.1" tvg-logo="" group-title="SD",Aztk América 
-https://mrgmaw.github.io/enlaces/sd/aztam.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-48380.png" group-title="SD",XETV Canal 5 HD
-https://mrgmaw.github.io/enlaces/sd/sdcnl5hd.m3u8
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-48380.png" group-title="SD",XETV Canal 5 SD
-https://mrgmaw.github.io/enlaces/sd/sdcnl5sd.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-48380.png" group-title="SD",XETV *Canal 5 SD
-https://mrgmaw.github.io/enlaces/sd/sdcnl5sb.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SD",XETV *TUDN
-https://mrgmaw.github.io/enlaces/sd/sdtudnsb.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="SD",XEWT Televisa HD
-https://mrgmaw.github.io/enlaces/sd/sdtvsahd.m3u8
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="SD",XEWT Televisa SD
-https://mrgmaw.github.io/enlaces/sd/sdtvsasd.m3u8
-#EXTINF:-1 tvg-chno="10.1" tvg-id="KGTB.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="SD",KGTB ABC
-https://mrgmaw.github.io/enlaces/sd/sdabc.m3u8
-#EXTINF:-1 tvg-chno="39.1" tvg-id="KNSD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="SD",KNSD NBC
-https://mrgmaw.github.io/enlaces/sd/sdnbc.m3u8
 
 #EXTINF:-1 tvg-chno="3.1" tvg-id="KSNV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="LV",KSNV NBC 3
 https://mrgmaw.github.io/enlaces/lv/lvnbc3.m3u8
